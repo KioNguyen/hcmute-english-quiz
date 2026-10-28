@@ -2,7 +2,13 @@
   "id": 1,
   "title": "Women's Suffrage in Britain and the US",
   "topic": "Lịch sử quyền bầu cử (đặc biệt của phụ nữ) ở Anh và Mỹ",
-  "source": { "images": ["IMG_9158", "IMG_9159", "IMG_9160"] },
+  "source": {
+    "images": [
+      "IMG_9158",
+      "IMG_9159",
+      "IMG_9160"
+    ]
+  },
   "numberedParagraphs": false,
   "paragraphs": [
     "Throughout Western civilization, women's suffrage and the progression of these rights have played a pivotal role in its history. The best example of how these rights have **progressed** is in two nations that share a common history, Great Britain and the United States of America. [A] In England, the suffrage movement began in 1866 when prominent women's rights reformers gathered over 1,500 signatures on a petition to Parliament appealing for the right to vote. [B] However, significant headway had not been made yet. Women's rights activists soon grew combative and thus made certain that suffrage was a central issue. [C] In America, due to the Civil War, women's suffrage was temporarily halted. However, from 1876, campaigns, referendums, and gatherings were organized and carried out. [D]",
@@ -29,7 +35,10 @@
       "needsReview": true,
       "explanation": "Đáp án C: đoạn 1 nói các nhà cải cách vì quyền phụ nữ thu thập hơn 1.500 chữ ký vào bản kiến nghị gửi Quốc hội \"appealing for the right to vote\" - tức là phụ nữ đòi quyền bầu cử. A sai vì bài không nhắc đến quyền biểu tình ôn hòa. B sai vì bài không nói nam giới cùng đòi quyền, cũng không nhắc quyền sở hữu tài sản. D sai vì bài không nói cần sự hợp tác để thúc đẩy quyền bầu cử. Trong ảnh có hai dấu khoanh (C và D), dấu ở D bị gạch chéo nên lấy C.",
       "evidence": [
-        { "paragraph": 1, "text": "In England, the suffrage movement began in 1866 when prominent women's rights reformers gathered over 1,500 signatures on a petition to Parliament appealing for the right to vote." }
+        {
+          "paragraph": 1,
+          "text": "In England, the suffrage movement began in 1866 when prominent women's rights reformers gathered over 1,500 signatures on a petition to Parliament appealing for the right to vote."
+        }
       ],
       "status": "ok"
     },
@@ -37,7 +46,10 @@
       "n": 2,
       "type": "vocabulary",
       "stem": "The word \"progressed\" in line 3 is closest in meaning to ____.",
-      "target": { "paragraph": 1, "text": "progressed" },
+      "target": {
+        "paragraph": 1,
+        "text": "progressed"
+      },
       "options": {
         "A": "withheld",
         "B": "withstood",
@@ -49,7 +61,10 @@
       "needsReview": false,
       "explanation": "Đáp án C: \"progressed\" = tiến triển, phát triển; \"advanced\" = tiến bộ, tiến lên - đồng nghĩa. Trong bài, câu nói ví dụ rõ nhất về cách các quyền này đã tiến triển là ở Anh và Mỹ. A \"withheld\" = giữ lại, từ chối cho; B \"withstood\" = chịu đựng, chống chọi được; D \"contained\" = chứa đựng, kiềm chế - đều không mang nghĩa phát triển.",
       "evidence": [
-        { "paragraph": 1, "text": "The best example of how these rights have progressed is in two nations that share a common history, Great Britain and the United States of America." }
+        {
+          "paragraph": 1,
+          "text": "The best example of how these rights have progressed is in two nations that share a common history, Great Britain and the United States of America."
+        }
       ],
       "status": "ok"
     },
@@ -68,8 +83,14 @@
       "needsReview": true,
       "explanation": "Đáp án A: đoạn 2 cho biết những người đấu tranh cho quyền bầu cử đứng ngoài giới chính trị, vận động đơn độc, và lập luận của họ chuyển sang nhấn mạnh đóng góp của phụ nữ vào việc xây dựng đất nước sau Thế chiến I - tức là phong trào cho họ cơ hội thay đổi vị thế trong xã hội (đáp án theo cách loại trừ, bài không nói thẳng). B sai vì đoạn 2 không nói phụ nữ đã giành được đầy đủ quyền bầu cử. C sai vì bài nói họ chủ yếu là người da trắng thuộc tầng lớp trung lưu, không phải tầng lớp lao động. D sai vì đoạn 2 không nói về chiến thuật ôn hòa (đoạn 1 còn nói họ trở nên \"combative\"). Trong ảnh có hai dấu khoanh (A và B), dấu ở B bị gạch chéo nên lấy A.",
       "evidence": [
-        { "paragraph": 2, "text": "They were predominately white and middle class in both countries, and their arguments reflected their class." },
-        { "paragraph": 2, "text": "the arguments for suffrage focused on equality, and then turned to women's contribution to nation building after World War I." }
+        {
+          "paragraph": 2,
+          "text": "They were predominately white and middle class in both countries, and their arguments reflected their class."
+        },
+        {
+          "paragraph": 2,
+          "text": "the arguments for suffrage focused on equality, and then turned to women's contribution to nation building after World War I."
+        }
       ],
       "status": "ok"
     },
@@ -88,7 +109,10 @@
       "needsReview": false,
       "explanation": "Đáp án D: đoạn 4 nói năm 1776 Tuyên ngôn Độc lập có một điều khoản bảo đảm quyền bầu cử cho nam giới da trắng sở hữu đất đai. A sai vì người Mỹ gốc Phi chỉ được bầu cử sau Nội chiến nhờ Tu chính án thứ 15 (đoạn 5). B sai vì bài không nhắc đến người 21 tuổi. C sai vì phụ nữ vẫn bị loại khỏi quyền bầu cử cho đến sau Thế chiến I.",
       "evidence": [
-        { "paragraph": 4, "text": "In 1776, a clause that guaranteed voting rights for white, male landowners was included in the United States Declaration of Independence." }
+        {
+          "paragraph": 4,
+          "text": "In 1776, a clause that guaranteed voting rights for white, male landowners was included in the United States Declaration of Independence."
+        }
       ],
       "status": "ok"
     },
@@ -96,7 +120,10 @@
       "n": 5,
       "type": "reference",
       "stem": "The word \"their\" in line 27 refers to ____.",
-      "target": { "paragraph": 4, "text": "English landowners asserted their right to vote" },
+      "target": {
+        "paragraph": 4,
+        "text": "English landowners asserted their right to vote"
+      },
       "options": {
         "A": "English",
         "B": "British royalty",
@@ -108,7 +135,10 @@
       "needsReview": true,
       "explanation": "Đáp án C: trong câu \"English landowners asserted their right to vote based on their personal wealth\", \"their\" thay cho chủ ngữ \"English landowners\" (các chủ đất người Anh). A sai vì \"English\" chỉ là tính từ bổ nghĩa, không phải danh từ được thay thế. B sai vì hoàng gia Anh không được nhắc trong câu này. D sai vì chủ đất Mỹ được nói đến ở câu sau, không phải chủ thể khẳng định quyền bầu cử ở đây. Trong ảnh có hai dấu khoanh (A và C), dấu ở A bị gạch chéo nên lấy C.",
       "evidence": [
-        { "paragraph": 4, "text": "English landowners asserted their right to vote based on their personal wealth." }
+        {
+          "paragraph": 4,
+          "text": "English landowners asserted their right to vote based on their personal wealth."
+        }
       ],
       "status": "ok"
     },
@@ -116,7 +146,10 @@
       "n": 6,
       "type": "purpose",
       "stem": "Why does the author mention that \"Aspects of this trend are clearly evident in America\"(line 28)?",
-      "target": { "paragraph": 4, "text": "Aspects of this trend are clearly evident In America." },
+      "target": {
+        "paragraph": 4,
+        "text": "Aspects of this trend are clearly evident In America."
+      },
       "options": {
         "A": "To argue that the right to vote only was exercised by the wealthy and elite",
         "B": "To provide evidence that voting was not a right only for those who owned land",
@@ -128,7 +161,10 @@
       "needsReview": true,
       "explanation": "Đáp án C: câu này nối xu hướng ở Anh (chủ đất khẳng định quyền bầu cử dựa trên tài sản) với nước Mỹ, rồi dẫn chứng điều khoản năm 1776 chỉ bảo đảm quyền bầu cử cho nam giới da trắng có đất - tức là quyền bầu cử chỉ dành cho đàn ông giàu có sở hữu tài sản. A sai vì tác giả không \"tranh luận\" về giới tinh hoa nói chung mà nêu cụ thể nam chủ đất. B sai vì nói ngược với bài: bầu cử là đặc quyền chỉ dành cho người có đất. D sai vì bài nói bầu cử không được coi là quyền (của công dân) mà là đặc quyền. Trong ảnh có hai dấu khoanh (B và C), dấu ở B bị gạch chéo nên lấy C.",
       "evidence": [
-        { "paragraph": 4, "text": "Voting was generally perceived not as a right, but as a privilege that only those who owned land could exercise." }
+        {
+          "paragraph": 4,
+          "text": "Voting was generally perceived not as a right, but as a privilege that only those who owned land could exercise."
+        }
       ],
       "status": "ok"
     },
@@ -136,7 +172,10 @@
       "n": 7,
       "type": "vocabulary",
       "stem": "The word \"stalled\" in line 40 is closest in meaning to ____.",
-      "target": { "paragraph": 5, "text": "stalled" },
+      "target": {
+        "paragraph": 5,
+        "text": "stalled"
+      },
       "options": {
         "A": "prevented",
         "B": "profited",
@@ -148,7 +187,10 @@
       "needsReview": true,
       "explanation": "Đáp án D: \"stalled\" = bị đình trệ, ngừng lại; \"halted\" = bị dừng lại - đồng nghĩa. Câu trong bài đối lập cải cách bầu cử bị đình trệ ở Anh với việc nó tăng tốc (accelerated) ở Mỹ. A \"prevented\" = ngăn chặn (tác động lên việc khác, không phải tự dừng lại); B \"profited\" = có lợi, thu lợi; C \"contributed\" = đóng góp. Trong ảnh có hai dấu khoanh (C và D), dấu ở C bị gạch chéo nên lấy D.",
       "evidence": [
-        { "paragraph": 5, "text": "While popular suffrage reform stalled in Great Britain, it accelerated in America during this period." }
+        {
+          "paragraph": 5,
+          "text": "While popular suffrage reform stalled in Great Britain, it accelerated in America during this period."
+        }
       ],
       "status": "ok"
     },
@@ -167,8 +209,14 @@
       "needsReview": true,
       "explanation": "Đáp án D: bài nói sự thất bại của phong trào Hiến chương (Chartist) năm 1850 khiến chỉ 1/5 nam giới trưởng thành ở Anh được bầu cử, và cải cách bầu cử ở Anh bị đình trệ (stalled) - suy ra tiến trình mở rộng quyền bầu cử chậm lại sau thất bại đó. A sai vì bài không nhắc đến người gốc Trung Đông. B sai vì bài không nói phong trào bị lực lượng thù địch đàn áp. C sai vì phong trào đòi mở rộng quyền bầu cử, và phụ nữ vẫn bị loại khỏi bầu cử. Trong ảnh có hai dấu khoanh (C và D), dấu ở C bị gạch chéo nên lấy D.",
       "evidence": [
-        { "paragraph": 5, "text": "The eventual failure of the Chartist movement in 1850 ensured that only one in every five adult males in England was entitled to vote." },
-        { "paragraph": 5, "text": "While popular suffrage reform stalled in Great Britain, it accelerated in America during this period." }
+        {
+          "paragraph": 5,
+          "text": "The eventual failure of the Chartist movement in 1850 ensured that only one in every five adult males in England was entitled to vote."
+        },
+        {
+          "paragraph": 5,
+          "text": "While popular suffrage reform stalled in Great Britain, it accelerated in America during this period."
+        }
       ],
       "status": "ok"
     },
@@ -176,7 +224,10 @@
       "n": 9,
       "type": "simplification",
       "stem": "Which of the following best expresses the essential information in the highlighted sentence? Incorrect answer choices change the meaning in important ways or leave out essential information.",
-      "target": { "paragraph": 7, "text": "In the wake of the American Civil War and the first World War, suffrage rights were extended to African-Americans, women, and individuals possessing no property, which boosted their status from lower class citizens to a higher level." },
+      "target": {
+        "paragraph": 7,
+        "text": "In the wake of the American Civil War and the first World War, suffrage rights were extended to African-Americans, women, and individuals possessing no property, which boosted their status from lower class citizens to a higher level."
+      },
       "options": {
         "A": "In the period following the Civil War and World War I, voting rights were extended to most minorities.",
         "B": "No one could vote in Great Britain unless they owned land, were white, and could read.",
@@ -188,7 +239,10 @@
       "needsReview": true,
       "explanation": "Đáp án A: câu được highlight nói sau Nội chiến Mỹ và Thế chiến I, quyền bầu cử được mở rộng cho người Mỹ gốc Phi, phụ nữ và người không có tài sản - A tóm gọn thành \"quyền bầu cử được mở rộng cho hầu hết các nhóm thiểu số/yếu thế\" trong giai đoạn sau hai cuộc chiến. B sai vì nói về điều kiện bầu cử ở Anh (và thêm ý biết đọc), không có trong câu. C sai vì ngược nghĩa: chiến tranh dẫn đến mở rộng chứ không phải tước quyền bầu cử của người da màu. D sai vì câu nói về sự mở rộng quyền, không nói bầu cử luôn là đặc quyền. Trong ảnh có hai dấu khoanh (A và C), dấu ở C bị gạch chéo nên lấy A.",
       "evidence": [
-        { "paragraph": 7, "text": "In the wake of the American Civil War and the first World War, suffrage rights were extended to African-Americans, women, and individuals possessing no property" }
+        {
+          "paragraph": 7,
+          "text": "In the wake of the American Civil War and the first World War, suffrage rights were extended to African-Americans, women, and individuals possessing no property"
+        }
       ],
       "status": "ok"
     },
@@ -205,14 +259,23 @@
       "answer": "C",
       "answerSource": "handwritten-corrected",
       "needsReview": true,
-      "explanation": "Đề không in câu cần chèn nên không thể kiểm chứng đáp án. Đáp án C ([C]) lấy theo dấu khoanh tay: vị trí [C] nằm giữa phần nói về phong trào ở Anh (các nhà hoạt động trở nên quyết liệt, đưa quyền bầu cử thành vấn đề trung tâm) và phần nói về nước Mỹ. Các vị trí [A] (trước khi kể về Anh), [B] (sau bản kiến nghị năm 1866) và [D] (cuối đoạn, sau phần về Mỹ) chỉ có thể đánh giá khi biết câu cần chèn. Trong ảnh có hai dấu khoanh (A và C), dấu ở A bị gạch chéo nên lấy C.",
-      "evidence": [],
-      "status": "incomplete"
+      "explanation": "Đáp án C ([C]) theo dấu khoanh tay (trong ảnh A bị gạch, khoanh lại C). Vị trí [C] là điểm chuyển ý của đoạn 1: phía trước là phần kết về phong trào ở Anh (các nhà hoạt động trở nên quyết liệt và đưa quyền bầu cử thành vấn đề trung tâm), phía sau là phần mở đầu về nước Mỹ. Một câu tổng kết diễn biến ở Anh hoặc chuyển tiếp sang Mỹ sẽ hợp nhất ở đây. [A] nằm trước khi kể về Anh, [B] chen giữa bản kiến nghị năm 1866 và câu 'However, significant headway had not been made yet', còn [D] ở cuối đoạn sau phần về Mỹ. Lưu ý: đề không in câu cần chèn, hãy đối chiếu với đề gốc nếu có.",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "text": "Women's rights activists soon grew combative and thus made certain that suffrage was a central issue."
+        },
+        {
+          "paragraph": 1,
+          "text": "In America, due to the Civil War, women's suffrage was temporarily halted."
+        }
+      ],
+      "status": "ok"
     }
   ],
   "notes": [
     "Ảnh chỉ thể hiện 7 đoạn văn (Throughout..., The influence..., Feudalism..., English landowners..., By 1786..., In the aftermath..., Initially...); câu \"Today, suffrage, in its universal form...\" nằm cùng đoạn cuối, không phải đoạn riêng.",
-    "Câu 10 (insert): đề KHÔNG in câu cần chèn, nên status \"incomplete\"; đáp án C lấy theo dấu khoanh tay (A bị gạch).",
+    "Câu 10 (insert): đề không in câu cần chèn; vị trí [A]-[D] có trong đoạn 1. Đáp án C lấy theo dấu khoanh tay (A bị gạch).",
     "Đoạn 4 trong đề in \"clearly evident In America\" (chữ In viết hoa) - giữ nguyên văn; stem câu 6 in \"evident in America\".",
     "Đề có một số thông tin lịch sử không chính xác (vd. \"1991 amendment\" - đúng ra là Tu chính án thứ 19 năm 1920; Tuyên ngôn Độc lập 1776 không có điều khoản về quyền bầu cử; Hiến pháp Mỹ chưa có/chưa sửa vào 1786) - giữ nguyên văn theo đề.",
     "Câu 1, 3, 5, 6, 7, 8, 9, 10: ảnh có hai dấu khoanh, một bị gạch chéo -> lấy dấu không bị gạch (handwritten-corrected).",

@@ -30,6 +30,6 @@ Push lên GitHub, bật GitHub Pages (branch `main`, folder `/`).
 
 - Đáp án lấy theo **khoanh tay trong ảnh**. Câu có cờ "cần kiểm tra" là câu có 2 dấu khoanh (lấy dấu không bị gạch) hoặc không khoanh (tự chọn theo bài):
   P1 Q1, Q3, Q5–Q10 · P2 Q3, Q9 · P4 Q1 · P8 Q2 (không khoanh), Q5.
-- P1 Q10 (chèn câu) bị **thiếu câu cần chèn** trong đề → hiển thị nhưng không tính điểm.
+- P1 Q10 (chèn câu): đề không in câu cần chèn; vị trí [A]–[D] có trong đoạn 1, đáp án C theo khoanh tay.
 - Text P5, P6, P13, P14 được nhận dạng bằng OCR (`scripts/ocr.swift`, Apple Vision) và đã rà lại; các passage khác chép tay từ ảnh.
 - `scripts/convert-images.sh` tạo bản JPG của ảnh gốc vào `images/jpg/` để đối chiếu.
