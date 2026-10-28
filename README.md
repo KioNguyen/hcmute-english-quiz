@@ -16,6 +16,8 @@ python3 -m http.server 8080
 - `index.html` — danh sách passage + tiến độ
 - `passage.html?id=N&mode=practice|test` — trang làm bài
 - `exam.html` — thi thử: 4 passage ngẫu nhiên, xáo câu hỏi + đáp án, 60 phút, tự nộp khi hết giờ, lưu lịch sử
+- `writing.html` — luyện viết: danh sách đề; `writing.html?id=N` — viết bài có bấm giờ, đếm từ, tự lưu nháp; nộp xong có kiểm tra tự động (số từ, từ nối, viết tắt, lặp từ), checklist tự chấm, dàn ý, cụm từ và bài mẫu
+- `data/writing.json` — đề viết: `types` (essay / discussion / email: số từ, thời gian, checklist, cụm từ) và `tasks` (đề, dàn ý, từ vựng, bài mẫu, phân tích bài mẫu)
 - `data/passages/NN.json` — nội dung đề (xem `docs/DATA-SCHEMA.md`)
 - `data/dictionary.json` — từ điển EN→VI offline
 - `scripts/validate.mjs` — kiểm tra dữ liệu (`node scripts/validate.mjs --dict`)

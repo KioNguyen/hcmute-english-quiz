@@ -31,6 +31,8 @@ export function clearProgress() {
   localStorage.removeItem(PROGRESS_KEY);
   localStorage.removeItem("eq:exam-current");
   localStorage.removeItem("eq:exam-history");
+  localStorage.removeItem("eq:writing");
+  localStorage.removeItem("eq:writing-history");
 }
 
 export function getDictCache() { return read(DICT_CACHE_KEY, {}); }
@@ -54,4 +56,29 @@ export const clearExam = () => localStorage.removeItem(EXAM_KEY);
 export const getExamHistory = () => read(EXAM_HISTORY_KEY, []);
 export function addExamHistory(entry) {
   write(EXAM_HISTORY_KEY, [entry, ...getExamHistory()].slice(0, 20));
+}
+
+// ---- Luyện viết ----
+const WRITING_KEY = "eq:writing";
+const WRITING_HISTORY_KEY = "eq:writing-history";
+
+export const getWriting = () => read(WRITING_KEY, {});
+export const getWritingState = (id) => getWriting()[id] ?? null;
+export function saveWritingState(id, state) {
+  const all = getWriting();
+  all[id] = state;
+  write(WRITING_KEY, all);
+}
+export function clearWritingState(id) {
+  const all = getWriting();
+  delete all[id];
+  write(WRITING_KEY, all);
+}
+
+export const getWritingHistory = () => read(WRITING_HISTORY_KEY, []);
+export function addWritingHistory(entry) {
+  write(WRITING_HISTORY_KEY, [entry, ...getWritingHistory()].slice(0, 50));
+}
+export function updateWritingHistory(id, submittedAt, patch) {
+  write(WRITING_HISTORY_KEY, getWritingHistory().map((h) => (h.id === id && h.submittedAt === submittedAt ? { ...h, ...patch } : h)));
 }

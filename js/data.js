@@ -13,3 +13,4 @@ async function getJSON(url) {
 export const loadIndex = () => getJSON("data/index.json");
 export const loadPassage = (id) => getJSON(`data/passages/${String(id).padStart(2, "0")}.json`);
 export const loadDictionary = () => getJSON("data/dictionary.json");
+export const loadWriting = () => getJSON("data/writing.json");

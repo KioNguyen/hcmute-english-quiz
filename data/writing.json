@@ -1,0 +1,418 @@
+{
+  "types": {
+    "essay": {
+      "label": "Bài luận quan điểm",
+      "en": "Independent Essay",
+      "minWords": 300,
+      "minutes": 30,
+      "howto": "Đọc đề, chọn rõ một quan điểm (đồng ý / không đồng ý). Dành ~5 phút lập dàn ý, ~20 phút viết, ~5 phút đọc lại sửa lỗi. Bố cục chuẩn: mở bài – 2 hoặc 3 đoạn thân bài (mỗi đoạn 1 lý do + ví dụ) – kết bài.",
+      "checklist": [
+        { "group": "Nội dung", "items": [
+          "Trả lời đúng câu hỏi của đề, nêu rõ quan điểm ngay ở mở bài",
+          "Mỗi đoạn thân bài có một lý do chính rõ ràng",
+          "Mỗi lý do có ví dụ cụ thể (trải nghiệm cá nhân, số liệu, sự kiện), không chung chung",
+          "Không lạc đề, không lặp lại cùng một ý ở nhiều đoạn"
+        ]},
+        { "group": "Bố cục", "items": [
+          "Có đủ mở bài – thân bài (2–3 đoạn) – kết bài, xuống dòng rõ ràng",
+          "Mỗi đoạn thân bài mở đầu bằng câu chủ đề (topic sentence)",
+          "Kết bài nhắc lại quan điểm và tóm tắt lý do, không thêm ý mới"
+        ]},
+        { "group": "Liên kết", "items": [
+          "Dùng từ nối giữa các đoạn (First, Second, Moreover, Finally…)",
+          "Dùng từ nối trong đoạn để nối các câu (because, however, for example, as a result…)",
+          "Dùng đại từ / từ đồng nghĩa để tránh lặp một từ quá nhiều lần"
+        ]},
+        { "group": "Ngôn ngữ", "items": [
+          "Đủ số từ tối thiểu",
+          "Chia thì và chia động từ đúng (số ít / số nhiều, quá khứ / hiện tại)",
+          "Có câu phức (although, which, who, if, because…), không chỉ toàn câu đơn",
+          "Viết lại ý của đề bằng từ của mình (paraphrase), không chép nguyên đề",
+          "Giọng văn trang trọng: không viết tắt (don't, can't), không dùng tiếng lóng",
+          "Đã đọc lại để sửa chính tả, dấu câu, viết hoa"
+        ]}
+      ],
+      "phrases": [
+        { "en": "In my opinion, … / I firmly believe that …", "vi": "Theo tôi, … / Tôi tin chắc rằng …" },
+        { "en": "Some people argue that …; however, I …", "vi": "Một số người cho rằng …; tuy nhiên tôi …" },
+        { "en": "First of all, … / To begin with, …", "vi": "Trước hết, …" },
+        { "en": "Secondly, … / In addition, … / Moreover, …", "vi": "Thứ hai, … / Ngoài ra, … / Hơn nữa, …" },
+        { "en": "For example, … / For instance, … / Take … as an example.", "vi": "Ví dụ, … / Lấy … làm ví dụ." },
+        { "en": "As a result, … / Therefore, … / This means that …", "vi": "Kết quả là, … / Vì vậy, … / Điều này có nghĩa là …" },
+        { "en": "In contrast, … / On the other hand, …", "vi": "Ngược lại, … / Mặt khác, …" },
+        { "en": "Admittedly, … Nevertheless, …", "vi": "Phải thừa nhận rằng … Tuy vậy, … (nhượng bộ rồi phản bác)" },
+        { "en": "In conclusion, … / To sum up, …", "vi": "Tóm lại, …" }
+      ]
+    },
+    "discussion": {
+      "label": "Thảo luận học thuật",
+      "en": "Academic Discussion",
+      "minWords": 100,
+      "minutes": 10,
+      "howto": "Đọc câu hỏi của giáo sư và ý kiến của hai bạn sinh viên. Viết một đoạn ~100–150 từ: nêu quan điểm ngay câu đầu, đưa ra lý do + ví dụ, nhắc tới ý của một bạn và đóng góp một ý MỚI (không lặp lại ý các bạn đã nói).",
+      "checklist": [
+        { "group": "Nội dung", "items": [
+          "Trả lời trực tiếp câu hỏi của giáo sư ngay câu đầu tiên",
+          "Đưa ra ít nhất một lý do kèm giải thích hoặc ví dụ cụ thể",
+          "Có ý mới của riêng mình, không chỉ lặp lại ý của hai bạn",
+          "Nhắc tới ý của một bạn (đồng ý hoặc phản bác) bằng tên"
+        ]},
+        { "group": "Liên kết", "items": [
+          "Các câu nối với nhau bằng từ nối (because, for example, however, moreover…)",
+          "Có câu kết ngắn gọn nhắc lại quan điểm"
+        ]},
+        { "group": "Ngôn ngữ", "items": [
+          "Đủ số từ tối thiểu",
+          "Chia thì và chia động từ đúng",
+          "Có câu phức, từ vựng đa dạng",
+          "Đã đọc lại để sửa chính tả, dấu câu"
+        ]}
+      ],
+      "phrases": [
+        { "en": "I agree with [name] that …, but I would like to add …", "vi": "Tôi đồng ý với [tên] rằng …, nhưng muốn bổ sung …" },
+        { "en": "I side with [name], although for a different reason.", "vi": "Tôi đứng về phía [tên], dù với lý do khác." },
+        { "en": "[Name] has a point that …; however, …", "vi": "[Tên] có lý khi cho rằng …; tuy nhiên …" },
+        { "en": "I understand [name]'s concern that …, but …", "vi": "Tôi hiểu lo ngại của [tên] rằng …, nhưng …" },
+        { "en": "In my view, … / From my perspective, …", "vi": "Theo quan điểm của tôi, …" },
+        { "en": "In my experience, …", "vi": "Theo trải nghiệm của tôi, …" },
+        { "en": "For these reasons, I believe …", "vi": "Vì những lý do này, tôi tin rằng …" }
+      ]
+    },
+    "email": {
+      "label": "Viết email",
+      "en": "Write an Email",
+      "minWords": 100,
+      "minutes": 7,
+      "howto": "Đọc kỹ tình huống và các ý bắt buộc (thường là 3 gạch đầu dòng). Mỗi ý viết thành một đoạn ngắn. Chú ý lời chào, câu nêu mục đích, giọng lịch sự và lời kết phù hợp với người nhận.",
+      "checklist": [
+        { "group": "Nội dung", "items": [
+          "Trả lời ĐỦ tất cả các ý đề yêu cầu",
+          "Câu đầu tiên nêu rõ mục đích viết email",
+          "Thông tin cụ thể (thời gian, địa điểm, lý do), không mơ hồ"
+        ]},
+        { "group": "Hình thức", "items": [
+          "Lời chào phù hợp (Dear Dr. …, / Dear Sir or Madam,)",
+          "Mỗi ý một đoạn ngắn, xuống dòng rõ ràng",
+          "Có lời cảm ơn, câu kết và ký tên (Best regards, / Yours faithfully,)"
+        ]},
+        { "group": "Ngôn ngữ", "items": [
+          "Giọng lịch sự, trang trọng (I would like to…, Could you…, I would be grateful if…)",
+          "Đủ số từ tối thiểu",
+          "Chia thì và chia động từ đúng",
+          "Đã đọc lại để sửa chính tả, dấu câu"
+        ]}
+      ],
+      "phrases": [
+        { "en": "I am writing to ask / complain about / inform you that …", "vi": "Tôi viết thư này để hỏi / phàn nàn về / thông báo rằng …" },
+        { "en": "Unfortunately, I will not be able to … because …", "vi": "Rất tiếc, tôi sẽ không thể … vì …" },
+        { "en": "Would it be possible to …? / Could you please …?", "vi": "Liệu có thể … không? / Thầy/cô vui lòng … được không?" },
+        { "en": "I would be grateful if you could …", "vi": "Tôi sẽ rất biết ơn nếu …" },
+        { "en": "I would also appreciate your advice on …", "vi": "Tôi cũng mong nhận được lời khuyên về …" },
+        { "en": "Thank you for your understanding / attention to this matter.", "vi": "Cảm ơn sự thông cảm / sự quan tâm của …" },
+        { "en": "I look forward to hearing from you.", "vi": "Mong sớm nhận được phản hồi." },
+        { "en": "Dear Sir or Madam → Yours faithfully; Dear Dr. Smith → Best regards / Yours sincerely", "vi": "Không biết tên người nhận → Yours faithfully; biết tên → Best regards / Yours sincerely" }
+      ]
+    }
+  },
+  "tasks": [
+    {
+      "id": 1,
+      "type": "essay",
+      "title": "Children and televised sports",
+      "topic": "Trẻ em xem thể thao trên TV: lợi hay hại?",
+      "relatedPassage": 8,
+      "prompt": "Do you agree or disagree with the following statement?\n\nWatching sports on television does more harm than good to children.\n\nUse specific reasons and examples to support your answer.",
+      "outline": [
+        { "part": "Mở bài", "vi": "Giới thiệu bối cảnh (phụ huynh lo trẻ xem TV) → nêu quan điểm: KHÔNG đồng ý, nếu xem có chừng mực thì có lợi → liệt kê 3 lý do." },
+        { "part": "Thân bài 1", "vi": "Truyền cảm hứng vận động: trẻ bắt chước cầu thủ yêu thích. Ví dụ: em trai tập bóng đá cả mùa hè sau World Cup." },
+        { "part": "Thân bài 2", "vi": "Dạy giá trị: kỷ luật, fair play, tinh thần đồng đội, thắng không kiêu bại không nản." },
+        { "part": "Thân bài 3", "vi": "Gắn kết gia đình: cả nhà cùng xem, cổ vũ, bàn luận." },
+        { "part": "Kết bài", "vi": "Nhượng bộ (xem quá nhiều thì có hại → cần giới hạn) → khẳng định lại quan điểm và 3 lý do." }
+      ],
+      "vocab": [
+        { "en": "in moderation", "vi": "có chừng mực" },
+        { "en": "inspire / motivate someone to do something", "vi": "truyền cảm hứng / thúc đẩy ai làm gì" },
+        { "en": "physical activity", "vi": "hoạt động thể chất" },
+        { "en": "a sedentary / inactive lifestyle", "vi": "lối sống ít vận động" },
+        { "en": "fair play, teamwork, discipline", "vi": "chơi đẹp, tinh thần đồng đội, kỷ luật" },
+        { "en": "win with modesty and lose with dignity", "vi": "thắng không kiêu, thua giữ phẩm giá" },
+        { "en": "strengthen family relationships", "vi": "gắn kết quan hệ gia đình" }
+      ],
+      "sample": [
+        "Many parents worry when their children spend hours in front of the television, especially during major sporting events. Some people argue that watching sports on TV does more harm than good to young viewers. In my opinion, however, this view is too negative. When it is done in moderation, watching sports can inspire children to be active, teach them valuable lessons about teamwork, and bring families closer together.",
+        "First of all, televised sports can motivate children to take part in physical activity. Young viewers often want to copy the players they admire. For example, after watching the World Cup, my younger brother and his friends practiced football in the park every afternoon for the whole summer. Without the excitement created by the broadcast, they probably would have stayed indoors playing video games. In this way, sports programs can act as a starting point for a healthier lifestyle.",
+        "Secondly, sports broadcasts show children important values such as discipline, fair play, and cooperation. Commentators frequently explain how athletes train for years to reach the top and how a team succeeds only when every member does his or her job. These stories are often more memorable than a lecture from a teacher or a parent. Children also learn how to win with modesty and lose with dignity by observing how professional players behave after a match.",
+        "Finally, watching a game together can strengthen family relationships. In many homes, a big match is one of the few occasions when parents and children sit in the same room and share the same emotions. They cheer, discuss the players' decisions, and celebrate together, which creates happy memories.",
+        "Admittedly, spending too much time in front of a screen can lead to an inactive lifestyle, so parents should set reasonable limits. Nevertheless, I firmly believe that watching sports on television is, on the whole, beneficial for children because it encourages exercise, teaches positive values, and brings families together."
+      ],
+      "sampleNotes": [
+        "Mở bài paraphrase đề (\"does more harm than good to young viewers\") rồi nêu quan điểm rõ ràng và \"báo trước\" 3 lý do — người chấm biết ngay bài sẽ đi theo hướng nào.",
+        "Mỗi đoạn thân bài mở bằng câu chủ đề có từ nối (First of all / Secondly / Finally), sau đó giải thích và đưa ví dụ cụ thể (em trai tập bóng sau World Cup).",
+        "Câu điều kiện loại 3 \"they probably would have stayed indoors\" và mệnh đề quan hệ \"which creates happy memories\" là các cấu trúc câu phức giúp tăng điểm ngữ pháp.",
+        "Kết bài dùng cấu trúc nhượng bộ \"Admittedly …, Nevertheless …\": thừa nhận mặt trái nhưng vẫn giữ quan điểm — cho thấy lập luận cân bằng."
+      ]
+    },
+    {
+      "id": 2,
+      "type": "essay",
+      "title": "Hard work or natural talent?",
+      "topic": "Thành công nhờ chăm chỉ hay năng khiếu bẩm sinh?",
+      "relatedPassage": 6,
+      "prompt": "Do you agree or disagree with the following statement?\n\nSuccess in life depends more on hard work than on natural talent.\n\nUse specific reasons and examples to support your answer.",
+      "outline": [
+        { "part": "Mở bài", "vi": "Người ta hay nghĩ người nổi tiếng sinh ra đã giỏi → thừa nhận năng khiếu có vai trò → nêu quan điểm: ĐỒNG Ý, chăm chỉ quan trọng hơn." },
+        { "part": "Thân bài 1", "vi": "Kỹ năng phát triển nhờ luyện tập đều đặn. Ví dụ bản thân: từ học sinh yếu tiếng Anh → đạt B1 nhờ học mỗi ngày." },
+        { "part": "Thân bài 2", "vi": "Chăm chỉ giúp vượt qua thất bại; người chỉ dựa vào năng khiếu dễ bỏ cuộc. Ví dụ: Edison." },
+        { "part": "Thân bài 3", "vi": "Năng khiếu không có nỗ lực thì bị lãng phí (nhiều trẻ thần đồng không thành công khi lớn)." },
+        { "part": "Kết bài", "vi": "Năng khiếu chỉ là lợi thế ban đầu; nỗ lực biến tiềm năng thành thành tựu." }
+      ],
+      "vocab": [
+        { "en": "natural talent / gift", "vi": "năng khiếu bẩm sinh" },
+        { "en": "consistent practice", "vi": "luyện tập đều đặn" },
+        { "en": "overcome failure / a setback", "vi": "vượt qua thất bại / trở ngại" },
+        { "en": "give up", "vi": "bỏ cuộc" },
+        { "en": "be overtaken by", "vi": "bị vượt mặt bởi" },
+        { "en": "turn potential into achievement", "vi": "biến tiềm năng thành thành tựu" },
+        { "en": "resilience", "vi": "khả năng phục hồi, sự kiên cường" }
+      ],
+      "sample": [
+        "People often look at famous musicians, athletes, or scientists and assume that they were simply born with special gifts. While natural talent certainly plays a role, I strongly agree that success in life depends more on hard work. Effort allows ordinary people to develop their abilities, helps them overcome failure, and determines whether talent is ever used at all.",
+        "To begin with, most skills can be developed through consistent practice. Studies of experts in fields such as chess and music have shown that top performers usually spend thousands of hours practicing before they become excellent. My own experience supports this. When I started learning English, I was one of the weakest students in my class. However, by reading a short article and learning ten new words every day, I passed the B1 test within two years, ahead of several classmates who had found languages easy at first.",
+        "In addition, hard work teaches people how to deal with failure, which is unavoidable on the road to success. Talented people who have always succeeded easily may give up the first time they face a real difficulty. In contrast, those who are used to working hard know that progress takes time, so they keep trying after a setback. Thomas Edison, for instance, tested thousands of materials before he produced a practical light bulb.",
+        "Moreover, talent without effort is wasted. Many gifted children never achieve anything remarkable as adults because they rely on their natural ability and stop developing it. A brilliant student who never studies will eventually be overtaken by a less gifted but more determined classmate.",
+        "In conclusion, although natural talent can give someone an advantage at the beginning, it is hard work that turns potential into real achievement. Effort builds skills, creates resilience, and makes the most of whatever abilities a person has. Therefore, I believe that success depends far more on hard work than on talent."
+      ],
+      "sampleNotes": [
+        "Mở bài dùng \"While natural talent certainly plays a role, …\" — vừa thừa nhận phía bên kia vừa nêu quan điểm, rất tự nhiên.",
+        "Thân bài 1 kết hợp hai loại bằng chứng: nghiên cứu chung (chess, music) và trải nghiệm cá nhân cụ thể (học 10 từ mỗi ngày, đạt B1 trong 2 năm).",
+        "Câu nhấn mạnh \"it is hard work that turns potential into real achievement\" (cleft sentence) là cấu trúc nâng cao, dùng tốt ở kết bài.",
+        "Chú ý từ nối đa dạng: To begin with / In addition / Moreover / In contrast / for instance / Therefore — không lặp lại cùng một từ."
+      ]
+    },
+    {
+      "id": 3,
+      "type": "essay",
+      "title": "Who should protect the environment?",
+      "topic": "Bảo vệ môi trường: trách nhiệm của chính phủ hay cá nhân?",
+      "relatedPassage": 4,
+      "prompt": "Do you agree or disagree with the following statement?\n\nProtecting the environment is the responsibility of governments, not individuals.\n\nUse specific reasons and examples to support your answer.",
+      "outline": [
+        { "part": "Mở bài", "vi": "Nêu các vấn đề môi trường → ý kiến trái chiều → KHÔNG đồng ý: chính phủ quan trọng nhưng cá nhân cũng có trách nhiệm → 3 lý do." },
+        { "part": "Thân bài 1", "vi": "Hành động nhỏ của hàng triệu người cộng lại rất lớn. Ví dụ tính toán tiết kiệm nước trong thành phố 10 triệu dân." },
+        { "part": "Thân bài 2", "vi": "Cá nhân tạo áp lực lên chính phủ và doanh nghiệp (lá phiếu, lựa chọn mua hàng)." },
+        { "part": "Thân bài 3", "vi": "Hành vi cá nhân lan toả, đặc biệt sang con cái." },
+        { "part": "Kết bài", "vi": "Cả hai cùng hành động mới hiệu quả." }
+      ],
+      "vocab": [
+        { "en": "water shortage / fresh water", "vi": "thiếu nước / nước ngọt" },
+        { "en": "combined impact", "vi": "tác động cộng dồn" },
+        { "en": "add up to", "vi": "cộng lại thành" },
+        { "en": "put pressure on", "vi": "gây áp lực lên" },
+        { "en": "excessive packaging", "vi": "bao bì quá mức" },
+        { "en": "pass stricter laws", "vi": "thông qua luật nghiêm ngặt hơn" },
+        { "en": "set an example for", "vi": "làm gương cho" }
+      ],
+      "sample": [
+        "Pollution, water shortages, and climate change are among the most serious problems facing the world today. Some people claim that only governments have the power and resources to protect the environment, so ordinary citizens do not need to worry about it. I disagree with this opinion. Although governments play a key role, individuals also have an important responsibility, because their daily choices have a large combined impact, they can influence government decisions, and they can set an example for others.",
+        "First, the small actions of millions of people add up to a significant effect. Take fresh water as an example. If every family in a city of ten million people saved just twenty liters of water a day by taking shorter showers and fixing leaking taps, the city would save a huge amount of water every single day. No government program could achieve such results without the cooperation of its citizens.",
+        "Second, individuals can put pressure on governments and businesses. Citizens vote for their leaders, and consumers decide which products to buy. When people refuse to buy goods with excessive plastic packaging, companies are forced to change. Similarly, when voters show that they care about clean air, politicians are more likely to pass stricter environmental laws. In other words, government action often begins with individual concern.",
+        "Third, personal behavior influences the people around us. Children learn habits by watching their parents. If a mother always carries a reusable bag and sorts her household waste, her children are likely to do the same when they grow up. In this way, one person's responsible behavior can spread to the next generation.",
+        "In conclusion, it would be a mistake to leave environmental protection to governments alone. Governments must make laws and invest in clean technology, but individuals must also save resources, demand change, and set a good example. Only when both work together can we protect the planet effectively."
+      ],
+      "sampleNotes": [
+        "Câu luận đề (thesis) ở cuối mở bài nêu đủ 3 lý do theo đúng thứ tự của 3 đoạn thân bài — giúp bài rất mạch lạc.",
+        "\"Take fresh water as an example.\" + câu điều kiện loại 2 (If every family … saved …, the city would save …) là cách đưa ví dụ giả định thuyết phục.",
+        "\"In other words, …\" dùng để chốt lại ý của đoạn — kỹ thuật tốt để kết thúc một đoạn thân bài.",
+        "Câu cuối dùng đảo ngữ \"Only when both work together can we …\" — cấu trúc nâng cao, gây ấn tượng."
+      ]
+    },
+    {
+      "id": 4,
+      "type": "essay",
+      "title": "Space exploration or problems on Earth?",
+      "topic": "Chi tiền cho khám phá vũ trụ hay giải quyết vấn đề trên Trái Đất?",
+      "relatedPassage": 9,
+      "prompt": "Do you agree or disagree with the following statement?\n\nGovernments should spend less money on space exploration and more money on solving problems here on Earth.\n\nUse specific reasons and examples to support your answer.",
+      "outline": [
+        { "part": "Mở bài", "vi": "Đối lập: các nước chi hàng tỷ đô cho tên lửa ↔ hàng triệu người thiếu nước sạch, y tế → ĐỒNG Ý." },
+        { "part": "Thân bài 1", "vi": "Vấn đề trên Trái Đất cấp bách, vũ trụ có thể chờ. Tiền một sứ mệnh = hàng trăm bệnh viện." },
+        { "part": "Thân bài 2", "vi": "Đầu tư cho Trái Đất có kết quả chắc chắn; dự án vũ trụ rủi ro (nổ khi phóng, hỏng khi trở về). Ví dụ nhà máy xử lý nước ở quê." },
+        { "part": "Thân bài 3", "vi": "Phản biện ý kiến ngược lại (vũ trụ tạo ra GPS, dự báo thời tiết) → có thể nghiên cứu trực tiếp; tư nhân đã đầu tư." },
+        { "part": "Kết bài", "vi": "Ngân sách có hạn → ưu tiên nhu cầu cấp bách của con người." }
+      ],
+      "vocab": [
+        { "en": "space exploration", "vi": "khám phá vũ trụ" },
+        { "en": "liftoff / reentry", "vi": "lúc phóng / lúc quay lại khí quyển" },
+        { "en": "urgent / pressing needs", "vi": "nhu cầu cấp bách" },
+        { "en": "well-being", "vi": "phúc lợi, sức khoẻ và hạnh phúc" },
+        { "en": "give priority to", "vi": "ưu tiên cho" },
+        { "en": "limited budget", "vi": "ngân sách có hạn" },
+        { "en": "water treatment plant", "vi": "nhà máy xử lý nước" }
+      ],
+      "sample": [
+        "Every year, countries such as the United States, China, and India spend billions of dollars on rockets, satellites, and missions to the Moon and Mars. At the same time, millions of people around the world still lack clean water, basic health care, and a good education. For this reason, I agree that governments should spend less on space exploration and more on solving problems on Earth.",
+        "The main reason is that problems on Earth are urgent, while space exploration can wait. People who are hungry or sick need help now. The money needed for a single mission to Mars could be used to build hundreds of hospitals or provide clean drinking water to entire regions. In my view, a government's first duty is to protect the lives and well-being of its own citizens, and a trip to another planet does not directly improve anyone's daily life.",
+        "Furthermore, investing in Earth's problems brings more certain results. Space projects are extremely risky: a rocket can explode during liftoff, or a spacecraft can be damaged during reentry, and years of work and money can be lost in seconds. In contrast, investments in education, public transport, or renewable energy produce clear benefits that can be measured. For example, my hometown recently built a new water treatment plant, and the number of families suffering from stomach diseases dropped noticeably within a year.",
+        "Some people argue that space research has led to useful inventions, such as satellite navigation and better weather forecasting. This is true, but such technologies can also be developed through research programs that focus directly on Earth. Moreover, private companies are now willing to invest in space, so governments do not need to pay for everything.",
+        "In conclusion, although space exploration is exciting and has produced some benefits, governments have limited budgets and should give priority to the pressing needs of people on Earth, such as health, education, and the environment."
+      ],
+      "sampleNotes": [
+        "Mở bài dùng phép đối lập (\"At the same time, millions of people …\") để dẫn vào quan điểm một cách tự nhiên.",
+        "Đoạn 4 là đoạn phản biện (counter-argument): nêu ý kiến ngược lại → \"This is true, but …\" → bác bỏ. Thêm đoạn này giúp bài thuyết phục hơn.",
+        "Dấu hai chấm trong \"Space projects are extremely risky: a rocket can …\" dùng để giải thích chi tiết cho ý vừa nêu.",
+        "Từ vựng liftoff / reentry lấy từ Passage 9 — tận dụng từ đã học khi đọc là cách tốt để mở rộng vốn từ viết."
+      ]
+    },
+    {
+      "id": 5,
+      "type": "discussion",
+      "title": "Should arts classes be required?",
+      "topic": "Có nên bắt buộc học âm nhạc / mỹ thuật ở trường?",
+      "relatedPassage": 13,
+      "prompt": "Your professor is teaching a class on education. Write a post responding to the professor's question.\n\nIn your response, you should:\n• express and support your opinion\n• make a contribution to the discussion in your own words\n\nAn effective response will contain at least 100 words.",
+      "discussion": {
+        "professor": { "name": "Dr. Lee", "text": "Many schools have reduced music and art classes in order to spend more time on subjects like math, science, and languages. Some people think this is a reasonable decision, while others believe arts education is essential. Should schools require all students to take music or art classes? Why or why not?" },
+        "students": [
+          { "name": "Andrew", "text": "I don't think schools should require arts classes. Not every student is interested in music or painting, and the time could be used to prepare for important exams. Students who love the arts can join clubs or take private lessons outside school." },
+          { "name": "Claire", "text": "I disagree with Andrew. Music and art help students relax and express their feelings. In my experience, the time I spent in the school orchestra made me more confident and helped me make friends." }
+        ]
+      },
+      "outline": [
+        { "part": "Câu 1", "vi": "Nêu quan điểm + nhắc tên bạn: đồng ý với Claire nhưng đưa lý do KHÁC." },
+        { "part": "Lý do mới", "vi": "Nghệ thuật phát triển sáng tạo và kỹ năng giải quyết vấn đề (không có đáp án duy nhất) — nhà tuyển dụng đánh giá cao." },
+        { "part": "Phản bác", "vi": "Andrew có lý (không phải ai cũng thích), nhưng trường cũng bắt học môn khác không phải ai cũng thích để giáo dục toàn diện; nhiều bạn chỉ phát hiện năng khiếu khi thử." },
+        { "part": "Câu kết", "vi": "Ít nhất một môn nghệ thuật nên là bắt buộc." }
+      ],
+      "vocab": [
+        { "en": "compulsory / required", "vi": "bắt buộc" },
+        { "en": "arts education", "vi": "giáo dục nghệ thuật" },
+        { "en": "creativity and problem-solving skills", "vi": "khả năng sáng tạo và giải quyết vấn đề" },
+        { "en": "a well-rounded education", "vi": "nền giáo dục toàn diện" },
+        { "en": "discover a talent", "vi": "phát hiện năng khiếu" }
+      ],
+      "sample": [
+        "I agree with Claire that music and art classes should be required, but I would like to add a different reason. In my view, arts education develops creativity and problem-solving skills that are useful in every subject and career. When students compose a short melody or design a poster, there is no single correct answer, so they must experiment, make mistakes, and find their own solutions. Employers today value exactly this kind of thinking. Andrew has a point that some students are not interested in the arts, but schools also require subjects like history that not everyone enjoys, because they give students a well-rounded education. Moreover, many students only discover a talent after trying an activity at school. For these reasons, I believe at least one arts class should be compulsory."
+      ],
+      "sampleNotes": [
+        "Câu đầu vừa nêu quan điểm, vừa nhắc tên bạn, vừa báo hiệu sẽ có ý mới (\"but I would like to add a different reason\") — đúng yêu cầu \"make a contribution\".",
+        "Ý mới (sáng tạo, giải quyết vấn đề) KHÔNG trùng với ý của Claire (thư giãn, tự tin) — nếu chỉ lặp lại ý của bạn, bài sẽ bị trừ điểm.",
+        "\"Andrew has a point that …, but …\" là cách phản bác lịch sự: ghi nhận trước rồi mới đưa lập luận ngược lại.",
+        "Bài ~140 từ, một đoạn duy nhất — đúng độ dài lý tưởng cho dạng này (100–150 từ trong 10 phút)."
+      ]
+    },
+    {
+      "id": 6,
+      "type": "discussion",
+      "title": "Physical education at university",
+      "topic": "Đại học có nên bắt buộc học giáo dục thể chất?",
+      "relatedPassage": 11,
+      "prompt": "Your professor is teaching a class on public health. Write a post responding to the professor's question.\n\nIn your response, you should:\n• express and support your opinion\n• make a contribution to the discussion in your own words\n\nAn effective response will contain at least 100 words.",
+      "discussion": {
+        "professor": { "name": "Dr. Garcia", "text": "Some universities require all students to complete physical education courses in order to graduate, regardless of their major. Supporters say this improves students' health, while critics say university students should be free to decide how to spend their time. Do you think universities should require physical education courses? Why or why not?" },
+        "students": [
+          { "name": "Kevin", "text": "Yes, they should. University students sit in classrooms and in front of computers all day. Regular exercise improves concentration, so a physical education requirement would actually help students do better in their other classes." },
+          { "name": "Mai", "text": "I don't agree. University students are adults, and they should decide for themselves whether to exercise. The credits would be better spent on courses related to their major, which will help them find a job." }
+        ]
+      },
+      "outline": [
+        { "part": "Câu 1", "vi": "Đứng về phía Kevin nhưng với lý do khác." },
+        { "part": "Lý do mới", "vi": "Hình thành thói quen tập luyện suốt đời đúng lúc quan trọng (lần đầu sống tự lập, dễ bỏ tập)." },
+        { "part": "Phản bác", "vi": "Hiểu lo ngại của Mai → giải pháp: cho chọn nhiều môn (bơi, yoga, cầu lông, nhảy) để không thành gánh nặng." },
+        { "part": "Câu kết", "vi": "Yêu cầu này là khoản đầu tư cho sức khoẻ." }
+      ],
+      "vocab": [
+        { "en": "physical education (PE)", "vi": "giáo dục thể chất" },
+        { "en": "regardless of", "vi": "bất kể" },
+        { "en": "lifelong habits", "vi": "thói quen suốt đời" },
+        { "en": "live independently", "vi": "sống tự lập" },
+        { "en": "a burden", "vi": "gánh nặng" },
+        { "en": "an investment in one's health", "vi": "khoản đầu tư cho sức khoẻ" }
+      ],
+      "sample": [
+        "I side with Kevin, although for a slightly different reason. Besides improving concentration, physical education courses help students build lifelong exercise habits at a critical time. University is often the first time young people live independently, and many of them stop exercising because no one tells them to. A required course gives them a fixed schedule and introduces them to activities they can continue after graduation. I understand Mai's concern that students are adults who should control their own time. However, universities could solve this problem by offering a wide range of options, such as swimming, yoga, badminton, or even dance, so that students can choose something they actually enjoy. In this way, the requirement would feel less like a burden and more like an investment in their health."
+      ],
+      "sampleNotes": [
+        "\"I side with Kevin, although for a slightly different reason.\" — mở đầu ngắn gọn, nêu quan điểm và báo trước ý mới.",
+        "Thay vì chỉ phản bác Mai, bài đề xuất GIẢI PHÁP (cho chọn nhiều môn) — đây là kiểu đóng góp mới được đánh giá cao.",
+        "Cấu trúc so sánh \"feel less like a burden and more like an investment\" làm câu kết gọn và ấn tượng."
+      ]
+    },
+    {
+      "id": 7,
+      "type": "email",
+      "title": "Rescheduling a presentation",
+      "topic": "Email xin đổi lịch thuyết trình với giảng viên",
+      "relatedPassage": 4,
+      "prompt": "Your professor, Dr. Thompson, has asked every student to give a ten-minute presentation in class next Monday. You have a problem with this schedule.\n\nWrite an email to Dr. Thompson. In your email, do the following:\n• Explain why you cannot give your presentation on Monday.\n• Suggest a different time.\n• Ask for advice about your presentation topic.\n\nWrite as much as you can and in complete sentences.",
+      "outline": [
+        { "part": "Mở đầu", "vi": "Dear Dr. Thompson, + câu nêu mục đích: xin đổi ngày thuyết trình." },
+        { "part": "Ý 1", "vi": "Lý do cụ thể: được cử đi hội nghị sinh viên ở Đà Nẵng từ CN đến thứ Ba; có thư mời đính kèm." },
+        { "part": "Ý 2", "vi": "Đề xuất thời gian khác: thứ Năm (buổi học kế tiếp) hoặc giờ tiếp sinh viên chiều thứ Tư." },
+        { "part": "Ý 3", "vi": "Hỏi ý kiến về chủ đề: thiếu nước ngọt ở ĐBSCL có quá rộng cho 10 phút không, có nên chỉ tập trung vào xâm nhập mặn?" },
+        { "part": "Kết", "vi": "Cảm ơn + mong phản hồi + Best regards + tên." }
+      ],
+      "vocab": [
+        { "en": "reschedule", "vi": "đổi lịch" },
+        { "en": "represent the faculty", "vi": "đại diện khoa" },
+        { "en": "for your reference", "vi": "để thầy/cô tham khảo" },
+        { "en": "office hours", "vi": "giờ tiếp sinh viên" },
+        { "en": "too broad", "vi": "quá rộng" },
+        { "en": "saltwater intrusion", "vi": "xâm nhập mặn" }
+      ],
+      "sample": [
+        "Dear Dr. Thompson,",
+        "I am writing to ask whether I could change the date of my presentation for your Environmental Science class.",
+        "Unfortunately, I will not be able to present next Monday because I have been selected to represent our faculty at a regional student conference in Da Nang from Sunday to Tuesday. I have attached the invitation letter from the organizers for your reference.",
+        "If possible, I would like to give my presentation on Thursday, during our next class. Alternatively, I would be happy to present during your office hours on Wednesday afternoon.",
+        "I would also appreciate your advice on my topic. I am planning to talk about the shortage of fresh water in the Mekong Delta, but I am not sure whether this subject is too broad for a ten-minute presentation. Would it be better to focus only on saltwater intrusion?",
+        "Thank you very much for your understanding. I look forward to hearing from you.",
+        "Best regards,\nNguyen Van An"
+      ],
+      "sampleNotes": [
+        "Mỗi gạch đầu dòng của đề tương ứng đúng một đoạn: lý do → đề xuất thời gian → hỏi ý kiến. Người chấm dễ thấy bạn đã trả lời đủ.",
+        "Lý do cụ thể (hội nghị ở Đà Nẵng, có thư mời) thuyết phục hơn nhiều so với \"I am busy\".",
+        "Đưa 2 phương án thời gian (Thursday / Alternatively, Wednesday) cho thấy sự linh hoạt và lịch sự.",
+        "Câu hỏi lịch sự dạng \"Would it be better to …?\" thay vì \"Is it OK?\"."
+      ]
+    },
+    {
+      "id": 8,
+      "type": "email",
+      "title": "Complaining about construction noise",
+      "topic": "Email phàn nàn tiếng ồn công trình ban đêm",
+      "relatedPassage": 7,
+      "prompt": "For the past two weeks, a construction company has been working late at night near your apartment building.\n\nWrite an email to the city's environmental office. In your email, do the following:\n• Describe the problem.\n• Explain how it affects you and your neighbors.\n• Suggest what should be done.\n\nWrite as much as you can and in complete sentences.",
+      "outline": [
+        { "part": "Mở đầu", "vi": "Dear Sir or Madam, (không biết tên người nhận) + mục đích: phàn nàn về tiếng ồn ở công trình cạnh chung cư." },
+        { "part": "Ý 1", "vi": "Mô tả: 2 tuần qua, máy móc hạng nặng, khoan đến 1 giờ sáng gần như mỗi đêm; đóng cửa sổ vẫn nghe rõ." },
+        { "part": "Ý 2", "vi": "Ảnh hưởng: mất ngủ, mệt mỏi khi đi làm/đi học; người già và trẻ nhỏ bị đau đầu, căng thẳng." },
+        { "part": "Ý 3", "vi": "Đề xuất: kiểm tra công trình, nhắc quy định giờ thi công, chỉ làm từ 7h sáng đến 9h tối." },
+        { "part": "Kết", "vi": "Cảm ơn + mong phản hồi sớm + Yours faithfully + tên." }
+      ],
+      "vocab": [
+        { "en": "complain about", "vi": "phàn nàn về" },
+        { "en": "heavy machinery", "vi": "máy móc hạng nặng" },
+        { "en": "residents", "vi": "cư dân" },
+        { "en": "exhausted", "vi": "kiệt sức" },
+        { "en": "inspect the site", "vi": "kiểm tra công trường" },
+        { "en": "regulations on construction hours", "vi": "quy định về giờ thi công" },
+        { "en": "prompt response", "vi": "phản hồi nhanh chóng" }
+      ],
+      "sample": [
+        "Dear Sir or Madam,",
+        "I am writing to complain about the noise from a construction site on Le Van Viet Street, next to the Sunrise apartment building where I live.",
+        "For the past two weeks, the workers have been operating heavy machinery and drilling until around 1 a.m. almost every night. The noise is so loud that it can be heard clearly even when all the windows are closed.",
+        "This situation is seriously affecting the residents of our building. Many of us cannot fall asleep until the work stops, so we feel exhausted at work or school the next day. In particular, several elderly neighbors and families with small children have told me that they are suffering from headaches and stress.",
+        "I would be grateful if your office could inspect the site and remind the company of the regulations on construction hours. In my opinion, noisy work should be limited to the daytime, for example from 7 a.m. to 9 p.m.",
+        "Thank you for your attention to this matter. I look forward to your prompt response.",
+        "Yours faithfully,\nTran Thi Lan\nResident, Sunrise Apartments"
+      ],
+      "sampleNotes": [
+        "Không biết tên người nhận → \"Dear Sir or Madam,\" và kết bằng \"Yours faithfully,\". Đây là cặp chào – kết chuẩn trong thư trang trọng.",
+        "Thì hiện tại hoàn thành tiếp diễn \"have been operating … for the past two weeks\" diễn tả việc kéo dài đến hiện tại — rất đúng ngữ cảnh phàn nàn.",
+        "Cấu trúc \"so loud that …\" và câu bị động \"it can be heard clearly\" giúp mô tả vấn đề cụ thể, khách quan.",
+        "Đề xuất lịch sự bằng \"I would be grateful if your office could …\" thay vì ra lệnh."
+      ]
+    }
+  ]
+}

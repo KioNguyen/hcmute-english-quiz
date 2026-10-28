@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Luyện viết</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="page-passage page-writing">
+  <header class="topbar">
+    <div class="wrap bar">
+      <a href="index.html" id="back" class="back">← Danh sách</a>
+      <h1 id="title">Luyện viết</h1>
+      <span id="type-badge" class="badge" hidden></span>
+      <span id="timer" class="timer" hidden title="Thời gian còn lại"></span>
+      <span class="font-ctl" title="Cỡ chữ">
+        <button type="button" id="font-minus" class="btn-icon" aria-label="Giảm cỡ chữ">A−</button>
+        <button type="button" id="font-plus" class="btn-icon" aria-label="Tăng cỡ chữ">A+</button>
+      </span>
+    </div>
+  </header>
+
+  <!-- Danh sách đề -->
+  <main id="list-view" class="wrap" hidden></main>
+
+  <!-- Làm bài -->
+  <main id="task-view" class="layout" hidden>
+    <section class="pane pane-passage" aria-label="Đề bài">
+      <div id="task-left"></div>
+    </section>
+    <section class="pane pane-questions" aria-label="Bài viết">
+      <div id="task-right"></div>
+    </section>
+  </main>
+
+  <script type="module" src="js/app-writing.js"></script>
+</body>
+</html>
