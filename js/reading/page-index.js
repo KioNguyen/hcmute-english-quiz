@@ -1,7 +1,7 @@
-// Trang danh sách passage + tiến độ.
+// Trang danh sách passage Reading + tiến độ.
 import { loadIndex } from "./data.js";
-import { getProgress, clearProgress, getExam, getExamHistory, getWritingHistory } from "./storage.js";
-import { escapeHtml } from "./render.js";
+import { getProgress, getExam, getExamHistory } from "./storage.js";
+import { escapeHtml } from "../core/ui.js";
 
 function card(p, prog) {
   const pr = prog?.practice, te = prog?.test;
@@ -38,10 +38,5 @@ async function main() {
   } else if (last) {
     document.querySelector("#exam-status").textContent += ` · Lần gần nhất: ${last.correct}/${last.total} (${Math.round((last.correct / last.total) * 100)}%)`;
   }
-  const writings = getWritingHistory();
-  if (writings.length) document.querySelector("#writing-status").textContent = `Đã nộp ${writings.length} bài viết · gần nhất: ${writings[0].title} (${writings[0].words} từ)`;
-  document.querySelector("#clear-btn").onclick = () => {
-    if (confirm("Xoá toàn bộ tiến độ đã lưu?")) { clearProgress(); location.reload(); }
-  };
 }
 main();

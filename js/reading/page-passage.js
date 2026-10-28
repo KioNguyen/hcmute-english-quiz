@@ -1,9 +1,10 @@
 // Trang làm bài: chế độ luyện tập (practice) và kiểm tra (test).
 import { loadPassage, loadIndex } from "./data.js";
-import { renderPassage, renderQuestion, escapeHtml } from "./render.js";
+import { renderPassage, renderQuestion } from "./render.js";
 import { showEvidence, flashTarget, clearMarks } from "./evidence.js";
-import { initTooltip } from "./tooltip.js";
-import { getPassageState, savePassageState, clearPassageState, getPrefs, savePrefs } from "./storage.js";
+import { initTooltip } from "../core/tooltip.js";
+import { escapeHtml, bindFontSize } from "../core/ui.js";
+import { getPassageState, savePassageState, clearPassageState } from "./storage.js";
 
 const params = new URLSearchParams(location.search);
 const id = Number(params.get("id")) || 1;
@@ -194,13 +195,6 @@ function bindKeyboard() {
   });
 }
 
-function bindFontSize() {
-  const apply = (px) => { document.documentElement.style.setProperty("--reading-size", `${px}px`); savePrefs({ fontSize: px }); };
-  let size = getPrefs().fontSize || 17;
-  apply(size);
-  $("#font-minus").onclick = () => apply((size = Math.max(14, size - 1)));
-  $("#font-plus").onclick = () => apply((size = Math.min(24, size + 1)));
-}
 
 async function main() {
   try { passage = await loadPassage(id); }

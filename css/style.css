@@ -169,7 +169,6 @@ mark.target { background: var(--target); padding: 1px 2px; border-radius: 3px; a
 }
 
 /* ---- Luyện viết ---- */
-.writing-cta { background: linear-gradient(135deg, #f0fdf4, #ecfeff); border-color: #bbf7d0; }
 .w-group { margin: 24px 0; }
 .w-group > h2 { font-size: 17px; margin-bottom: 12px; }
 .w-group > h2 .muted { font-size: 14px; font-weight: 400; }
@@ -225,3 +224,11 @@ mark.target { background: var(--target); padding: 1px 2px; border-radius: 3px; a
   .w-editor { min-height: 50vh; }
   .w-metrics b { font-size: 17px; }
 }
+
+/* ---- Trang chủ ---- */
+.page-index .topbar .back { display: inline-block; font-size: 14px; margin-bottom: 2px; }
+.skills { margin-top: 24px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 420px), 1fr)); }
+.skill-icon { font-size: 22px; }
+.skill .card-head { align-items: center; }
+.skill h2 { font-size: 18px; }
+.skill.soon { opacity: .55; border-style: dashed; }

@@ -1,61 +1,14 @@
-// Trang luyện viết: chọn đề, viết bài có bấm giờ + đếm từ, nộp bài rồi tự chấm theo checklist và so với bài mẫu.
+// Trang làm bài viết: bấm giờ + đếm từ, nộp bài rồi tự chấm theo checklist và so với bài mẫu.
 import { loadWriting } from "./data.js";
-import { escapeHtml } from "./render.js";
-import { initTooltip } from "./tooltip.js";
-import {
-  getWriting, getWritingState, saveWritingState, clearWritingState,
-  getWritingHistory, addWritingHistory, updateWritingHistory, getPrefs, savePrefs,
-} from "./storage.js";
+import { initTooltip } from "../core/tooltip.js";
+import { escapeHtml, fmtDate, bindFontSize } from "../core/ui.js";
+import { fmtDuration as fmt, wordsOf, checklistItems, analyze } from "./text.js";
+import { getWritingState, saveWritingState, clearWritingState, addWritingHistory, updateWritingHistory } from "./storage.js";
 
 const $ = (s, r = document) => r.querySelector(s);
-const params = new URLSearchParams(location.search);
-const taskId = Number(params.get("id")) || null;
+const taskId = Number(new URLSearchParams(location.search).get("id"));
 
-let data, task, type, state, timerHandle, tickFrom, tickBase;
-
-// ---------- Tiện ích ----------
-function fmt(ms) {
-  const s = Math.round(Math.abs(ms) / 1000);
-  return `${String(Math.floor(s / 60)).padStart(2, "0")}:${String(s % 60).padStart(2, "0")}`;
-}
-const fmtDate = (t) => new Date(t).toLocaleString("vi-VN", { dateStyle: "short", timeStyle: "short" });
-const wordsOf = (text) => text.match(/[A-Za-z0-9]+(?:['’-][A-Za-z0-9]+)*/g) || [];
-const paragraphsOf = (text) => text.split(/\n+/).map((s) => s.trim()).filter(Boolean);
-const checklistItems = (t) => t.checklist.flatMap((g) => g.items);
-
-// ---------- Phân tích tự động ----------
-const LINKERS = [
-  "first", "firstly", "first of all", "to begin with", "second", "secondly", "third", "thirdly", "finally", "lastly",
-  "moreover", "furthermore", "in addition", "additionally", "besides", "also",
-  "however", "nevertheless", "although", "even though", "while", "whereas", "in contrast", "on the other hand", "admittedly",
-  "because", "since", "therefore", "thus", "as a result", "consequently", "so that",
-  "for example", "for instance", "such as", "in other words", "in fact", "in particular", "similarly",
-  "in conclusion", "to sum up", "overall", "in my opinion", "in my view", "alternatively", "unfortunately",
-];
-const STOP = new Set(("the a an and or but if of to in on at for with by from as is are was were be been being it its this that these those they them their there " +
-  "he she his her we our you your i my me not no do does did have has had will would can could should may might must about into than then so very " +
-  "also more most some many much such which who whom what when where why how all any each other only just even because while although").split(" "));
-const CONTRACTION = /\b(?:\w+n['’]t|(?:i|you|we|they|he|she|it|that|there|what|let)['’](?:m|re|ve|ll|d|s))\b/gi;
-
-function analyze(text) {
-  const words = wordsOf(text);
-  const lower = ` ${text.toLowerCase().replace(/\s+/g, " ")} `;
-  const sentences = text.split(/(?<=[.!?])\s+/).map((s) => s.trim()).filter((s) => wordsOf(s).length);
-  const linkers = LINKERS.filter((l) => new RegExp(`[^a-z]${l.replace(/ /g, "\\s")}[^a-z]`).test(lower));
-  const contractions = [...new Set((text.match(CONTRACTION) || []).map((c) => c.toLowerCase()))];
-  const counts = {};
-  for (const w of words) {
-    const k = w.toLowerCase();
-    if (k.length >= 4 && !STOP.has(k)) counts[k] = (counts[k] || 0) + 1;
-  }
-  const repeated = Object.entries(counts).filter(([, n]) => n >= 4).sort((a, b) => b[1] - a[1]).slice(0, 6);
-  const longSentences = sentences.filter((s) => wordsOf(s).length > 40).length;
-  return {
-    words: words.length, paragraphs: paragraphsOf(text).length, sentences: sentences.length,
-    avg: sentences.length ? words.length / sentences.length : 0,
-    linkers, contractions, repeated, longSentences, lowercaseI: /(^|[^A-Za-z])i(?![A-Za-z.])/.test(text),
-  };
-}
+let data, task, type, state, timerHandle, tickFrom;
 
 function analysisHtml(a) {
   const tips = [];
@@ -78,58 +31,6 @@ function analysisHtml(a) {
     </div>
     <ul class="w-tips">${tips.map(([c, t]) => `<li class="${c}">${escapeHtml(t)}</li>`).join("")}</ul>
     <p class="muted small">Đây chỉ là kiểm tra máy móc (số từ, từ nối, viết tắt, lặp từ) — không phát hiện được lỗi ngữ pháp. Hãy tự chấm theo checklist bên dưới và so với bài mẫu.</p>`;
-}
-
-// ---------- Danh sách đề ----------
-function renderList() {
-  $("#list-view").hidden = false;
-  $(".font-ctl").hidden = true;
-  document.title = "Luyện viết";
-  const saved = getWriting();
-  const groups = Object.entries(data.types).map(([key, t]) => {
-    const tasks = data.tasks.filter((x) => x.type === key);
-    if (!tasks.length) return "";
-    return `
-    <section class="w-group">
-      <h2>${escapeHtml(t.label)} <span class="muted">· ${escapeHtml(t.en)} · ≥${t.minWords} từ · ${t.minutes} phút</span></h2>
-      <div class="cards">${tasks.map((x) => taskCard(x, saved[x.id])).join("")}</div>
-    </section>`;
-  }).join("");
-  const history = getWritingHistory();
-  $("#list-view").innerHTML = `
-    <section class="howto">
-      <strong>Cách luyện:</strong> chọn đề → tự lập dàn ý → viết trong thời gian quy định (đồng hồ chạy khi bạn bắt đầu gõ) → nộp bài →
-      tự chấm theo checklist và so sánh với bài mẫu. Nên ghi lại lỗi hay mắc để tránh ở bài sau.
-      Trong đề và bài mẫu, <strong>nhấp đôi</strong> vào từ để xem nghĩa.
-    </section>
-    ${groups}
-    ${history.length ? `
-    <section class="intro-card w-history">
-      <h3>Bài đã nộp</h3>
-      <table class="history">
-        <thead><tr><th>Thời điểm</th><th>Đề</th><th>Số từ</th><th>Thời gian</th><th>Tự chấm</th></tr></thead>
-        <tbody>${history.map((h) => `
-          <tr><td>${fmtDate(h.submittedAt)}</td><td><a href="writing.html?id=${h.id}">W${h.id}</a> ${escapeHtml(h.title)}</td>
-          <td>${h.words}</td><td>${fmt(h.timeMs)}</td><td>${h.checked != null ? `${h.checked}/${h.total}` : "—"}</td></tr>
-          <tr class="h-text"><td colspan="5"><details><summary>Xem bài viết</summary><div class="w-essay">${escapeHtml(h.text)}</div></details></td></tr>`).join("")}
-        </tbody>
-      </table>
-    </section>` : ""}`;
-}
-
-function taskCard(x, s) {
-  const t = data.types[x.type];
-  let status = "Chưa viết";
-  if (s?.submittedAt) status = `Đã nộp · ${wordsOf(s.text).length} từ · tự chấm ${s.checks?.length ?? 0}/${checklistItems(t).length}`;
-  else if (s?.text?.trim()) status = `Đang viết dở · ${wordsOf(s.text).length} từ`;
-  return `
-  <article class="card">
-    <div class="card-head"><span class="pid">W${x.id}</span><h2>${escapeHtml(x.title)}</h2></div>
-    <p class="topic">${escapeHtml(x.topic)}</p>
-    <p class="meta">${escapeHtml(t.label)} · ≥${t.minWords} từ · ${t.minutes} phút${x.relatedPassage ? ` · liên quan Passage ${x.relatedPassage}` : ""}</p>
-    <p class="progress">${status}</p>
-    <div class="card-actions"><a class="btn btn-primary" href="writing.html?id=${x.id}">${s?.submittedAt ? "Xem lại" : s?.text ? "Viết tiếp" : "Viết bài"}</a></div>
-  </article>`;
 }
 
 // ---------- Làm bài ----------
@@ -255,7 +156,7 @@ function renderRight() {
     </section>
     <div class="actions">
       <button type="button" id="again-btn" class="btn">Viết lại đề này</button>
-      ${nextTask() ? `<a class="btn btn-primary" href="writing.html?id=${nextTask().id}">Đề tiếp theo →</a>` : `<a class="btn btn-primary" href="writing.html">Về danh sách đề</a>`}
+      ${nextTask() ? `<a class="btn btn-primary" href="task.html?id=${nextTask().id}">Đề tiếp theo →</a>` : `<a class="btn btn-primary" href="index.html">Về danh sách đề</a>`}
     </div>`;
 
   const updateScore = () => { $("#self-score").textContent = `${state.checks.length}/${items.length}`; };
@@ -340,13 +241,6 @@ function bindLifecycle() {
   });
 }
 
-function bindFontSize() {
-  const apply = (px) => { document.documentElement.style.setProperty("--reading-size", `${px}px`); savePrefs({ fontSize: px }); };
-  let size = getPrefs().fontSize || 17;
-  apply(size);
-  $("#font-minus").onclick = () => apply((size = Math.max(14, size - 1)));
-  $("#font-plus").onclick = () => apply((size = Math.min(24, size + 1)));
-}
 
 async function main() {
   bindFontSize();
@@ -355,15 +249,13 @@ async function main() {
   try {
     data = await loadWriting();
   } catch (e) {
-    $("#list-view").hidden = false;
-    $("#list-view").innerHTML = `<p class="error">Không tải được dữ liệu. Hãy chạy web qua HTTP (vd. <code>python3 -m http.server 8080</code>).<br><small>${escapeHtml(e.message)}</small></p>`;
+    $("#task-left").innerHTML = `<p class="error">Không tải được dữ liệu. Hãy chạy web qua HTTP (vd. <code>python3 -m http.server 8080</code>).<br><small>${escapeHtml(e.message)}</small></p>`;
+    $("#task-view").hidden = false;
     return;
   }
-  task = taskId && data.tasks.find((x) => x.id === taskId);
-  if (!task) return renderList();
+  task = data.tasks.find((x) => x.id === taskId);
+  if (!task) { location.replace("index.html"); return; }
   type = data.types[task.type];
-  $("#back").href = "writing.html";
-  $("#back").textContent = "← Đề viết";
   renderTask();
 }
 

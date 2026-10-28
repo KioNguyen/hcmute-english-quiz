@@ -1,6 +1,6 @@
-# Data schema — `data/passages/NN.json`
+# Data schema — `data/reading/passages/NN.json`
 
-Mỗi passage là một file `data/passages/NN.json` (NN = 2 chữ số: `01`…`14`). Toàn bộ text tiếng Anh chép **nguyên văn** từ ảnh trong `images/jpg/`.
+Mỗi passage là một file `data/reading/passages/NN.json` (NN = 2 chữ số: `01`…`14`). Toàn bộ text tiếng Anh chép **nguyên văn** từ ảnh trong `images/jpg/`.
 
 ```json
 {

@@ -1,10 +1,5 @@
 // Render bài đọc và câu hỏi từ JSON sang HTML.
-
-export function escapeHtml(s) {
-  return String(s)
-    .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
-}
+import { escapeHtml } from "../core/ui.js";
 
 /** Chuyển markup trong đoạn văn (**, __, ^^, [A]) thành HTML. */
 export function inlineMarkup(text) {

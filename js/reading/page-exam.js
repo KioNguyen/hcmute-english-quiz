@@ -1,9 +1,10 @@
 // Trang thi thử: 4 passage ngẫu nhiên, xáo câu hỏi và đáp án, đếm ngược, nộp bài và xem lại.
 import { loadIndex, loadPassage } from "./data.js";
-import { renderPassage, renderQuestion, escapeHtml } from "./render.js";
+import { renderPassage, renderQuestion } from "./render.js";
 import { showEvidence, flashTarget, clearMarks } from "./evidence.js";
-import { initTooltip } from "./tooltip.js";
-import { getExam, saveExam, clearExam, getExamHistory, addExamHistory, getPrefs, savePrefs } from "./storage.js";
+import { initTooltip } from "../core/tooltip.js";
+import { escapeHtml, fmtDate, bindFontSize } from "../core/ui.js";
+import { getExam, saveExam, clearExam, getExamHistory, addExamHistory } from "./storage.js";
 import { createExam, fillOrder, viewQuestion, answerKey, EXAM_PASSAGES, EXAM_MINUTES } from "./exam.js";
 
 const $ = (s, r = document) => r.querySelector(s);
@@ -22,7 +23,6 @@ function fmt(ms) {
   const s = Math.max(0, Math.round(ms / 1000));
   return `${String(Math.floor(s / 60)).padStart(2, "0")}:${String(s % 60).padStart(2, "0")}`;
 }
-const fmtDate = (t) => new Date(t).toLocaleString("vi-VN", { dateStyle: "short", timeStyle: "short" });
 
 // ---------- Dữ liệu ----------
 async function ensurePassages() {
@@ -318,13 +318,6 @@ function bindKeyboard() {
   });
 }
 
-function bindFontSize() {
-  const apply = (px) => { document.documentElement.style.setProperty("--reading-size", `${px}px`); savePrefs({ fontSize: px }); };
-  let size = getPrefs().fontSize || 17;
-  apply(size);
-  $("#font-minus").onclick = () => apply((size = Math.max(14, size - 1)));
-  $("#font-plus").onclick = () => apply((size = Math.min(24, size + 1)));
-}
 
 async function main() {
   bindKeyboard();

@@ -4,10 +4,10 @@
 import { readdirSync, readFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import { lookup, cleanWord } from "../js/lemma.js";
+import { lookup, cleanWord } from "../js/core/lemma.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-const dir = join(ROOT, "data", "passages");
+const dir = join(ROOT, "data", "reading", "passages");
 const dictPath = join(ROOT, "data", "dictionary.json");
 const dict = existsSync(dictPath) ? JSON.parse(readFileSync(dictPath, "utf8")) : {};
 const strip = (s) => s.replace(/\*\*|__|\^\^/g, "").replace(/\[[A-D]\]/g, "");

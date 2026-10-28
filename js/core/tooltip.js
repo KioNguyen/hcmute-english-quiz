@@ -1,6 +1,6 @@
 // Tooltip dịch từ khi nhấp đôi (desktop) hoặc nhấn giữ (mobile) trên vùng .translatable.
 import { translate, preloadDictionary } from "./dictionary.js";
-import { escapeHtml } from "./render.js";
+import { escapeHtml } from "./ui.js";
 
 const SOURCE_LABEL = { offline: "📖 từ điển", cache: "🌐 đã lưu", online: "🌐 online" };
 let tip, hideTimer, reqId = 0;

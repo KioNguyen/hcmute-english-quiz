@@ -2,44 +2,10 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Passage</title>
-  <link rel="stylesheet" href="css/style.css">
+  <title>Đang chuyển trang…</title>
+  <!-- URL cũ: chuyển sang reading/passage.html, giữ nguyên ?id=…&mode=… -->
+  <script>location.replace("reading/passage.html" + location.search + location.hash);</script>
+  <noscript><meta http-equiv="refresh" content="0; url=reading/passage.html"></noscript>
 </head>
-<body class="page-passage">
-  <header class="topbar">
-    <div class="wrap bar">
-      <a href="index.html" class="back">← Danh sách</a>
-      <h1 id="title">Đang tải…</h1>
-      <span id="mode-badge" class="badge"></span>
-      <span id="timer" class="timer" hidden>00:00</span>
-      <span class="font-ctl" title="Cỡ chữ bài đọc">
-        <button type="button" id="font-minus" class="btn-icon" aria-label="Giảm cỡ chữ">A−</button>
-        <button type="button" id="font-plus" class="btn-icon" aria-label="Tăng cỡ chữ">A+</button>
-      </span>
-    </div>
-  </header>
-
-  <main class="layout">
-    <section class="pane pane-passage" aria-label="Bài đọc">
-      <div id="notes" class="notes"></div>
-      <div id="passage" class="passage"></div>
-      <p class="hint muted">Nhấp đôi vào từ để xem nghĩa · Phím 1–4 hoặc A–D để chọn đáp án · ←/→ chuyển câu</p>
-    </section>
-
-    <section class="pane pane-questions" aria-label="Câu hỏi">
-      <nav id="q-nav" class="q-nav" aria-label="Điều hướng câu hỏi"></nav>
-      <div id="result" class="result" hidden></div>
-      <div id="questions" class="questions"></div>
-      <div id="actions" class="actions"></div>
-      <nav class="pager">
-        <a id="prev-link" class="btn btn-ghost" hidden>← Passage trước</a>
-        <a id="next-link" class="btn btn-ghost" hidden>Passage sau →</a>
-      </nav>
-    </section>
-  </main>
-  <a href="#passage" class="fab-passage" aria-label="Lên bài đọc">↑ Bài đọc</a>
-
-  <script type="module" src="js/app-passage.js"></script>
-</body>
+<body><p>Trang đã chuyển tới <a href="reading/passage.html">reading/passage.html</a>.</p></body>
 </html>

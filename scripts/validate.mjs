@@ -1,12 +1,12 @@
 #!/usr/bin/env node
-// Kiểm tra tính hợp lệ của data/passages/*.json và độ phủ của data/dictionary.json.
+// Kiểm tra tính hợp lệ của data/reading/passages/*.json và độ phủ của data/dictionary.json.
 // Dùng: node scripts/validate.mjs [--dict]
 import { readdirSync, readFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-const PASSAGE_DIR = join(ROOT, "data", "passages");
+const PASSAGE_DIR = join(ROOT, "data", "reading", "passages");
 const TYPES = new Set([
   "vocabulary", "detail", "reference", "negative", "inference",
   "purpose", "main-idea", "simplification", "insert", "opinion",
@@ -83,7 +83,7 @@ if (process.argv.includes("--dict")) {
   if (!existsSync(dictPath)) err("dictionary.json", "chưa tồn tại");
   else {
     const dict = JSON.parse(readFileSync(dictPath, "utf8"));
-    const { lookup } = await import("../js/lemma.js");
+    const { lookup } = await import("../js/core/lemma.js");
     const missing = [...allWords].filter((w) => !lookup(dict, w)).sort();
     const coverage = ((allWords.size - missing.length) / allWords.size) * 100;
     console.log(`Từ điển: ${Object.keys(dict).length} mục, phủ ${coverage.toFixed(1)}% (${missing.length} từ thiếu)`);
