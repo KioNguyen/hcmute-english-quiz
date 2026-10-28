@@ -1,6 +1,6 @@
 // Trang danh sách passage + tiến độ.
 import { loadIndex } from "./data.js";
-import { getProgress, clearProgress } from "./storage.js";
+import { getProgress, clearProgress, getExam, getExamHistory } from "./storage.js";
 import { escapeHtml } from "./render.js";
 
 function card(p, prog) {
@@ -30,6 +30,13 @@ async function main() {
     document.querySelector("#summary").textContent = `${index.passages.length} passage · ${index.passages.reduce((s, p) => s + p.questionCount, 0)} câu hỏi`;
   } catch (e) {
     list.innerHTML = `<p class="error">Không tải được dữ liệu. Hãy chạy web qua HTTP (vd. <code>python3 -m http.server 8080</code>).<br><small>${escapeHtml(e.message)}</small></p>`;
+  }
+  const exam = getExam(), last = getExamHistory()[0];
+  if (exam && !exam.submittedAt) {
+    document.querySelector("#exam-status").textContent = "Bạn đang có một bài thi thử làm dở.";
+    document.querySelector("#exam-link").textContent = "Tiếp tục thi";
+  } else if (last) {
+    document.querySelector("#exam-status").textContent += ` · Lần gần nhất: ${last.correct}/${last.total} (${Math.round((last.correct / last.total) * 100)}%)`;
   }
   document.querySelector("#clear-btn").onclick = () => {
     if (confirm("Xoá toàn bộ tiến độ đã lưu?")) { clearProgress(); location.reload(); }

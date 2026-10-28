@@ -15,6 +15,7 @@ python3 -m http.server 8080
 
 - `index.html` — danh sách passage + tiến độ
 - `passage.html?id=N&mode=practice|test` — trang làm bài
+- `exam.html` — thi thử: 4 passage ngẫu nhiên, xáo câu hỏi + đáp án, 60 phút, tự nộp khi hết giờ, lưu lịch sử
 - `data/passages/NN.json` — nội dung đề (xem `docs/DATA-SCHEMA.md`)
 - `data/dictionary.json` — từ điển EN→VI offline
 - `scripts/validate.mjs` — kiểm tra dữ liệu (`node scripts/validate.mjs --dict`)

@@ -27,7 +27,11 @@ export function clearPassageState(id, mode) {
   if (all[id]) { delete all[id][mode]; write(PROGRESS_KEY, all); }
 }
 
-export function clearProgress() { localStorage.removeItem(PROGRESS_KEY); }
+export function clearProgress() {
+  localStorage.removeItem(PROGRESS_KEY);
+  localStorage.removeItem("eq:exam-current");
+  localStorage.removeItem("eq:exam-history");
+}
 
 export function getDictCache() { return read(DICT_CACHE_KEY, {}); }
 export function setDictCache(word, vi) {
@@ -38,3 +42,16 @@ export function setDictCache(word, vi) {
 
 export function getPrefs() { return read(PREFS_KEY, { fontSize: 17 }); }
 export function savePrefs(p) { write(PREFS_KEY, { ...getPrefs(), ...p }); }
+
+// ---- Thi thử ----
+const EXAM_KEY = "eq:exam-current";
+const EXAM_HISTORY_KEY = "eq:exam-history";
+
+export const getExam = () => read(EXAM_KEY, null);
+export const saveExam = (exam) => write(EXAM_KEY, exam);
+export const clearExam = () => localStorage.removeItem(EXAM_KEY);
+
+export const getExamHistory = () => read(EXAM_HISTORY_KEY, []);
+export function addExamHistory(entry) {
+  write(EXAM_HISTORY_KEY, [entry, ...getExamHistory()].slice(0, 20));
+}

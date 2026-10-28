@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Thi thử Reading</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="page-passage page-exam">
+  <header class="topbar">
+    <div class="wrap bar">
+      <a href="index.html" class="back">← Danh sách</a>
+      <h1 id="title">Thi thử Reading</h1>
+      <span class="badge test">Thi thử</span>
+      <span id="timer" class="timer" hidden title="Thời gian còn lại">60:00</span>
+      <span class="font-ctl" title="Cỡ chữ bài đọc">
+        <button type="button" id="font-minus" class="btn-icon" aria-label="Giảm cỡ chữ">A−</button>
+        <button type="button" id="font-plus" class="btn-icon" aria-label="Tăng cỡ chữ">A+</button>
+      </span>
+    </div>
+  </header>
+
+  <!-- Màn hình bắt đầu / kết quả -->
+  <main id="intro" class="wrap intro" hidden></main>
+
+  <!-- Màn hình làm bài -->
+  <div id="exam" hidden>
+    <nav id="tabs" class="exam-tabs wrap" aria-label="Chọn passage"></nav>
+    <main class="layout">
+      <section class="pane pane-passage" aria-label="Bài đọc">
+        <h2 id="passage-title" class="passage-title"></h2>
+        <div id="passage" class="passage"></div>
+        <p class="hint muted">Nhấp đôi vào từ để xem nghĩa · Phím 1–4 hoặc A–D để chọn đáp án · ←/→ chuyển câu</p>
+      </section>
+      <section class="pane pane-questions" aria-label="Câu hỏi">
+        <nav id="q-nav" class="q-nav" aria-label="Điều hướng câu hỏi"></nav>
+        <div id="questions" class="questions"></div>
+        <div id="actions" class="actions"></div>
+      </section>
+    </main>
+    <a href="#passage" class="fab-passage" aria-label="Lên bài đọc">↑ Bài đọc</a>
+  </div>
+
+  <script type="module" src="js/app-exam.js"></script>
+</body>
+</html>
