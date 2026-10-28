@@ -1,0 +1,198 @@
+{
+  "id": 2,
+  "title": "How Desert Animals Survive",
+  "topic": "Cách động vật sa mạc thích nghi để sống sót",
+  "source": { "images": ["IMG_9160", "IMG_9161", "IMG_9162"] },
+  "numberedParagraphs": false,
+  "paragraphs": [
+    "Since water is the basis of life, composing the **greater** part of the tissues of all living things, the crucial problem of desert animals is to survive in a world where sources of flowing water are rare. And since man's inexorable necessity is to absorb large quantities of water at frequent intervals, he can scarcely comprehend that many creatures of the desert pass their entire lives without a single drop. Uncompromising as it is, the desert has not eliminated life but only **those forms** unable to withstand its **desiccating** effects. No moist-skinned, water-loving animals can exist there. Few large animals are found: the giants of the North American desert are the deer, the coyote, and the bobcat. Since desert country is open, it holds more swift-footed, running, and leaping creatures than the tangled forest. Its population are largely nocturnal, silent, filled with reticence, and ruled by stealth. Yet they are not **emaciated**. Having adapted to their austere environment, they are as healthy as animals anywhere in the world.",
+    "The secret of their adjustment lies in a combination of behavior and physiology. None could survive if, like mad dogs and Englishmen, they went out in the midday sun; many would die in a matter of minutes. So most of them pass the burning hours asleep in cool, humid burrows underneath the ground, emerging to hunt only by night. The surface of the sun-baked desert averages around 150 degrees, but 18 inches down the temperature is only 60 degrees.",
+    "An example of a desert animal that has adapted to **subterranean** living and lack of water is the kangaroo rat. Like many desert animals, kangaroo rats stay underground during the day. At night, they go outside to look for food. As evening temperatures drop, moisture from the air forms on plants and seeds. **They** absorb some of this moisture and kangaroo rats take in the life-giving water as they eat."
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "type": "main-idea",
+      "stem": "What is the topic of this passage?",
+      "options": {
+        "A": "Desert plants",
+        "B": "Life underground",
+        "C": "Animal life in a desert environment",
+        "D": "Man's life in the desert"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: cả bài nói về vấn đề sống còn của động vật sa mạc, cách chúng thích nghi bằng hành vi và sinh lý, và ví dụ chuột túi (kangaroo rat). A sai vì thực vật chỉ được nhắc thoáng qua (hơi ẩm đọng trên cây và hạt). B sai vì việc sống dưới lòng đất chỉ là một trong các cách thích nghi, quá hẹp. D sai vì con người chỉ được nhắc để so sánh nhu cầu nước.",
+      "evidence": [
+        { "paragraph": 1, "text": "the crucial problem of desert animals is to survive in a world where sources of flowing water are rare." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 2,
+      "type": "vocabulary",
+      "stem": "The word \"greater\" in the passage is closest in meaning to",
+      "target": { "paragraph": 1, "text": "greater" },
+      "options": {
+        "A": "stronger",
+        "B": "larger",
+        "C": "more noticeable",
+        "D": "heavier"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B: \"the greater part of the tissues\" = phần lớn hơn (phần lớn) của các mô; \"larger\" = lớn hơn (về số lượng/tỉ lệ). A \"stronger\" = mạnh hơn; C \"more noticeable\" = dễ nhận thấy hơn; D \"heavier\" = nặng hơn - đều không diễn tả tỉ lệ phần lớn.",
+      "evidence": [
+        { "paragraph": 1, "text": "Since water is the basis of life, composing the greater part of the tissues of all living things" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 3,
+      "type": "reference",
+      "stem": "The phrase \"those forms\" in the passage refers to all of the following EXCEPT",
+      "target": { "paragraph": 1, "text": "those forms" },
+      "options": {
+        "A": "water-loving animals",
+        "B": "the bobcat",
+        "C": "moist-skinned animals",
+        "D": "many large animals"
+      },
+      "answer": "B",
+      "answerSource": "handwritten-corrected",
+      "needsReview": true,
+      "explanation": "Đáp án B: \"those forms\" là những dạng sống không chịu được tác động làm khô của sa mạc nên bị loại bỏ - gồm động vật da ẩm, ưa nước và phần lớn động vật cỡ lớn. Linh miêu (bobcat) lại là một trong những \"người khổng lồ\" vẫn sống được ở sa mạc Bắc Mỹ, nên không thuộc \"those forms\". A và C đúng vì bài nói ngay sau đó \"No moist-skinned, water-loving animals can exist there\". D đúng vì \"Few large animals are found\". Trong ảnh có hai dấu khoanh (B và D), dấu ở D bị gạch chéo nên lấy B.",
+      "evidence": [
+        { "paragraph": 1, "text": "No moist-skinned, water-loving animals can exist there. Few large animals are found: the giants of the North American desert are the deer, the coyote, and the bobcat." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 4,
+      "type": "vocabulary",
+      "stem": "The word \"desiccating\" in the passage means",
+      "target": { "paragraph": 1, "text": "desiccating" },
+      "options": {
+        "A": "drying",
+        "B": "humidifying",
+        "C": "killing",
+        "D": "life threatening"
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A: \"desiccating\" = làm khô, làm mất nước; \"drying\" = làm khô - đồng nghĩa, hợp với ngữ cảnh sa mạc thiếu nước và động vật ưa nước không sống được. B \"humidifying\" = làm ẩm (ngược nghĩa); C \"killing\" = giết chết; D \"life threatening\" = đe dọa tính mạng - C và D chỉ là hậu quả, không phải nghĩa của từ.",
+      "evidence": [
+        { "paragraph": 1, "text": "the desert has not eliminated life but only those forms unable to withstand its desiccating effects." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 5,
+      "type": "negative",
+      "stem": "The author mentions all of the following as examples of the behavior of desert animals EXCEPT",
+      "options": {
+        "A": "animals sleep during the day",
+        "B": "animals dig homes underground",
+        "C": "animals are noisy and aggressive",
+        "D": "animals are watchful and quiet"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: bài mô tả động vật sa mạc là \"silent, filled with reticence, and ruled by stealth\" (im lặng, dè dặt, lén lút) - ngược với ồn ào và hung hăng. A đúng vì chúng ngủ qua những giờ nóng bỏng trong ngày. B đúng vì chúng ở trong hang mát dưới lòng đất. D đúng vì im lặng, lén lút tương ứng với \"watchful and quiet\".",
+      "evidence": [
+        { "paragraph": 1, "text": "Its population are largely nocturnal, silent, filled with reticence, and ruled by stealth." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 6,
+      "type": "vocabulary",
+      "stem": "The word \"emaciated\" in the passage is closest in meaning to",
+      "target": { "paragraph": 1, "text": "emaciated" },
+      "options": {
+        "A": "wild",
+        "B": "cunning",
+        "C": "unmanageable",
+        "D": "unhealthy"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D: \"emaciated\" = gầy mòn, hốc hác (vì thiếu ăn, bệnh) - gần nghĩa nhất với \"unhealthy\" = không khỏe mạnh. Câu tiếp theo xác nhận: chúng khỏe mạnh như động vật ở bất cứ đâu. A \"wild\" = hoang dã; B \"cunning\" = xảo quyệt, ranh mãnh; C \"unmanageable\" = khó kiểm soát.",
+      "evidence": [
+        { "paragraph": 1, "text": "Yet they are not emaciated. Having adapted to their austere environment, they are as healthy as animals anywhere in the world." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 7,
+      "type": "detail",
+      "stem": "The author states that one characteristic of animals who live in the desert is that they.",
+      "options": {
+        "A": "are smaller and fleeter than forest animals",
+        "B": "are less healthy than animals who live in different places",
+        "C": "can hunt in temperatures of 150 degrees",
+        "D": "live in an accommodating environment"
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A: bài nói ở sa mạc có ít động vật lớn, và vì địa hình trống trải nên có nhiều loài chạy nhanh, nhảy giỏi (swift-footed) hơn rừng rậm - tức là nhỏ hơn và nhanh nhẹn hơn động vật rừng. B sai vì bài nói chúng khỏe như động vật ở bất cứ đâu. C sai vì chúng chỉ ra ngoài săn mồi ban đêm, tránh mặt đất nóng 150 độ. D sai vì môi trường sa mạc được mô tả là khắc nghiệt (austere, uncompromising).",
+      "evidence": [
+        { "paragraph": 1, "text": "Since desert country is open, it holds more swift-footed, running, and leaping creatures than the tangled forest." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 8,
+      "type": "vocabulary",
+      "stem": "The word \"subterranean\" in the passage is closest in meaning to",
+      "target": { "paragraph": 3, "text": "subterranean" },
+      "options": {
+        "A": "underground",
+        "B": "safe",
+        "C": "precarious",
+        "D": "harsh"
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A: \"subterranean\" = dưới mặt đất; \"underground\" = dưới lòng đất - đồng nghĩa. Câu sau xác nhận chuột túi ở dưới lòng đất vào ban ngày. B \"safe\" = an toàn; C \"precarious\" = bấp bênh, nguy hiểm; D \"harsh\" = khắc nghiệt.",
+      "evidence": [
+        { "paragraph": 3, "text": "Like many desert animals, kangaroo rats stay underground during the day." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 9,
+      "type": "reference",
+      "stem": "The word \"they\" in the passage refers to",
+      "target": { "paragraph": 3, "text": "They absorb some of this moisture" },
+      "options": {
+        "A": "kangaroo rats",
+        "B": "the desert population",
+        "C": "plants and seeds",
+        "D": "the burrows of desert animals"
+      },
+      "answer": "C",
+      "answerSource": "handwritten-corrected",
+      "needsReview": true,
+      "explanation": "Đáp án C: câu trước nói hơi ẩm trong không khí đọng trên cây và hạt (plants and seeds); \"They absorb some of this moisture\" nghĩa là cây và hạt hấp thụ một phần hơi ẩm, rồi chuột túi ăn chúng để lấy nước. A sai vì chuột túi được nhắc riêng ở vế sau (\"and kangaroo rats take in...\"). B sai vì \"the desert population\" không xuất hiện ở đoạn này. D sai vì hang không được nhắc trong đoạn 3. Trong ảnh có hai dấu khoanh (A và C), dấu ở A bị gạch chéo nên lấy C.",
+      "evidence": [
+        { "paragraph": 3, "text": "As evening temperatures drop, moisture from the air forms on plants and seeds. They absorb some of this moisture and kangaroo rats take in the life-giving water as they eat." }
+      ],
+      "status": "ok"
+    }
+  ],
+  "notes": [
+    "Câu 9: đề in thừa một lựa chọn \"D. Healthy animals live longer lives.\" sau lựa chọn D thật; đã giữ 4 lựa chọn A-D đầu tiên và bỏ dòng thừa.",
+    "Passage chỉ có 9 câu hỏi.",
+    "Đề in \"swift- footed\" (có dấu cách do ngắt dòng) - đã sửa thành \"swift-footed\".",
+    "Stem các câu 2-9 không in chỗ trống; câu 7 kết thúc bằng \"they.\" - giữ nguyên văn.",
+    "Câu 3 và 9: ảnh có hai dấu khoanh, một bị gạch chéo -> lấy dấu không bị gạch (handwritten-corrected)."
+  ]
+}

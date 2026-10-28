@@ -1,0 +1,220 @@
+{
+  "id": 12,
+  "title": "Hidden Subversive Messages in Art",
+  "topic": "Nghệ thuật phản kháng và cách nghệ sĩ che giấu thông điệp phê phán xã hội",
+  "source": { "images": ["IMG_9179", "IMG_9180", "IMG_9181"] },
+  "numberedParagraphs": false,
+  "paragraphs": [
+    "Subversive political and social messages are a mainstay of the art community. In most modern democratic nations, where free speech is considered an **inalienable** right, such subversive art is easily found. American film is a fine example of this. Many American films are openly critical of American society and its values. Apocalypse Now, a film about the Vietnam War, is a withering attack on America's involvement and conduct in that conflict. In a more modern setting, African-American film director Spike Lee makes films which depict America as a racist and unjust society. Other arts are filled with examples of subversive art as well. There are countless paintings and sculptures which openly attack Christianity and other values which are considered to be core aspects of America's identity. Punk Rock, which originated in England, derided many of England's most sacred of social values. Most famously, the 1970s punk band The Sex Pistols frequently sang songs about overthrowing the government, even going so far as to describe the Queen of England as subhuman.",
+    "Not all subversive art is as upfront in its social criticism. Much of subversive art is quietly subversive. There are a number of reasons for this. The first is, of course, economics. An artist who is too open or too vehement in his or her criticism of society may find it hard to find an audience willing to pay for such art. In some societies there may be a fear of __retribution__, either by the government or by individual society members offended by the artist's message. Nor are such fears unfounded. Author Salman Rushdie was forced to go into hiding after he wrote a book that Muslims took to be critical of their religion. Therefore, the subversive messages in art are often hidden.",
+    "One common method of hiding subversive messages in one's art is through the use of an unreliable or __untenable__ viewpoint. In this method, the artist actually presents a viewpoint that is in opposition to his or her own, but does so in such a way as to render that viewpoint unbelievable in the eyes of the audience. American author Mark Twain was a master at this. The narrator in his most famous novel is a young boy named Huck Finn. Huck supports the values of his society. For example, one of the justifications used by Americans to keep Africans enslaved was that they were somehow less human than whites. There is a scene in which Huck finds his friend Jim, a runaway slave, crying to himself because he misses his children whom he has left behind in slavery. Huck is surprised by __this__, and comments that it seems remarkable that Jim, a slave, could feel sadness for the loss of his children in the same way a white person would. This observation is so absurd that it discredits the entire notion of slaves somehow being less human than their masters.",
+    "Mark Twain was not the only artist to hide the subversive nature of his work. In earlier times, prior to the printing press and the mass production of posters, artists depended on the support of wealthy individuals to make their living. A rich noble who appreciated the work of an artist would become his or her __patron__ and support the artist. In return the artist was generally expected to create art that the patron approved of, and herein was the problem.",
+    "These wealthy nobles represented the social elite, which in most cases was exactly the element of society which artists wished to criticize. One could hardly expect a patron to pay for art that was openly critical of his social class, so artists became experts in concealing the subversive message in their art. A close look at any of the great artists of history, da Vinci, Shakespeare, Milton, etc. will reveal many hidden elements of social subversion."
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "type": "vocabulary",
+      "stem": "The word \"inalienable\" in line 3 is closest in meaning to ____.",
+      "target": { "paragraph": 1, "text": "inalienable" },
+      "options": {
+        "A": "important",
+        "B": "personal",
+        "C": "inviolable",
+        "D": "universal"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. \"inalienable right\" là quyền bất khả xâm phạm, không thể bị tước đoạt - đồng nghĩa với \"inviolable\". Nghĩa các từ: A. important = quan trọng; B. personal = cá nhân; C. inviolable = bất khả xâm phạm; D. universal = phổ quát, toàn cầu. A, B, D đều có thể mô tả quyền tự do ngôn luận nhưng không mang nghĩa \"không thể bị tước bỏ\" của \"inalienable\".",
+      "evidence": [
+        { "paragraph": 1, "text": "In most modern democratic nations, where free speech is considered an inalienable right, such subversive art is easily found." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 2,
+      "type": "negative",
+      "stem": "In paragraph 1, all of the following are mentioned as examples of subversive art EXCEPT ____.",
+      "options": {
+        "A": "anti-war films",
+        "B": "songs of rebellion",
+        "C": "highly sexual poetry",
+        "D": "blasphemous sculpture"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. Đoạn 1 không hề nhắc đến thơ ca nhiều yếu tố tình dục. A được nhắc qua phim Apocalypse Now chỉ trích sự can dự của Mỹ vào chiến tranh Việt Nam. B được nhắc qua ban nhạc The Sex Pistols hát về lật đổ chính phủ. D được nhắc qua các bức tranh, tượng \"openly attack Christianity\" (báng bổ tôn giáo).",
+      "evidence": [
+        { "paragraph": 1, "text": "Apocalypse Now, a film about the Vietnam War, is a withering attack on America's involvement and conduct in that conflict." },
+        { "paragraph": 1, "text": "There are countless paintings and sculptures which openly attack Christianity" },
+        { "paragraph": 1, "text": "the 1970s punk band The Sex Pistols frequently sang songs about overthrowing the government" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 3,
+      "type": "detail",
+      "stem": "According to paragraph 2, what is the role of economics in subversive art?",
+      "options": {
+        "A": "It limits the candor with which artists express themselves.",
+        "B": "It creates a market for increasingly shocking art.",
+        "C": "It encourages people not to buy subversive art.",
+        "D": "It encourages artists to be upfront in their social criticism."
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A. Nghệ sĩ quá thẳng thắn hoặc gay gắt khi phê phán xã hội có thể khó tìm được khán giả chịu trả tiền, nên yếu tố kinh tế khiến họ hạn chế sự thẳng thắn (candor) và phê phán một cách kín đáo. B sai vì bài nói ngược lại - nghệ thuật quá gay gắt khó bán. C sai vì bài không nói kinh tế khuyến khích người ta không mua; chỉ là khán giả có thể không muốn trả tiền. D sai vì kinh tế khiến nghệ sĩ bớt thẳng thắn, không phải thẳng thắn hơn.",
+      "evidence": [
+        { "paragraph": 2, "text": "An artist who is too open or too vehement in his or her criticism of society may find it hard to find an audience willing to pay for such art." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 4,
+      "type": "vocabulary",
+      "stem": "The word \"retribution\" in line 19 is closest in meaning to ____.",
+      "target": { "paragraph": 2, "text": "retribution" },
+      "options": {
+        "A": "criticism",
+        "B": "rejection",
+        "C": "revenge",
+        "D": "anger"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. \"retribution\" là sự trừng phạt, báo thù - như ví dụ Salman Rushdie phải đi trốn sau khi viết sách bị cho là xúc phạm tôn giáo; nghĩa gần nhất là \"revenge\". Nghĩa các từ: A. criticism = sự chỉ trích; B. rejection = sự từ chối, bác bỏ; C. revenge = sự trả thù; D. anger = sự tức giận. A, B, D chưa thể hiện hành động trừng phạt khiến nghệ sĩ phải lo sợ.",
+      "evidence": [
+        { "paragraph": 2, "text": "In some societies there may be a fear of retribution, either by the government or by individual society members offended by the artist's message." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 5,
+      "type": "vocabulary",
+      "stem": "The word \"untenable\" in line 25 is closest in meaning to ____.",
+      "target": { "paragraph": 3, "text": "untenable" },
+      "options": {
+        "A": "complex",
+        "B": "untrustworthy",
+        "C": "obscure",
+        "D": "indefensible"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D. \"untenable viewpoint\" là quan điểm không thể đứng vững, không thể bảo vệ được - tác giả trình bày quan điểm sao cho nó trở nên vô lý trong mắt khán giả; đồng nghĩa với \"indefensible\". Nghĩa các từ: A. complex = phức tạp; B. untrustworthy = không đáng tin cậy; C. obscure = tối nghĩa, mơ hồ; D. indefensible = không thể bảo vệ/biện hộ. B gần với \"unreliable\" (từ đứng trước trong cụm \"unreliable or untenable\") chứ không phải \"untenable\"; A, C không liên quan.",
+      "evidence": [
+        { "paragraph": 3, "text": "One common method of hiding subversive messages in one's art is through the use of an unreliable or untenable viewpoint." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 6,
+      "type": "inference",
+      "stem": "Based on the information in paragraph 3, what can be inferred about Mark Twain?",
+      "options": {
+        "A": "He feared retribution from American society.",
+        "B": "He was the first author to practice subversive art.",
+        "C": "He opposed the American practice of slavery.",
+        "D": "He was forced into hiding for his political views."
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. Twain để Huck (người ủng hộ giá trị xã hội) đưa ra nhận xét vô lý rằng thật lạ khi một nô lệ biết buồn như người da trắng - nhận xét này \"discredits the entire notion of slaves somehow being less human\", cho thấy Twain phản đối chế độ nô lệ. A sai vì đoạn 3 không nói Twain sợ bị trả thù. B sai vì bài chỉ nói ông là \"a master at this\", không nói là người đầu tiên. D sai vì người phải đi trốn là Salman Rushdie (đoạn 2).",
+      "evidence": [
+        { "paragraph": 3, "text": "This observation is so absurd that it discredits the entire notion of slaves somehow being less human than their masters." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 7,
+      "type": "reference",
+      "stem": "The word \"this\" in line 33 refers to ____.",
+      "target": { "paragraph": 3, "text": "this" },
+      "options": {
+        "A": "the fact that Jim misses his family",
+        "B": "the fact that Jim would leave his family in slavery",
+        "C": "the fact that slaves are considered less human than whites",
+        "D": "the fact that Mark Twain opposed the values of his society"
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A. Câu trước kể Huck thấy Jim khóc \"because he misses his children\"; \"Huck is surprised by this\" - \"this\" là việc Jim nhớ thương con cái, gia đình mình (sau đó Huck nhận xét thật lạ khi Jim biết buồn vì mất con). B sai vì Jim không tự ý bỏ gia đình; các con bị bỏ lại trong cảnh nô lệ do Jim bỏ trốn. C sai vì đó là quan niệm xã hội Huck vốn tin, không phải điều làm Huck ngạc nhiên. D sai vì Huck không biết gì về quan điểm của Twain.",
+      "evidence": [
+        { "paragraph": 3, "text": "There is a scene in which Huck finds his friend Jim, a runaway slave, crying to himself because he misses his children whom he has left behind in slavery. Huck is surprised by this" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 8,
+      "type": "main-idea",
+      "stem": "What is the main idea of the passage?",
+      "options": {
+        "A": "Artists have always depended on wealthy people to produce their work.",
+        "B": "Subversive art has been used by artists to criticize social and political values, often through hidden messages.",
+        "C": "American artists are more politically active than artists in other countries.",
+        "D": "Governments have generally supported artists who criticize society."
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B. Bài mở đầu bằng việc nghệ thuật phản kháng là trụ cột của giới nghệ thuật, sau đó giải thích vì sao và bằng cách nào nghệ sĩ thường che giấu thông điệp phê phán (kinh tế, sợ trả thù, Mark Twain, nhà bảo trợ). A sai vì việc phụ thuộc người giàu chỉ là một ý trong đoạn 4-5 và chỉ đúng \"in earlier times\". C sai vì bài không so sánh nghệ sĩ Mỹ với nước khác (còn nhắc cả punk rock Anh). D sai vì bài nói nghệ sĩ có thể sợ bị chính phủ trừng phạt.",
+      "evidence": [
+        { "paragraph": 1, "text": "Subversive political and social messages are a mainstay of the art community." },
+        { "paragraph": 2, "text": "Therefore, the subversive messages in art are often hidden." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 9,
+      "type": "detail",
+      "stem": "Why do some artists choose to hide their subversive messages?",
+      "options": {
+        "A": "They are afraid that their artwork will be difficult for audiences to understand.",
+        "B": "They want their artwork to become more entertaining and popular.",
+        "C": "They may lose financial support or face punishment for openly criticizing society.",
+        "D": "They believe that political subjects should never be discussed directly."
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. Đoạn 2 nêu hai lý do: kinh tế (khó tìm người chịu trả tiền cho tác phẩm phê phán quá gay gắt) và nỗi sợ bị trả thù/trừng phạt từ chính phủ hoặc cá nhân; đoạn 5 bổ sung nhà bảo trợ không trả tiền cho tác phẩm chỉ trích giai cấp của họ. A sai vì bài không nói nghệ sĩ lo khán giả khó hiểu. B sai vì không nhắc đến việc làm tác phẩm giải trí hơn. D sai vì nhiều nghệ sĩ vẫn phê phán công khai (đoạn 1), không có ý rằng chính trị không bao giờ nên bàn trực tiếp.",
+      "evidence": [
+        { "paragraph": 2, "text": "In some societies there may be a fear of retribution, either by the government or by individual society members offended by the artist's message." },
+        { "paragraph": 2, "text": "An artist who is too open or too vehement in his or her criticism of society may find it hard to find an audience willing to pay for such art." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 10,
+      "type": "inference",
+      "stem": "What can be inferred about artists and their patrons in earlier times?",
+      "options": {
+        "A": "Artists were completely free to criticize the social class that supported them.",
+        "B": "Patrons usually had little influence over the content of artists' work.",
+        "C": "Artists sometimes had to conceal their criticism because they depended financially on wealthy patrons.",
+        "D": "Wealthy patrons generally encouraged artists to criticize the social elite."
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. Nghệ sĩ xưa sống nhờ sự hỗ trợ của quý tộc giàu có, mà khó có nhà bảo trợ nào trả tiền cho tác phẩm chỉ trích giai cấp mình, nên nghệ sĩ trở thành bậc thầy che giấu thông điệp phản kháng. A sai vì họ không hề tự do phê phán giai cấp nuôi mình. B sai vì nghệ sĩ \"was generally expected to create art that the patron approved of\" - nhà bảo trợ có ảnh hưởng lớn đến nội dung. D sai vì nhà bảo trợ chính là tầng lớp tinh hoa bị phê phán, không thể khuyến khích điều đó.",
+      "evidence": [
+        { "paragraph": 5, "text": "One could hardly expect a patron to pay for art that was openly critical of his social class, so artists became experts in concealing the subversive message in their art." }
+      ],
+      "status": "ok"
+    }
+  ],
+  "notes": [
+    "Đề không có tiêu đề in sẵn; tự đặt \"Hidden Subversive Messages in Art\".",
+    "Sửa lỗi in thiếu dấu cách \"as well.There\" thành \"as well. There\" (đoạn 1).",
+    "\"inalienable\" chỉ in đậm (**); \"retribution\", \"untenable\", \"this\", \"patron\" in đậm + gạch chân (__). \"patron\" được đánh dấu nhưng không có câu hỏi.",
+    "Dòng đầu đoạn 2 hơi bị mép giấy che (\"quietly subversive.\") nhưng vẫn đọc được."
+  ]
+}

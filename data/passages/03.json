@@ -1,0 +1,218 @@
+{
+  "id": 3,
+  "title": "Protecting Your Home from Burglars",
+  "topic": "Các biện pháp phòng chống trộm đột nhập vào nhà",
+  "source": { "images": ["IMG_9162", "IMG_9163"] },
+  "numberedParagraphs": true,
+  "paragraphs": [
+    "A recent survey of crime statistics shows that we are all more likely to be burgled now than 20 years ago and the police advise everyone to take a few simple precautions to protect their homes.",
+    "The first fact is that burglars and other intruders prefer easy opportunities, like a house which is very obviously empty. This is much less of a challenge than an occupied house and one which is well-protected. A burglar will wonder if it is worth the bother.",
+    "There are some general tips on how to avoid your home becoming another crime statistic. Avoid leaving signs that your house is empty. When you have to go out, leave at least one light on as well as a radio or television, and do not leave any curtains wide open. The sight of your latest music centre or computer is enough to tempt any burglar.",
+    "Never leave a spare key in a convenient hiding place. The first place a burglar will look is under the doormat or in a flower pot and even somewhere more 'imaginative' could soon be uncovered by the intruder. It is much safer to leave a key with a neighbour you can trust. But if your house is in a quiet, __desolate__ area be aware that this will be a burglar's dream, so deter any potential criminal from approaching your house by fitting security lights to the outside of your house.",
+    "But what could happen if, in spite of the __aforementioned precautions__, a burglar or intruder has decided to target your home? Windows are usually the first point of entry for many intruders. Downstairs windows provide easy access while upstairs windows can be reached with a ladder or by climbing up the drainpipe. Before going to bed you should double-check that all windows and shutters are locked. No matter how small your windows may be, it is surprising what a narrow gap a determined burglar can manage to get through. For extra security, fit window locks to the inside of the window.",
+    "What about entry via doors? Your back door and patio doors, which are easily forced open, should have top-quality security locks fitted. Even though this is expensive it will be money well spent. Install a burglar alarm if you can afford it as another line of defence against intruders.",
+    "A sobering fact is that not all intruders have to break into a property. Why go to the trouble of breaking in if you can just knock and be invited in? Beware of bogus officials or workmen and, particularly if you are elderly, fit a chain and an eye hole so you can __scrutinise__ callers at your leisure. When you do have callers never let anybody into your home unless you are absolutely sure they are genuine. Ask to see an identity card, for example.",
+    "If you are in the frightening position of waking in the middle of the night and thinking you can hear an intruder, then on no account should you approach the intruder. It is far better to telephone the police and wait for help."
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "type": "detail",
+      "stem": "A well-protected house ____.",
+      "options": {
+        "A": "is regarded as a challenge by most criminals",
+        "B": "is a lot of bother to maintain",
+        "C": "is very unlikely to be burgled",
+        "D": "is less likely to be burgled"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D: đoạn 2 nói trộm thích cơ hội dễ dàng như nhà bỏ trống; nhà có người ở và được bảo vệ tốt là thách thức lớn hơn, khiến kẻ trộm phải cân nhắc có đáng công không - tức là nhà được bảo vệ tốt ít có khả năng bị trộm hơn. A sai vì bài không nói \"hầu hết tội phạm\" coi đó là thách thức để chinh phục. B sai vì \"bother\" trong bài là công sức của kẻ trộm, không phải công bảo trì nhà. C sai vì quá tuyệt đối (\"very unlikely\"); bài chỉ nói ít hấp dẫn hơn với trộm.",
+      "evidence": [
+        { "paragraph": 2, "text": "This is much less of a challenge than an occupied house and one which is well-protected. A burglar will wonder if it is worth the bother." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 2,
+      "type": "detail",
+      "stem": "According to the writer, we should ____.",
+      "options": {
+        "A": "only go out when we have to",
+        "B": "always keep the curtains closed",
+        "C": "give the impression that our house is occupied when we go out",
+        "D": "avoid leaving our house empty"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: đoạn 3 khuyên tránh để lộ dấu hiệu nhà vắng người - khi ra ngoài hãy để ít nhất một đèn sáng cùng radio hoặc tivi, không mở toang rèm - tức là tạo ấn tượng nhà có người. A sai vì bài không khuyên chỉ ra ngoài khi cần thiết. B sai vì bài chỉ nói đừng để rèm mở toang, không bảo luôn đóng rèm. D sai vì bài chấp nhận việc phải ra ngoài, chỉ khuyên đừng để lộ dấu hiệu nhà trống.",
+      "evidence": [
+        { "paragraph": 3, "text": "Avoid leaving signs that your house is empty. When you have to go out, leave at least one light on as well as a radio or television, and do not leave any curtains wide open." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 3,
+      "type": "opinion",
+      "stem": "The writer thinks that hiding a key under a doormat or flower pot ____.",
+      "options": {
+        "A": "is useful",
+        "B": "imaginative",
+        "C": "is where you always find a spare key",
+        "D": "is predictable"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D: đoạn 4 nói dưới thảm chùi chân hoặc trong chậu hoa là nơi đầu tiên kẻ trộm tìm - tức là chỗ giấu này quá dễ đoán. A sai vì tác giả khuyên không bao giờ giấu chìa khóa dự phòng như vậy. B sai vì \"imaginative\" được dùng cho những chỗ giấu khác (mà vẫn bị tìm ra), không phải thảm hay chậu hoa. C sai vì bài không nói đó là nơi \"luôn luôn\" có chìa khóa.",
+      "evidence": [
+        { "paragraph": 4, "text": "The first place a burglar will look is under the doormat or in a flower pot" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 4,
+      "type": "vocabulary",
+      "stem": "What word best replaces \"desolate\" in paragraph 4?",
+      "target": { "paragraph": 4, "text": "desolate" },
+      "options": {
+        "A": "populous",
+        "B": "dissatisfying",
+        "C": "depressing",
+        "D": "isolated"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D: \"desolate\" (khu vực) = hoang vắng, hẻo lánh; \"isolated\" = biệt lập, hẻo lánh - hợp với cụm \"a quiet, desolate area\" là nơi lý tưởng cho kẻ trộm. A \"populous\" = đông dân (ngược nghĩa); B \"dissatisfying\" = gây bất mãn; C \"depressing\" = gây buồn chán (một nghĩa khác của desolate là buồn bã, nhưng không hợp ngữ cảnh khu vực).",
+      "evidence": [
+        { "paragraph": 4, "text": "But if your house is in a quiet, desolate area be aware that this will be a burglar's dream" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 5,
+      "type": "reference",
+      "stem": "The phrase \"aforementioned precautions\" in paragraph 5 refers to steps that ____.",
+      "target": { "paragraph": 5, "text": "aforementioned precautions" },
+      "options": {
+        "A": "are the most important precautions to take to make your home safe",
+        "B": "will stop a potential burglar",
+        "C": "will not stop an intruder if he has decided to try and enter your home",
+        "D": "will tell a burglar if your house is empty or not"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: \"aforementioned precautions\" là các biện pháp phòng ngừa đã nêu ở trên (để đèn, radio, không giấu chìa khóa, lắp đèn an ninh); câu \"in spite of the aforementioned precautions, a burglar or intruder has decided to target your home\" cho thấy các biện pháp này không ngăn được kẻ trộm đã quyết tâm. A sai vì tác giả không nói đó là biện pháp quan trọng nhất. B sai vì ngược với ý câu (dù có các biện pháp, trộm vẫn nhắm vào nhà). D sai vì các biện pháp nhằm che giấu việc nhà trống chứ không \"báo\" cho trộm.",
+      "evidence": [
+        { "paragraph": 5, "text": "But what could happen if, in spite of the aforementioned precautions, a burglar or intruder has decided to target your home?" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 6,
+      "type": "detail",
+      "stem": "Gaining entry to a house through a small window ____.",
+      "options": {
+        "A": "is not as difficult as people think",
+        "B": "is less likely to happen than gaining entry through a door",
+        "C": "is tried only by very determined burglars",
+        "D": "is surprisingly difficult"
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A: đoạn 5 nói dù cửa sổ nhỏ đến đâu, thật đáng ngạc nhiên là kẻ trộm quyết tâm có thể lọt qua khe hẹp như thế nào - tức là việc vào nhà qua cửa sổ nhỏ không khó như người ta nghĩ. B sai vì bài nói cửa sổ thường là điểm đột nhập đầu tiên. C sai vì bài không nói chỉ kẻ trộm rất quyết tâm mới thử. D sai vì ngược nghĩa: điều đáng ngạc nhiên là nó dễ, không phải khó.",
+      "evidence": [
+        { "paragraph": 5, "text": "No matter how small your windows may be, it is surprising what a narrow gap a determined burglar can manage to get through." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 7,
+      "type": "detail",
+      "stem": "According to the writer, window locks, security locks and burglar alarms ____.",
+      "options": {
+        "A": "are good value for money",
+        "B": "are luxury items",
+        "C": "are absolutely essential items",
+        "D": "cost a lot of money but are worth it"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D: đoạn 6 nói khóa an ninh chất lượng cao tuy đắt nhưng là tiền tiêu xứng đáng (\"Even though this is expensive it will be money well spent\"), và lắp chuông báo trộm nếu có đủ tiền. A sai vì \"good value for money\" hàm ý giá hợp lý, trong khi bài nhấn mạnh là đắt. B sai vì tác giả không coi chúng là đồ xa xỉ mà là biện pháp bảo vệ. C sai vì báo động chỉ được khuyên lắp \"if you can afford it\", không phải bắt buộc tuyệt đối.",
+      "evidence": [
+        { "paragraph": 6, "text": "Even though this is expensive it will be money well spent. Install a burglar alarm if you can afford it as another line of defence against intruders." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 8,
+      "type": "detail",
+      "stem": "The writer argues that fitting a chain and an eye hole ____.",
+      "options": {
+        "A": "avoids you having to invite people into your home",
+        "B": "is only necessary for elderly people",
+        "C": "gives you time to check if the visitor is genuine",
+        "D": "will prevent your home from being burgled"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: đoạn 7 nói lắp xích cửa và lỗ nhìn để có thể xem xét kỹ người đến \"at your leisure\" (thong thả, có thời gian), và không cho ai vào trừ khi chắc chắn họ là thật. A sai vì mục đích là kiểm tra khách, không phải tránh mời người vào. B sai vì bài nói \"particularly if you are elderly\" - đặc biệt là người già, không phải chỉ người già. D sai vì bài không khẳng định nó sẽ ngăn được mọi vụ trộm.",
+      "evidence": [
+        { "paragraph": 7, "text": "fit a chain and an eye hole so you can scrutinise callers at your leisure." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 9,
+      "type": "vocabulary",
+      "stem": "What word best replaces \"scrutinise\" in paragraph 7?",
+      "target": { "paragraph": 7, "text": "scrutinise" },
+      "options": {
+        "A": "gaze",
+        "B": "search",
+        "C": "examine",
+        "D": "glance"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: \"scrutinise\" = xem xét kỹ lưỡng; \"examine\" = kiểm tra, xem xét - đồng nghĩa, hợp với việc kiểm tra người đến xem có phải thật không. A \"gaze\" = nhìn chằm chằm (không mang nghĩa kiểm tra); B \"search\" = lục soát, tìm kiếm; D \"glance\" = liếc nhìn (ngược với xem kỹ).",
+      "evidence": [
+        { "paragraph": 7, "text": "fit a chain and an eye hole so you can scrutinise callers at your leisure." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 10,
+      "type": "main-idea",
+      "stem": "The best title for the text is ____.",
+      "options": {
+        "A": "Protecting your home from intruders",
+        "B": "Burglary statistics",
+        "C": "What to do if a burglar breaks into your home",
+        "D": "Increasing household crime"
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A: toàn bài đưa ra các lời khuyên để bảo vệ nhà khỏi kẻ đột nhập: tạo vẻ có người ở, không giấu chìa khóa, khóa cửa sổ, cửa ra vào, cảnh giác với khách lạ. B sai vì thống kê tội phạm chỉ được nhắc ở câu mở đầu. C sai vì việc nên làm khi trộm vào nhà chỉ là nội dung đoạn cuối. D sai vì tội phạm gia tăng chỉ là bối cảnh mở đầu, không phải chủ đề chính.",
+      "evidence": [
+        { "paragraph": 1, "text": "the police advise everyone to take a few simple precautions to protect their homes." }
+      ],
+      "status": "ok"
+    }
+  ],
+  "notes": [
+    "Đề đánh số đoạn 1-8 nên đã bỏ số khỏi text và đặt numberedParagraphs = true.",
+    "Chỗ trống trong đề in dạng \"--.\" / \"-------.\" - đã chuẩn hóa thành \"____.\".",
+    "Câu 3 lựa chọn B in \"imaginative\" (không có \"is\") - giữ nguyên văn.",
+    "Đáp án câu 1 khoanh D; chữ \"C\" in hơi nhòe nhưng không có dấu khoanh/gạch tay."
+  ]
+}

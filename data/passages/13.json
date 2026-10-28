@@ -1,0 +1,260 @@
+{
+  "id": 13,
+  "title": "New York Late-Starters String Orchestra",
+  "topic": "Giới thiệu dàn nhạc dây nghiệp dư dành cho người lớn bắt đầu học muộn ở New York",
+  "source": {
+    "images": [
+      "IMG_9182",
+      "IMG_9183"
+    ]
+  },
+  "numberedParagraphs": false,
+  "paragraphs": [
+    "NYLSO, New York Late-Starters String Orchestra, the New York Late-Starters String Orchestra, is something special. It was founded in early 2007 and grew out of a concept developed by The East London Late Starters Orchestra (ELLSO), an award-winning group in England. NYLSO is an amateur orchestra for adult players of violin, viola, cello, and double bass. If you played a string instrument when you were younger and would like to start again, or if you are learning as an adult and would like the chance to play in a group of similar people, then NYLSO is for you! Our goal is to create a fun, supportive, non-competitive environment for adults 18 to 80+ who wish to participate in collective music-making.",
+    "Participants should have basic music reading skills and a willingness to commit to the group but are not required to audition. It is recommended that you have studied your instrument for at least one year. If you have ever been paid to play your instrument, recently graduated with a degree in performance, or have been playing continuously since elementary school, you may decide we are not the appropriate group for you.",
+    "## How We Work",
+    "We know that New Yorkers are busy people. It is fine if you miss an entire rehearsal period when an emergency arises. Ultimately, though, too many absences disrupt the function of the group and make it difficult to perform the pieces. Sessions are in six-week rehearsal cycles, with two-hour rehearsals held once a week. We work with the goal of producing one to three very informal 'friends-and-family concerts per year.",
+    "Our professional tutor/facilitator serves as coach and conductor during rehearsals. Substitute conductors also join in to teach different sections, providing groups of players with valuable experience in working with different approaches and styles. Everyone is encouraged to play to their fullest potential, whatever that may be, but please recognize that while we do have a conductor, her role is not to provide a one-on-one instruction during rehearsals.",
+    "NYLSO is a self-supporting collective; we do not receive any other funding. The cost is $80 for each six-week cycle. Payments are applied to the costs of rehearsal space, conductor's fees, and photocopying music.",
+    "## Materials You Will Need At Rehearsals",
+    "You will need an instrument, a portable music stand, and any other relevant accessories. You should bring a folder to keep your music together and a soft-lead pencil with an eraser for writing in changes. Sheet music is provided."
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "type": "main-idea",
+      "stem": "What is the primary goal of the New York Late-Starters String Orchestra (NYLSO)?",
+      "options": {
+        "A": "To prepare musicians for professional orchestras",
+        "B": "To create a fun, supportive, and non-competitive environment for adult musicians",
+        "C": "To teach participants how to compose music",
+        "D": "To host competitive music tournaments for adults"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B: cuối đoạn 1 nêu rõ mục tiêu của dàn nhạc là tạo một môi trường vui vẻ, hỗ trợ lẫn nhau và không cạnh tranh cho người lớn muốn chơi nhạc tập thể. A sai vì NYLSO là dàn nhạc nghiệp dư, không đào tạo nhạc công chuyên nghiệp. C sai vì bài không nhắc tới sáng tác nhạc. D sai vì môi trường được mô tả là không cạnh tranh (non-competitive).",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "text": "Our goal is to create a fun, supportive, non-competitive environment for adults 18 to 80+ who wish to participate in collective music-making."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 2,
+      "type": "detail",
+      "stem": "Who are the ideal participants for NYLSO?",
+      "options": {
+        "A": "Professional musicians looking for advanced training",
+        "B": "Teenagers starting to learn string instruments",
+        "C": "Adults aged 18 to 80+ who want to play string instruments in a group",
+        "D": "Recently graduated music students"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: bài nói nhóm dành cho người lớn từ 18 đến 80+ tuổi muốn tham gia chơi nhạc tập thể; dàn nhạc gồm violin, viola, cello và double bass (nhạc cụ dây). A sai vì người từng được trả tiền biểu diễn có thể thấy nhóm không phù hợp. B sai vì đối tượng là người lớn (adult players), không phải thanh thiếu niên. D sai vì người vừa tốt nghiệp ngành biểu diễn cũng được khuyên là có thể không hợp với nhóm.",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "text": "NYLSO is an amateur orchestra for adult players of violin, viola, cello, and double bass."
+        },
+        {
+          "paragraph": 1,
+          "text": "Our goal is to create a fun, supportive, non-competitive environment for adults 18 to 80+ who wish to participate in collective music-making."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 3,
+      "type": "detail",
+      "stem": "What is the minimum recommended experience for participants?",
+      "options": {
+        "A": "At least one year of studying their instrument",
+        "B": "A degree in music performance",
+        "C": "Five years of experience in an orchestra",
+        "D": "Ability to play advanced concertos"
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A: đoạn 2 khuyến nghị người tham gia đã học nhạc cụ của mình ít nhất một năm. B sai vì có bằng biểu diễn lại là dấu hiệu nhóm có thể không phù hợp. C (5 năm chơi trong dàn nhạc) và D (chơi được concerto khó) không hề được nhắc tới.",
+      "evidence": [
+        {
+          "paragraph": 2,
+          "text": "It is recommended that you have studied your instrument for at least one year."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 4,
+      "type": "detail",
+      "stem": "According to the passage, which of the following is true?",
+      "options": {
+        "A": "All participants must pass a formal audition",
+        "B": "Participants are required to audition to join NYLSO",
+        "C": "Auditions are not required for participants",
+        "D": "Participants must play the instrument at a professional level"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: đoạn 2 nói người tham gia cần biết đọc nhạc cơ bản và sẵn sàng gắn bó với nhóm nhưng KHÔNG bắt buộc phải thử giọng/thử tài (not required to audition). A và B ngược với bài. D sai vì đây là dàn nhạc nghiệp dư, không yêu cầu trình độ chuyên nghiệp.",
+      "evidence": [
+        {
+          "paragraph": 2,
+          "text": "Participants should have basic music reading skills and a willingness to commit to the group but are not required to audition."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 5,
+      "type": "detail",
+      "stem": "What should participants bring to each rehearsal?",
+      "options": {
+        "A": "Only their instrument",
+        "B": "An instrument, a stand, a folder, and a pencil with an eraser",
+        "C": "An instrument, sheet music, and concert attire",
+        "D": "A metronome, their portable recording music and a tuning device"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B: phần Materials liệt kê: nhạc cụ, giá để bản nhạc di động (music stand), một bìa kẹp (folder) để giữ bản nhạc và bút chì mềm có tẩy để ghi chỉnh sửa. A thiếu các vật dụng khác. C sai vì bản nhạc (sheet music) được nhóm cung cấp và bài không nói về trang phục biểu diễn. D (máy đếm nhịp, thiết bị lên dây) không được nhắc tới.",
+      "evidence": [
+        {
+          "paragraph": 8,
+          "text": "You will need an instrument, a portable music stand, and any other relevant accessories."
+        },
+        {
+          "paragraph": 8,
+          "text": "You should bring a folder to keep your music together and a soft-lead pencil with an eraser for writing in changes."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 6,
+      "type": "detail",
+      "stem": "What is the cost of a six-week rehearsal cycle?",
+      "options": {
+        "A": "$50",
+        "B": "$100",
+        "C": "Free for all participants",
+        "D": "$80"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D: đoạn 'NYLSO is a self-supporting collective' nói chi phí là 80 đô la cho mỗi chu kỳ 6 tuần, dùng trả tiền phòng tập, thù lao nhạc trưởng và photo bản nhạc. A, B sai số tiền; C sai vì nhóm tự trang trải chi phí, không miễn phí.",
+      "evidence": [
+        {
+          "paragraph": 6,
+          "text": "The cost is $80 for each six-week cycle."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 7,
+      "type": "detail",
+      "stem": "What type of concerts does NYLSO organize?",
+      "options": {
+        "A": "Formal concerts in large theaters",
+        "B": "Competitive music events",
+        "C": "Informal \"friends-and-family\" concerts",
+        "D": "Paid public performances"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: nhóm đặt mục tiêu tổ chức một đến ba buổi hòa nhạc rất thân mật kiểu 'bạn bè và gia đình' mỗi năm. A sai vì không phải hòa nhạc trang trọng ở nhà hát lớn. B sai vì nhóm không cạnh tranh. D sai vì bài không nói các buổi diễn có bán vé.",
+      "evidence": [
+        {
+          "paragraph": 4,
+          "text": "We work with the goal of producing one to three very informal 'friends-and-family concerts per year."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 8,
+      "type": "detail",
+      "stem": "What is the role of the conductor during rehearsals?",
+      "options": {
+        "A": "To provide a one-on-one instruction to each participant",
+        "B": "To teach group dynamics and lead rehearsals",
+        "C": "To select the participants who will perform in concerts",
+        "D": "To replace any missing players during performances"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B: người hướng dẫn chuyên nghiệp đóng vai trò huấn luyện viên và nhạc trưởng trong các buổi tập (coach and conductor), tức là dẫn dắt buổi tập và dạy cách chơi cùng nhau. A sai vì bài nói rõ vai trò của nhạc trưởng KHÔNG phải là dạy kèm một-một. C và D không được nhắc tới.",
+      "evidence": [
+        {
+          "paragraph": 5,
+          "text": "Our professional tutor/facilitator serves as coach and conductor during rehearsals."
+        },
+        {
+          "paragraph": 5,
+          "text": "Everyone is encouraged to play to their fullest potential, whatever that may be, but please recognize that while we do have a conductor, her role is not to provide a one-on-one instruction during rehearsals."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 9,
+      "type": "detail",
+      "stem": "What happens if a participant frequently misses rehearsals?",
+      "options": {
+        "A": "It disrupts the group and may make it difficult to perform pieces.",
+        "B": "They are removed from the orchestra immediately.",
+        "C": "They must pay an additional fee.",
+        "D": "They are required to attend a makeup session."
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A: phần How We Work nói vắng một buổi khi có việc khẩn cấp thì không sao, nhưng vắng quá nhiều sẽ làm gián đoạn hoạt động của nhóm và khiến việc biểu diễn các tác phẩm trở nên khó khăn. B (bị loại ngay), C (đóng thêm phí), D (học bù) đều không được nhắc tới.",
+      "evidence": [
+        {
+          "paragraph": 4,
+          "text": "Ultimately, though, too many absences disrupt the function of the group and make it difficult to perform the pieces."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 10,
+      "type": "inference",
+      "stem": "Why might NYLSO not be appropriate for some musicians?",
+      "options": {
+        "A": "The music is too challenging for experienced players.",
+        "B": "Professional or highly experienced musicians may find the group unsuitable.",
+        "C": "The orchestra does not use traditional string instruments.",
+        "D": "Participants must commit to daily rehearsals."
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B: đoạn 2 nói nếu bạn từng được trả tiền để chơi nhạc, vừa tốt nghiệp ngành biểu diễn, hoặc chơi liên tục từ tiểu học thì có thể nhóm không phù hợp với bạn - tức là người chuyên nghiệp hoặc nhiều kinh nghiệm. A sai vì bài không nói nhạc quá khó. C sai vì dàn nhạc dùng các nhạc cụ dây truyền thống. D sai vì lịch tập là mỗi tuần một buổi 2 tiếng, không phải hằng ngày.",
+      "evidence": [
+        {
+          "paragraph": 2,
+          "text": "If you have ever been paid to play your instrument, recently graduated with a degree in performance, or have been playing continuously since elementary school, you may decide we are not the appropriate group for you."
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "notes": [
+    "Text bài đọc được nhận dạng bằng OCR (Apple Vision) từ ảnh rồi rà lại; nếu thấy lỗi chính tả hãy đối chiếu ảnh gốc.",
+    "Hai tiêu đề phụ 'How We Work' và 'Materials You Will Need At Rehearsals' được giữ nguyên như trong đề."
+  ]
+}

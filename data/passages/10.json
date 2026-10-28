@@ -1,0 +1,213 @@
+{
+  "id": 10,
+  "title": "On Tour with the London Symphony Orchestra",
+  "topic": "Dàn nhạc giao hưởng London và những chuyến lưu diễn nước ngoài",
+  "source": { "images": ["IMG_9176", "IMG_9177"] },
+  "numberedParagraphs": false,
+  "paragraphs": [
+    "\"Footballers and musicians are in the same business. They both do stressful jobs in front of critical audiences. The only difference is that football crowds are noisier.\" So says Rod Franks. And he should know. Franks started his working life with Leeds United Football Club, neatly changed direction, started playing the trumpet instead of football, and is now principal trumpeter with the LSO (London Symphony Orchestra). Franks might have made a further observation about the similarities between orchestras and football clubs: it is playing away what presents the real challenges.",
+    "London's oldest orchestra has been playing away since it was formed almost a century ago. Nowadays, the orchestra's trips abroad are kept to tours of a maximum of two and a half weeks. But since touring is clearly expensive and presents major organisational and technical problems, why bother to tour at all? Clive Gillinson, the managing director, says: \"A great international orchestra needs to work with the greatest conductors and soloists. No recording company will record a conductor or soloist if he or she is only known in one territory - they need an international reputation. So, for the recording side to work, you have to visit the key markets; you need to tour.\"",
+    "By touring with projects or festivals, Gillinson is able to create an event, not just provide a series of concerts. It is more expensive to do, but when you leave town, you are not so easily forgotten. For Sue Mallet, the orchestra's administrator, the difficulties of her job lie in getting a symphony orchestra and its instruments on stage, on time and in one piece. However well she plans each tour, and she does her planning with scientific accuracy, events sometimes take an upper hand. On one occasion a concert had been advertised for the wrong night, and on another, the lorry carrying the instruments from the airport to the concert hall broke down and got stuck in snow.",
+    "It is a tiring and stressful business flying around the world, and yet on balance, it is one of the rewards of the job. Certain moments are unforgettable. At the end of a concert in Moscow, an enthusiastic audience brought the orchestra to its feet. As one of the musicians was about to sit down, an elderly lady in the front row pressed a piece of paper into his hand. It said, in words of simple English, what lovely music the orchestra had made."
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "type": "detail",
+      "stem": "What do footballers and musicians have in common?",
+      "options": {
+        "A": "They enjoy extremely noisy audiences.",
+        "B": "They experience tension in their work.",
+        "C": "They receive too much unfair criticism.",
+        "D": "Their work abroad earns a lot of praise."
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B. Rod Franks nói cầu thủ bóng đá và nhạc công \"both do stressful jobs in front of critical audiences\" - cả hai đều làm công việc căng thẳng (tension) trước khán giả khó tính. A sai vì khán giả ồn ào chỉ là điểm khác biệt của bóng đá, không phải điểm chung và không nói họ \"thích\". C sai vì bài chỉ nói khán giả \"critical\" (khó tính), không nói họ bị chỉ trích bất công quá mức. D sai vì bài không nói công việc ở nước ngoài của cả hai được khen ngợi.",
+      "evidence": [
+        { "paragraph": 1, "text": "They both do stressful jobs in front of critical audiences." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 2,
+      "type": "detail",
+      "stem": "What are we told about Rod Franks?",
+      "options": {
+        "A": "He disliked his original choice of career.",
+        "B": "He used to be the director of a football club.",
+        "C": "He used to be a professional trumpeter.",
+        "D": "He switched from one career to another."
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D. Franks bắt đầu sự nghiệp ở câu lạc bộ bóng đá Leeds United rồi \"neatly changed direction\", chuyển sang chơi kèn trumpet - tức là đổi từ nghề này sang nghề khác. A sai vì bài không nói ông ghét nghề ban đầu. B sai vì ông chỉ làm việc ở câu lạc bộ, không phải giám đốc. C sai vì hiện tại ông vẫn là nghệ sĩ trumpet chính của LSO (\"is now principal trumpeter\"), không phải \"từng là\".",
+      "evidence": [
+        { "paragraph": 1, "text": "Franks started his working life with Leeds United Football Club, neatly changed direction, started playing the trumpet instead of football" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 3,
+      "type": "detail",
+      "stem": "Before joining London Symphony Orchestra, Rod Franks worked for ____.",
+      "options": {
+        "A": "a consulting firm",
+        "B": "a travel agency",
+        "C": "a football club",
+        "D": "an event organizing firm"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. Bài nói rõ Franks \"started his working life with Leeds United Football Club\" - tức ông làm việc cho một câu lạc bộ bóng đá trước khi trở thành nghệ sĩ trumpet của LSO. Các lựa chọn A (công ty tư vấn), B (công ty du lịch), D (công ty tổ chức sự kiện) đều không được nhắc đến trong bài.",
+      "evidence": [
+        { "paragraph": 1, "text": "Franks started his working life with Leeds United Football Club" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 4,
+      "type": "vocabulary",
+      "stem": "The word \"principal\" in line 4 can be best replaced by ____.",
+      "target": { "paragraph": 1, "text": "principal" },
+      "options": {
+        "A": "prime",
+        "B": "initial",
+        "C": "original",
+        "D": "main"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D. \"principal trumpeter\" là nghệ sĩ trumpet chính/trưởng bè của dàn nhạc, nên \"principal\" = \"main\" (chính, chủ yếu). Nghĩa các từ: A. prime = hàng đầu, tốt nhất (thường dùng cho chất lượng, thời điểm, không đi với chức danh nhạc công); B. initial = ban đầu; C. original = nguyên bản, đầu tiên; D. main = chính. B và C sai vì Franks đổi sang kèn sau bóng đá, kèn không phải nghề \"ban đầu\" của ông.",
+      "evidence": [
+        { "paragraph": 1, "text": "is now principal trumpeter with the LSO (London Symphony Orchestra)" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 5,
+      "type": "detail",
+      "stem": "The LSO began playing abroad ____.",
+      "options": {
+        "A": "only fairly recently.",
+        "B": "when it needed money.",
+        "C": "when it was first set up.",
+        "D": "over a hundred years ago."
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. Bài nói dàn nhạc \"has been playing away since it was formed almost a century ago\" - đã lưu diễn xa nhà từ khi thành lập. A sai vì không phải mới gần đây mà đã gần một thế kỷ. B sai vì bài không nói lý do là thiếu tiền. D sai vì bài nói \"almost a century ago\" (gần 100 năm), chưa tới hơn 100 năm.",
+      "evidence": [
+        { "paragraph": 2, "text": "London's oldest orchestra has been playing away since it was formed almost a century ago." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 6,
+      "type": "detail",
+      "stem": "Orchestras have to travel abroad ____.",
+      "options": {
+        "A": "to record with new solo players.",
+        "B": "to play with foreign conductors.",
+        "C": "to record with foreign companies.",
+        "D": "to make themselves better known."
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D. Clive Gillinson giải thích hãng thu âm sẽ không thu âm nhạc trưởng hay nghệ sĩ độc tấu nếu họ chỉ được biết đến ở một vùng - \"they need an international reputation\", nên phải \"visit the key markets; you need to tour\". Tức là lưu diễn để trở nên nổi tiếng hơn ở tầm quốc tế. A, B sai vì bài nói dàn nhạc cần làm việc với các nhạc trưởng/nghệ sĩ độc tấu giỏi nhất, không nói họ là người mới hay người nước ngoài, và đó cũng không phải lý do phải đi lưu diễn. C sai vì bài không nói thu âm với công ty nước ngoài.",
+      "evidence": [
+        { "paragraph": 2, "text": "No recording company will record a conductor or soloist if he or she is only known in one territory - they need an international reputation." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 7,
+      "type": "reference",
+      "stem": "What does 'It' in line 15 refer to?",
+      "target": { "paragraph": 3, "text": "It is more expensive to do" },
+      "options": {
+        "A": "Visiting the most important markets",
+        "B": "Providing more than just concerts",
+        "C": "The expense of touring in a country",
+        "D": "Organising a number of recordings"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B. Câu trước nói nhờ lưu diễn kèm dự án hoặc lễ hội, Gillinson \"is able to create an event, not just provide a series of concerts\"; câu sau \"It is more expensive to do\" - \"It\" chính là việc tạo ra một sự kiện chứ không chỉ một loạt buổi hòa nhạc, tức cung cấp nhiều hơn các buổi hòa nhạc đơn thuần. A và D thuộc ý của đoạn 2 về thị trường và thu âm, không phải chủ ngữ của câu này. C sai vì \"It\" là hành động được làm (\"to do\"), không phải khoản chi phí.",
+      "evidence": [
+        { "paragraph": 3, "text": "By touring with projects or festivals, Gillinson is able to create an event, not just provide a series of concerts. It is more expensive to do" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 8,
+      "type": "detail",
+      "stem": "Sue Mallet's arrangements for the LSO can be ____",
+      "options": {
+        "A": "affected by external circumstances.",
+        "B": "spoilt by overlooking tiny details.",
+        "C": "made difficult by awkward players.",
+        "D": "spoilt by very careless planning."
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A. Dù Sue Mallet lên kế hoạch rất kỹ, \"events sometimes take an upper hand\" - các sự kiện bên ngoài đôi khi lấn át: buổi diễn bị quảng cáo sai ngày, xe tải chở nhạc cụ hỏng và kẹt trong tuyết. Đó là những hoàn cảnh ngoại cảnh. B và D sai vì bài khẳng định bà lên kế hoạch \"with scientific accuracy\", không hề cẩu thả hay bỏ sót chi tiết. C sai vì bài không nhắc tới nhạc công gây khó khăn.",
+      "evidence": [
+        { "paragraph": 3, "text": "However well she plans each tour, and she does her planning with scientific accuracy, events sometimes take an upper hand." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 9,
+      "type": "inference",
+      "stem": "What does the phrase 'with scientific accuracy' in line 18 suggest about Sue Mallet's planning?",
+      "target": { "paragraph": 3, "text": "with scientific accuracy" },
+      "options": {
+        "A": "She used to be a scientist.",
+        "B": "Her figures are correct.",
+        "C": "The details are excellent.",
+        "D": "It's very neat and tidy."
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. \"with scientific accuracy\" (với độ chính xác khoa học) hàm ý kế hoạch của bà rất tỉ mỉ, mọi chi tiết đều được tính toán kỹ lưỡng - tức các chi tiết đều xuất sắc. A sai vì đây chỉ là cách nói ẩn dụ, không có nghĩa bà từng là nhà khoa học. B sai vì bài không nói về số liệu/con số. D sai vì \"gọn gàng, ngăn nắp\" nói về hình thức, không phải độ chính xác của nội dung kế hoạch.",
+      "evidence": [
+        { "paragraph": 3, "text": "she does her planning with scientific accuracy" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 10,
+      "type": "detail",
+      "stem": "According to the writer, what made a certain moment 'unforgettable' in line 23?",
+      "target": { "paragraph": 4, "text": "unforgettable" },
+      "options": {
+        "A": "An individual's appreciation",
+        "B": "The enthusiastic applause",
+        "C": "The fact that the orchestra stood up",
+        "D": "The fact that a message was in English"
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A. Khoảnh khắc đáng nhớ là khi một bà cụ ở hàng ghế đầu dúi vào tay nhạc công mẩu giấy viết bằng tiếng Anh đơn giản rằng dàn nhạc đã chơi thật hay - đó là sự trân trọng của một cá nhân. B và C chỉ là bối cảnh (khán giả nhiệt tình khiến dàn nhạc đứng dậy chào), còn điểm nhấn thật sự là hành động của bà cụ. D sai vì việc mẩu giấy viết bằng tiếng Anh chỉ là chi tiết phụ, không phải điều làm nên sự đáng nhớ.",
+      "evidence": [
+        { "paragraph": 4, "text": "an elderly lady in the front row pressed a piece of paper into his hand. It said, in words of simple English, what lovely music the orchestra had made." }
+      ],
+      "status": "ok"
+    }
+  ],
+  "notes": [
+    "Đề in nháy cong và gạch nối ngắn (\"one territory - they need\"); đã chuyển sang nháy thẳng, giữ gạch nối như đề.",
+    "Các từ được hỏi (principal, It, with scientific accuracy, unforgettable) không in đậm trong đề nên không thêm markup."
+  ]
+}

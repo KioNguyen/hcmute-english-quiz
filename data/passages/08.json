@@ -1,0 +1,218 @@
+{
+  "id": 8,
+  "title": "Children and Watching Sports on TV",
+  "topic": "Bài học đạo đức trẻ em có thể rút ra khi xem thể thao trên truyền hình cùng cha mẹ",
+  "source": { "images": ["IMG_9172", "IMG_9173"] },
+  "numberedParagraphs": true,
+  "paragraphs": [
+    "While watching sports on TV, the chances are that children will see professional players cheating, having tantrums, fighting, or abusing officials. In addition, it is highly likely that children will be aware of well-known cases of sportspeople being caught using drugs to improve their performance. The danger of all this is that it could give children the idea that winning is all that counts and that you should win at all costs. Good behaviour and fair play are not the message that comes across. Instead, it looks as if cheating and bad behaviour are reasonable ways of getting what you want. This message is further __bolstered__ by the fact that some of these sportspeople acquire enormous fame and wealth, making it seem they are being handsomely rewarded either despite or because of their bad behaviour.",
+    "What can parents do about this? They can regard sports on television as an opportunity to discuss attitudes and behaviour with their children. When watching sports together, if parents see a player swearing at the referee, they can get the child's opinion on that behaviour and discuss whether a player's skill is more important than their behaviour. Ask what the child thinks the player's contribution to the team is. Point out that no player can win a team game on their own, so it is important for members to work well together.",
+    "Another thing to focus on is what the commentators say. Do they frown on bad behaviour from players, think it's amusing or even consider it a good thing? What about the officials? If they let players get away with a clear foul, parents can discuss with children whether this is right and what effect it has on the game. Look too at the reactions of coaches and managers. Do they accept losing with good __grace__ or scowl and show a bad attitude? Parents can use this to talk about attitudes to winning and losing and to remind children that both are part of sport.",
+    "However, what children learn from watching sports is by no means all negative and parents should make sure they accentuate the positives too. __They__ should emphasize to children the high reputation that well-behaved players have, not just with their teammates but also with spectators and the media. They can focus on the contribution made by such players during a game, discussing how valuable they are to the team. In the interviews after a game, point out to a child that well-behaved sportspeople do not gloat when they win or sulk when they lose. Parents can stress how well these people conduct themselves in their personal lives and the good work they do for others when not playing. In other words, parents should get their children to focus on the positive role models, rather than the __antics__ of the badly behaved but often more publicized players."
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "type": "main-idea",
+      "stem": "Which of the following does the passage mainly discuss?",
+      "options": {
+        "A": "The influence of model sportspeople on children",
+        "B": "Moral lessons from watching sports for children",
+        "C": "Different attitudes toward famous sportspeople",
+        "D": "The importance of team spirit in sport"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B. Bài nêu mối nguy khi trẻ xem thể thao trên TV (đoạn 1) rồi hướng dẫn cha mẹ dùng việc xem thể thao làm cơ hội bàn về thái độ, hành vi (đoạn 2–4) — tức là những bài học đạo đức cho trẻ. A sai vì vận động viên gương mẫu chỉ được nói ở đoạn 4. C sai vì bài không so sánh các thái độ khác nhau đối với người nổi tiếng. D sai vì tinh thần đồng đội chỉ là một ý nhỏ ở cuối đoạn 2.",
+      "evidence": [
+        { "paragraph": 2, "text": "They can regard sports on television as an opportunity to discuss attitudes and behaviour with their children." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 2,
+      "type": "vocabulary",
+      "stem": "The word \"bolstered\" in paragraph 1 is closest in meaning to ____.",
+      "target": { "paragraph": 1, "text": "bolstered" },
+      "options": {
+        "A": "characterized",
+        "B": "revitalized",
+        "C": "fortified",
+        "D": "inspired"
+      },
+      "answer": "C",
+      "answerSource": "inferred",
+      "needsReview": true,
+      "explanation": "Đáp án C (đề không khoanh, tự chọn theo bài). \"bolstered\" nghĩa là được củng cố, tăng cường; thông điệp sai lệch \"được củng cố thêm\" bởi việc các vận động viên này giàu có và nổi tiếng, nên gần nghĩa nhất với \"fortified\" (được củng cố). Nghĩa các từ: A characterized = được mô tả đặc điểm; B revitalized = được hồi sinh, làm sống lại; C fortified = được củng cố, gia cố; D inspired = được truyền cảm hứng. A, B, D không mang nghĩa \"làm mạnh thêm\" một thông điệp sẵn có.",
+      "evidence": [
+        { "paragraph": 1, "text": "This message is further bolstered by the fact that some of these sportspeople acquire enormous fame and wealth" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 3,
+      "type": "opinion",
+      "stem": "What is the author's view of some professional players' misconduct?",
+      "options": {
+        "A": "It has made sports games more popular in the media.",
+        "B": "It is an integral part of professional sports competition.",
+        "C": "Its harmful message to children should be addressed by parents.",
+        "D": "It should be strictly censored by authorities."
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. Đoạn 1 nêu mối nguy là hành vi xấu của cầu thủ có thể khiến trẻ nghĩ chiến thắng là tất cả; đoạn 2 hỏi \"What can parents do about this?\" và đưa ra cách cha mẹ xử lý. A sai vì bài không nói hành vi xấu làm thể thao nổi tiếng hơn (chỉ nói cầu thủ xấu thường được đưa tin nhiều hơn). B sai vì tác giả không coi đó là phần không thể thiếu của thể thao. D sai vì bài không đề cập kiểm duyệt của chính quyền.",
+      "evidence": [
+        { "paragraph": 1, "text": "The danger of all this is that it could give children the idea that winning is all that counts and that you should win at all costs." },
+        { "paragraph": 2, "text": "What can parents do about this?" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 4,
+      "type": "detail",
+      "stem": "According to paragraph 2, what should parents teach their children?",
+      "options": {
+        "A": "Collaboration is fundamental to any team's success.",
+        "B": "A player's performance is of greater value than his behaviour.",
+        "C": "A team with badly behaved-players will not win a game.",
+        "D": "Disrespect for referees is frowned upon by most viewers."
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A. Đoạn 2 khuyên cha mẹ chỉ ra rằng không cầu thủ nào tự mình thắng được một trận đấu đồng đội, nên các thành viên phải phối hợp tốt — tức sự hợp tác là nền tảng thành công. B sai vì bài chỉ gợi ý thảo luận xem kỹ năng có quan trọng hơn hành vi không, không khẳng định như vậy. C sai vì bài không nói đội có cầu thủ cư xử tệ sẽ không thắng. D sai vì bài không đề cập thái độ của đa số khán giả.",
+      "evidence": [
+        { "paragraph": 2, "text": "Point out that no player can win a team game on their own, so it is important for members to work well together." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 5,
+      "type": "vocabulary",
+      "stem": "The word \"grace\" in paragraph 3 is closest in meaning to ____.",
+      "target": { "paragraph": 3, "text": "grace" },
+      "options": {
+        "A": "generosity",
+        "B": "etiquette",
+        "C": "civility",
+        "D": "kindness"
+      },
+      "answer": "C",
+      "answerSource": "handwritten-corrected",
+      "needsReview": true,
+      "explanation": "Đáp án C (ảnh có khoanh B nhưng bị gạch, khoanh lại C). \"accept losing with good grace\" nghĩa là chấp nhận thua một cách lịch sự, nhã nhặn, đối lập với \"scowl and show a bad attitude\"; vì vậy \"grace\" gần nghĩa nhất với \"civility\" (sự lịch sự, nhã nhặn). Nghĩa các từ: A generosity = sự hào phóng; B etiquette = phép xã giao, nghi thức (chỉ bộ quy tắc ứng xử, không phải thái độ); C civility = sự lịch sự, nhã nhặn; D kindness = lòng tốt, tử tế. A và D không đúng sắc thái chấp nhận thất bại một cách đàng hoàng.",
+      "evidence": [
+        { "paragraph": 3, "text": "Do they accept losing with good grace or scowl and show a bad attitude?" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 6,
+      "type": "negative",
+      "stem": "Which of the following about sport is NOT mentioned in the passage?",
+      "options": {
+        "A": "Commentators may have different attitudes to players' bad behaviour.",
+        "B": "Some players manage to play fair with a view to advertising themselves.",
+        "C": "Coaches and managers' reactions to their teams' defeat can give children food for thought.",
+        "D": "A player's foul can go unpunished despite the presence of officials."
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B. Bài không hề nói cầu thủ chơi đẹp để quảng bá bản thân. A có trong đoạn 3 (bình luận viên có thể chê, thấy buồn cười hoặc cho là tốt). C có trong đoạn 3 (phản ứng của huấn luyện viên, quản lý khi thua là chủ đề để bàn với trẻ). D có trong đoạn 3 (trọng tài để cầu thủ phạm lỗi rõ ràng mà không bị phạt).",
+      "evidence": [
+        { "paragraph": 3, "text": "Do they frown on bad behaviour from players, think it's amusing or even consider it a good thing?" },
+        { "paragraph": 3, "text": "If they let players get away with a clear foul, parents can discuss with children whether this is right and what effect it has on the game." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 7,
+      "type": "reference",
+      "stem": "The word \"They\" in paragraph 4 refers to ____.",
+      "target": { "paragraph": 4, "text": "They" },
+      "options": {
+        "A": "positives",
+        "B": "players",
+        "C": "parents",
+        "D": "children"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. Câu trước là \"parents should make sure they accentuate the positives too\"; câu kế \"They should emphasize to children...\" — chủ thể nhấn mạnh với trẻ là \"parents\" (cha mẹ). A sai vì \"positives\" (điều tích cực) không thể nhấn mạnh với trẻ. B sai vì cầu thủ là đối tượng được nói đến. D sai vì \"children\" là người được nghe, xuất hiện ngay trong câu (\"to children\").",
+      "evidence": [
+        { "paragraph": 4, "text": "parents should make sure they accentuate the positives too. They should emphasize to children the high reputation that well-behaved players have" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 8,
+      "type": "negative",
+      "stem": "What should parents NOT emphasize to their children about well-behaved players?",
+      "options": {
+        "A": "Their strange behaviour in their private lives",
+        "B": "Their calm expressions after a game",
+        "C": "Their good deeds when they are not playing",
+        "D": "Their contribution to the overall performance of their team"
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A. Đoạn 4 khuyên cha mẹ nhấn mạnh cách những cầu thủ này cư xử tốt trong đời tư (\"how well these people conduct themselves in their personal lives\"), không phải hành vi kỳ quặc trong đời tư. B có trong bài (không hả hê khi thắng, không hờn dỗi khi thua). C có trong bài (\"the good work they do for others when not playing\"). D có trong bài (\"the contribution made by such players during a game\").",
+      "evidence": [
+        { "paragraph": 4, "text": "Parents can stress how well these people conduct themselves in their personal lives and the good work they do for others when not playing." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 9,
+      "type": "vocabulary",
+      "stem": "The word \"antics\" in paragraph 4 is closest in meaning to ____.",
+      "target": { "paragraph": 4, "text": "antics" },
+      "options": {
+        "A": "sorrow",
+        "B": "rebellion",
+        "C": "silliness",
+        "D": "hatred"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. \"antics\" là những trò hề, hành vi lố bịch, ngớ ngẩn; \"the antics of the badly behaved ... players\" là những trò lố của các cầu thủ cư xử tệ, gần nghĩa nhất với \"silliness\" (sự ngớ ngẩn, lố bịch). Nghĩa các từ: A sorrow = nỗi buồn; B rebellion = sự nổi loạn; C silliness = sự ngớ ngẩn, khờ khạo; D hatred = lòng căm ghét. A, B, D không diễn tả hành vi lố bịch.",
+      "evidence": [
+        { "paragraph": 4, "text": "rather than the antics of the badly behaved but often more publicized players." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 10,
+      "type": "inference",
+      "stem": "Which of the following can be inferred from the passage about well-behaved players?",
+      "options": {
+        "A": "They also tend to be good parents when not playing.",
+        "B": "They contribute more to their teams' success than others.",
+        "C": "They only display strong emotions when losing a game.",
+        "D": "They are respected by their teammates, spectators and the media."
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D. Đoạn 4 nói cầu thủ cư xử tốt có \"high reputation\" không chỉ với đồng đội mà còn với khán giả và truyền thông — suy ra họ được những nhóm này tôn trọng. A sai vì bài chỉ nói họ làm việc tốt cho người khác, không nói họ là cha mẹ tốt. B sai vì bài không so sánh mức đóng góp với cầu thủ khác. C sai vì bài nói họ không hờn dỗi khi thua (\"do not ... sulk when they lose\").",
+      "evidence": [
+        { "paragraph": 4, "text": "the high reputation that well-behaved players have, not just with their teammates but also with spectators and the media" }
+      ],
+      "status": "ok"
+    }
+  ],
+  "notes": [
+    "Đề in số đoạn 1-4 ở đầu mỗi đoạn; đã bỏ số và đặt numberedParagraphs = true.",
+    "Câu 2 không có đáp án khoanh tay; đã tự chọn C (fortified) theo nghĩa trong bài — answerSource = inferred, cần xem lại.",
+    "Câu 5: ảnh khoanh B (etiquette) rồi gạch bỏ, khoanh lại C (civility) — lấy C, answerSource = handwritten-corrected.",
+    "Câu 3: lựa chọn A-B nằm cuối ảnh IMG_9172, lựa chọn C-D nằm đầu ảnh IMG_9173.",
+    "Câu 4 lựa chọn C in \"badly behaved-players\" (dấu gạch nối đặt sai chỗ); đã chép nguyên văn."
+  ]
+}

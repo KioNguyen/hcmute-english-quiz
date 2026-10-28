@@ -1,0 +1,215 @@
+{
+  "id": 11,
+  "title": "Ten Events, One Champion: The Decathlon",
+  "topic": "Mười môn phối hợp (decathlon) - từ ngũ môn phối hợp Olympic cổ đại đến hiện đại",
+  "source": { "images": ["IMG_9177", "IMG_9178", "IMG_9179"] },
+  "numberedParagraphs": false,
+  "paragraphs": [
+    "Fay Webster takes a look at the world of athletics and finds out what it takes to be a true champion.",
+    "The Olympic Games have changed a lot since their origins in Ancient Greece. Today, athletes from countries all over the world take part and the Olympics are big business, watched by millions on television. Some things, though, have stayed the same. The athletes then could make a lot of money from winning, just like today's competitors. In the ancient Games, a great champion might have received as much as a year's pay for winning a race.",
+    "Another thing that hasn't changed is the search for an all-round champion, somebody who can defeat their opponents at a number of different sporting events. In the ancient Olympics, athletes competed in the pentathlon. This consisted of the long jump, the discus, the javelin, a running race and wrestling. The first winner, in 708 BC, was Lampis of Sparta, who must have been a great athlete to beat so many others from all over the Hellenic world. The pentathlon was an important part of the Olympics until Emperor Theodosius of Rome banned the Games in 393 AD.",
+    "The Stockholm Olympics of 1912 brought back this tradition of the search for all round greatness. The modern pentathlon was included (shooting, swimming, fencing, riding and running) and so was the modern decathlon (ten events), with the heptathlon (seven events) for women being introduced later. So, what drives someone to take on this running, throwing, jumping challenge and push their body to its limits? I met American decathlete Bruce Thorpe in New York and told him he must have been crazy to take up the decathlon. He laughed. 'Yes, I think I probably was. I could have done lots of different sports, but I chose the decathlon. It's very tough and it demands a lot of different skills. You have to train just as hard as other athletes, only you have to do it in ten different events! I think we're probably all a little crazy, but it's very satisfying in the end,' he said. I asked him to explain what happened in the decathlon.",
+    "'The way it works is that you complete each event, and you get points, depending on how well you do in that event. At the end of two days, the person with the most points is the champion and takes the gold medal, the second person gets the silver and the third the bronze medal. We start with the 100 metres, the long jump, the shot put, the high jump and the 400 metres. The second day, it's the 110-metre hurdles, the discus, the javelin, the pole vault and the one that we all dread, the 1500 metres.' I asked him what made the 1500 metres such a struggle. 'All the other events demand speed or strength. With the long race, it's stamina. Really, decathletes aren't built for that event.'",
+    "So, what tips does Bruce have for those of you thinking of taking up the decathlon? 'Start as early as you can and join a good club,' he said. 'It takes a long time to master ten different events, or seven for the heptathlon, and you need expert help. And don't expect to have much free time!'",
+    "Ten events, one champion. Think you might be the one? If you're interested in finding out more about the decathlon, contact your local athletics club."
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "type": "detail",
+      "stem": "In the first paragraph, the writer says that athletes today ____.",
+      "options": {
+        "A": "can become wealthy through sport.",
+        "B": "are much better than in ancient times.",
+        "C": "treat the Olympics like a business.",
+        "D": "are more popular than in ancient times."
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A. Bài nói vận động viên thời cổ đại có thể kiếm được nhiều tiền nhờ chiến thắng \"just like today's competitors\" - tức vận động viên ngày nay cũng có thể giàu lên nhờ thể thao. B và D sai vì bài không so sánh trình độ hay mức độ nổi tiếng của vận động viên xưa và nay. C sai vì bài nói bản thân Thế vận hội là \"big business\", chứ không nói vận động viên coi Olympic như một công việc kinh doanh.",
+      "evidence": [
+        { "paragraph": 2, "text": "The athletes then could make a lot of money from winning, just like today's competitors." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 2,
+      "type": "reference",
+      "stem": "What does the word \"This\" in line 8 refer to?",
+      "target": { "paragraph": 3, "text": "This consisted of the long jump" },
+      "options": {
+        "A": "The champion",
+        "B": "The running race",
+        "C": "Greece",
+        "D": "The pentathlon"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D. Câu trước nói \"athletes competed in the pentathlon\", câu sau \"This consisted of the long jump, the discus, the javelin, a running race and wrestling\" - \"This\" thay cho \"the pentathlon\" (ngũ môn phối hợp), vì chỉ ngũ môn phối hợp mới gồm năm nội dung này. A sai vì nhà vô địch không \"bao gồm\" các môn thi. B sai vì chạy đua chỉ là một trong các nội dung được liệt kê. C sai vì Hy Lạp là địa danh, không gồm các môn thi.",
+      "evidence": [
+        { "paragraph": 3, "text": "In the ancient Olympics, athletes competed in the pentathlon. This consisted of the long jump, the discus, the javelin, a running race and wrestling." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 3,
+      "type": "negative",
+      "stem": "The ancient pentathlon didn't test athletes' abilities to ____.",
+      "options": {
+        "A": "run fast.",
+        "B": "jump far.",
+        "C": "throw things.",
+        "D": "jump high."
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D. Ngũ môn phối hợp cổ đại gồm nhảy xa, ném đĩa, ném lao, chạy đua và vật - không có nhảy cao (nhảy cao chỉ xuất hiện trong decathlon hiện đại). A sai vì có \"a running race\" (chạy). B sai vì có \"the long jump\" (nhảy xa). C sai vì có \"the discus, the javelin\" (ném đĩa, ném lao).",
+      "evidence": [
+        { "paragraph": 3, "text": "This consisted of the long jump, the discus, the javelin, a running race and wrestling." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 4,
+      "type": "detail",
+      "stem": "Lampis of Sparta was ____.",
+      "options": {
+        "A": "Emperor Theodosius of Rome",
+        "B": "the organizer of the first ancient Olympics",
+        "C": "the first winner of the ancient Olympics",
+        "D": "the greatest athlete in history"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. Bài nói \"The first winner, in 708 BC, was Lampis of Sparta\" - Lampis là người chiến thắng đầu tiên (chính xác là người thắng đầu tiên của môn ngũ môn phối hợp tại Olympic cổ đại; lựa chọn C diễn đạt hơi rộng nhưng là đáp án phù hợp nhất). A sai vì Theodosius là hoàng đế La Mã đã cấm Thế vận hội, là người khác. B sai vì bài không nói Lampis tổ chức Olympic. D sai vì bài chỉ nói ông \"must have been a great athlete\", không nói là vĩ đại nhất lịch sử.",
+      "evidence": [
+        { "paragraph": 3, "text": "The first winner, in 708 BC, was Lampis of Sparta, who must have been a great athlete to beat so many others from all over the Hellenic world." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 5,
+      "type": "detail",
+      "stem": "According to the passage, the heptathlon for women ____.",
+      "options": {
+        "A": "became an Olympic event after 1912.",
+        "B": "tests the ability to ride a horse.",
+        "C": "is much easier than the decathlon.",
+        "D": "was similar to the ancient pentathlon."
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A. Bài nói Olympic Stockholm 1912 đưa vào ngũ môn và mười môn phối hợp hiện đại, \"with the heptathlon (seven events) for women being introduced later\" - tức bảy môn phối hợp nữ được đưa vào sau năm 1912. B sai vì cưỡi ngựa (riding) thuộc ngũ môn phối hợp hiện đại, không phải heptathlon. C sai vì bài không nói heptathlon dễ hơn nhiều. D sai vì bài không so sánh heptathlon với ngũ môn phối hợp cổ đại.",
+      "evidence": [
+        { "paragraph": 4, "text": "with the heptathlon (seven events) for women being introduced later" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 6,
+      "type": "detail",
+      "stem": "How many sporting events were included in the modern decathlon of Stockholm Olympics in 1912?",
+      "options": {
+        "A": "seven",
+        "B": "ten",
+        "C": "five",
+        "D": "only one"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B. Bài ghi rõ \"the modern decathlon (ten events)\" - mười môn phối hợp gồm 10 nội dung. A sai vì bảy nội dung là của heptathlon dành cho nữ. C sai vì năm nội dung là của ngũ môn phối hợp (pentathlon). D sai vì decathlon gồm nhiều nội dung chứ không chỉ một.",
+      "evidence": [
+        { "paragraph": 4, "text": "The modern pentathlon was included (shooting, swimming, fencing, riding and running) and so was the modern decathlon (ten events)" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 7,
+      "type": "detail",
+      "stem": "What did Bruce Thorpe say about decathlon?",
+      "options": {
+        "A": "It takes one day to decide the winner.",
+        "B": "There's no need for participants to train hard.",
+        "C": "It has only seven events.",
+        "D": "It is challenging and requires athletes to have various skills."
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D. Bruce nói \"It's very tough and it demands a lot of different skills\" - rất khó và đòi hỏi nhiều kỹ năng khác nhau. A sai vì người thắng được xác định sau hai ngày (\"At the end of two days\"). B sai vì anh nói phải tập luyện chăm chỉ như các vận động viên khác nhưng ở 10 nội dung. C sai vì decathlon có 10 nội dung, bảy là heptathlon.",
+      "evidence": [
+        { "paragraph": 4, "text": "It's very tough and it demands a lot of different skills." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 8,
+      "type": "detail",
+      "stem": "What do you have to do to win a gold medal in the decathlon?",
+      "options": {
+        "A": "Finish each event in the top three",
+        "B": "Beat the other competitors in at least three events",
+        "C": "Score more points than all the other competitors",
+        "D": "Complete the events in the right order"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. Mỗi nội dung được tính điểm, và \"At the end of two days, the person with the most points is the champion and takes the gold medal\" - người nhiều điểm nhất giành huy chương vàng. A sai vì \"top three\" là thứ hạng nhận huy chương chung cuộc, không phải điều kiện ở từng nội dung. B sai vì không có quy định thắng ít nhất ba nội dung. D sai vì thứ tự thi là cố định, không phải yếu tố quyết định huy chương vàng.",
+      "evidence": [
+        { "paragraph": 5, "text": "At the end of two days, the person with the most points is the champion and takes the gold medal" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 9,
+      "type": "detail",
+      "stem": "What does Bruce say about the events?",
+      "options": {
+        "A": "The 1500 metres is different from the other events.",
+        "B": "The first day is tougher than the second.",
+        "C": "It looks easier than it actually is.",
+        "D": "The 1500 metres should be on the first day."
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A. Bruce nói các nội dung khác đòi hỏi tốc độ hoặc sức mạnh, còn chạy 1500 m đòi hỏi sức bền (stamina) - tức 1500 m khác các nội dung còn lại. B sai vì anh không so sánh ngày nào khó hơn (thậm chí nội dung đáng sợ nhất lại ở ngày thứ hai). C sai vì anh không nói môn này trông dễ hơn thực tế. D sai vì anh không đề nghị chuyển 1500 m sang ngày đầu.",
+      "evidence": [
+        { "paragraph": 5, "text": "All the other events demand speed or strength. With the long race, it's stamina." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 10,
+      "type": "detail",
+      "stem": "What is Bruce's advice for people thinking of becoming decathletes?",
+      "options": {
+        "A": "Try to get a good time in all the events",
+        "B": "Get a trainer to guide you",
+        "C": "Take up the heptathlon instead",
+        "D": "Get up early to start training"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B. Bruce khuyên tham gia một câu lạc bộ tốt vì \"you need expert help\" - cần sự hướng dẫn của chuyên gia/huấn luyện viên. A sai vì anh không khuyên đạt thành tích tốt ở mọi nội dung. C sai vì heptathlon chỉ được nhắc như phiên bản bảy môn, không phải lời khuyên thay thế. D là bẫy: \"Start as early as you can\" nghĩa là bắt đầu càng sớm càng tốt (từ khi còn trẻ), không phải dậy sớm để tập.",
+      "evidence": [
+        { "paragraph": 6, "text": "'Start as early as you can and join a good club,' he said. 'It takes a long time to master ten different events, or seven for the heptathlon, and you need expert help." }
+      ],
+      "status": "ok"
+    }
+  ],
+  "notes": [
+    "Tiêu đề in sẵn: \"Ten Events, One Champion:\" / \"THE DECATHLON\" (in hoa) - ghép thành \"Ten Events, One Champion: The Decathlon\".",
+    "Đoạn 1 trong JSON là dòng giới thiệu (standfirst) \"Fay Webster takes a look...\"; \"the first paragraph\" trong Q1 tương ứng đoạn 2 (The Olympic Games have changed...).",
+    "Đề in nháy cong; đã chuyển sang nháy thẳng. Các từ được hỏi (This) không in đậm trong đề nên không thêm markup.",
+    "Q4: lựa chọn C ghi \"the first winner of the ancient Olympics\", trong khi bài nói Lampis là người thắng đầu tiên của môn ngũ môn phối hợp (708 BC); vẫn là đáp án phù hợp nhất."
+  ]
+}

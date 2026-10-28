@@ -1,0 +1,264 @@
+{
+  "id": 14,
+  "title": "Clinical Depression and Its Treatment",
+  "topic": "Bệnh trầm cảm lâm sàng: triệu chứng, nguyên nhân và cách điều trị",
+  "source": {
+    "images": [
+      "IMG_9183",
+      "IMG_9184",
+      "IMG_9185",
+      "IMG_9186"
+    ]
+  },
+  "numberedParagraphs": false,
+  "paragraphs": [
+    "Clinical depression, or Major Depressive Disorder (MDD), is clinically defined as a period of sadness or melancholia severe enough to interrupt the patterns of one's everyday life and lasting for a period of several weeks or longer. Although there has been an awareness of clinical depression for thousands of years, an understanding of its causes, and effective means of treatment, have only come in the last fifty years.",
+    "Clinical depression is an extremely widespread illness, with an estimated 16% of the population suffering from an episode of MDD at least once in their lifetime. Currently, clinical depression is the second leading cause of disability in the United States behind heart disease. Traditionally, females have reported higher rates of clinical depression than males, but this is thought to be due to the greater __stigmas__ against expressing one's feelings that are typical among males in most cultures rather than to any true difference in the occurrence of MDD among the two genders. Sufferers of clinical depression may exhibit an array of symptoms, some of the most common being increased apathy, disruptions in sleep and eating patterns, a withdrawal from pleasurable activities, and suicidal ideation.",
+    "While not completely understood, clinical depression is known to have both environmental and biological causes, and the most effective treatments involve a two-pronged approach of medication and emotional therapy. The mean age for the onset of clinical depression is in the mid to late twenties, and the pressure of fully transitioning to independent adult life is often counted as the primary trigger mechanism. While specific __bouts__ of clinical depression may be attributable to a certain event or trauma in a person's life, neurochemistry, which is largely genetic, seems to predispose some people to MDD. Clinical depression has been linked in numerous studies with imbalances in neurotransmitters, the chemicals that relay information between cells in the brain.",
+    "Medication to treat clinical depression first became available in the 1950s, and today there are two major classes of widely prescribed antidepressants: selective serotonin reuptake inhibitors (SSRIS) and serotonin norepinephrine reuptake inhibitors (SNRIS). Both classes of drugs operate by limiting the absorption (reuptake) of neurotransmitters, thereby increasing their levels in the brain, but SSRIS operate exclusively on serotonin, while SNRIs effect norepinephrine as well, making them slightly more effective. Both classes of drugs take several weeks to build up to effective levels in the bloodstream, and their effectiveness may be __compromised__ by the use of alcohol or other medications. For this reason they are carefully controlled by psychiatrists. Used alone, these antidepressants have proven to be about as effective as counseling, with reductions of depressive symptoms averaging about 55% and full remission at about 22%, but when used in conjunction with counseling they often result in reduction and remission rates closer to 85% and 45% respectively. Furthermore, continued use of antidepressants after the conclusion of counseling has been proven to greatly decrease the risk of relapse.",
+    "As effective as antidepressants have proven in treating clinical depression, they are not without drawbacks and criticisms. Typically, the first few weeks of treatment are when a depressive patient is at the greatest risk of suicide. There is some evidence that during this period, antidepressants may actually contribute to this risk because they reduce mental lethargy, and a more active mind may lead to increased suicidal ideation. Thus, it is critical that a patient be closely watched during the first few weeks of an antidepressant regimen. A further criticism of antidepressants is that they may have unpleasant sexual side-effects which may make them unpalatable to patients, given the long duration of their intended use. A final criticism concerns their role in the ever growing field of psycho-pharmacology. Antidepressants are by far the most commonly prescribed psychiatric drugs, and some mental health professionals worry that their profusion is leading to an over-reliance on chemical solutions to emotional issues."
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "type": "negative",
+      "stem": "The passage discusses all of the following aspects of clinical depression EXCEPT ____.",
+      "options": {
+        "A": "its characteristic symptoms",
+        "B": "its official medical definition",
+        "C": "methods of counseling used to treat it",
+        "D": "available medications for treatment"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: bài có nhắc tới việc tư vấn tâm lý (counseling) như một phương pháp điều trị kết hợp, nhưng KHÔNG mô tả các phương pháp tư vấn cụ thể. A được nói ở đoạn 2 (thờ ơ, rối loạn giấc ngủ và ăn uống...). B là định nghĩa y khoa ở đoạn 1. D là hai nhóm thuốc SSRIs và SNRIs ở đoạn 4.",
+      "evidence": [
+        {
+          "paragraph": 4,
+          "text": "Used alone, these antidepressants have proven to be about as effective as counseling, with reductions of depressive symptoms averaging about 55% and full remission at about 22%, but when used in conjunction with counseling they often result in reduction and remission rates closer to 85% and 45% respectively."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 2,
+      "type": "vocabulary",
+      "stem": "The word \"stigmas\" in line 12 is closest in meaning to ____.",
+      "target": {
+        "paragraph": 2,
+        "text": "stigmas"
+      },
+      "options": {
+        "A": "cultures",
+        "B": "taboos",
+        "C": "preventions",
+        "D": "inabilities"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B: 'stigma' = sự kỳ thị, định kiến xã hội; 'taboo' = điều cấm kỵ - gần nghĩa nhất: ở nhiều nền văn hóa, nam giới bị định kiến khi bộc lộ cảm xúc. A cultures = các nền văn hóa; C preventions = sự ngăn ngừa; D inabilities = sự không có khả năng.",
+      "evidence": [
+        {
+          "paragraph": 2,
+          "text": "Traditionally, females have reported higher rates of clinical depression than males, but this is thought to be due to the greater stigmas against expressing one's feelings that are typical among males in most cultures rather than to any true difference in the occurrence of MDD among the two genders."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 3,
+      "type": "detail",
+      "stem": "According to paragraph 2, the actual rates of clinical depression are most likely ____.",
+      "options": {
+        "A": "much higher than they were in the past",
+        "B": "quickly catching up with those of heart disease",
+        "C": "about the same between men and women",
+        "D": "impossible to accurately calculate"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: đoạn 2 nói nữ giới thường báo cáo tỉ lệ trầm cảm cao hơn nam, nhưng điều này được cho là do định kiến khiến nam giới ngại bộc lộ cảm xúc 'chứ không phải do có sự khác biệt thực sự' giữa hai giới - nên tỉ lệ thực tế có lẽ tương đương nhau. A sai vì bài không so sánh với quá khứ. B sai vì bài chỉ nói trầm cảm là nguyên nhân gây mất khả năng lao động đứng thứ hai sau bệnh tim, không nói đang 'đuổi kịp'. D không được nhắc tới.",
+      "evidence": [
+        {
+          "paragraph": 2,
+          "text": "Traditionally, females have reported higher rates of clinical depression than males, but this is thought to be due to the greater stigmas against expressing one's feelings that are typical among males in most cultures rather than to any true difference in the occurrence of MDD among the two genders."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 4,
+      "type": "detail",
+      "stem": "According to paragraph 3, the pressures of becoming an independent adult often ____.",
+      "options": {
+        "A": "are the root causes of clinical depression",
+        "B": "are irrelevant to clinical depression",
+        "C": "precede the onset of clinical depression",
+        "D": "only serve to increase the symptoms of depression"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: đoạn 3 nói tuổi khởi phát trung bình là cuối độ tuổi 20, và áp lực chuyển hẳn sang cuộc sống tự lập thường được coi là 'cơ chế kích hoạt chính' (primary trigger) - tức áp lực này thường xảy ra TRƯỚC khi bệnh khởi phát. A sai vì 'yếu tố kích hoạt' khác với 'nguyên nhân gốc'; bài nói nguyên nhân gồm cả môi trường và sinh học. B ngược với bài. D sai vì bài không nói áp lực chỉ làm tăng triệu chứng.",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "text": "The mean age for the onset of clinical depression is in the mid to late twenties, and the pressure of fully transitioning to independent adult life is often counted as the primary trigger mechanism."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 5,
+      "type": "vocabulary",
+      "stem": "The word \"bouts\" in line 22 is closest in meaning to ____.",
+      "target": {
+        "paragraph": 3,
+        "text": "bouts"
+      },
+      "options": {
+        "A": "symptoms",
+        "B": "types",
+        "C": "episodes",
+        "D": "diagnoses"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: 'bout' = một đợt, một cơn (bệnh); 'episode' = một giai đoạn, một đợt (bệnh) - đồng nghĩa. Bài cũng dùng 'an episode of MDD' ở đoạn 2. A symptoms = triệu chứng; B types = loại; D diagnoses = chẩn đoán.",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "text": "While specific bouts of clinical depression may be attributable to a certain event or trauma in a person's life, neurochemistry, which is largely genetic, seems to predispose some people to MDD."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 6,
+      "type": "inference",
+      "stem": "Based on the information in paragraph 3, it can be inferred that clinical depression is ____.",
+      "options": {
+        "A": "largely an untreatable condition",
+        "B": "often a hereditary condition",
+        "C": "entirely chemical in nature",
+        "D": "often accompanied by other mental problems"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B: đoạn 3 nói hóa học thần kinh 'phần lớn mang tính di truyền' (largely genetic) dường như khiến một số người dễ mắc trầm cảm, nên có thể suy ra trầm cảm thường mang tính di truyền. A sai vì bài nói có phương pháp điều trị hiệu quả (thuốc kết hợp trị liệu). C sai vì bệnh có cả nguyên nhân môi trường, không 'hoàn toàn' do hóa học. D không được nhắc tới.",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "text": "While specific bouts of clinical depression may be attributable to a certain event or trauma in a person's life, neurochemistry, which is largely genetic, seems to predispose some people to MDD."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 7,
+      "type": "vocabulary",
+      "stem": "The word \"compromised\" in line 35 is closest in meaning to ____.",
+      "target": {
+        "paragraph": 4,
+        "text": "compromised"
+      },
+      "options": {
+        "A": "negotiated",
+        "B": "altered",
+        "C": "questioned",
+        "D": "endangered"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D: 'be compromised' ở đây = bị suy giảm, bị tổn hại; 'endangered' = bị đe dọa, bị đặt vào nguy cơ - gần nghĩa nhất: hiệu quả của thuốc có thể bị ảnh hưởng xấu bởi rượu hoặc thuốc khác. A negotiated = được thương lượng (nghĩa khác của compromise: thỏa hiệp); B altered = bị thay đổi (không mang sắc thái tiêu cực); C questioned = bị nghi vấn.",
+      "evidence": [
+        {
+          "paragraph": 4,
+          "text": "Both classes of drugs take several weeks to build up to effective levels in the bloodstream, and their effectiveness may be compromised by the use of alcohol or other medications."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 8,
+      "type": "detail",
+      "stem": "According to paragraph 5, antidepressants may lead to an increased risk of suicide in the first few weeks of treatment because ____.",
+      "options": {
+        "A": "that is the time when their side-effects are strongest",
+        "B": "they may stimulate an overproduction of serotonin",
+        "C": "they increase mental activity, leading to more thoughts of suicide",
+        "D": "they draw attention away from much needed counseling"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: đoạn 5 nói có bằng chứng rằng trong vài tuần đầu, thuốc có thể góp phần làm tăng nguy cơ vì chúng giảm sự uể oải về tinh thần, và một tâm trí năng động hơn có thể dẫn tới nhiều ý nghĩ tiêu cực hơn - vì vậy bệnh nhân cần được theo dõi sát. A sai vì tác dụng phụ được nhắc riêng như một chỉ trích khác. B sai vì bài không nói thuốc gây sản sinh quá mức serotonin. D không được nhắc tới.",
+      "evidence": [
+        {
+          "paragraph": 5,
+          "text": "There is some evidence that during this period, antidepressants may actually contribute to this risk because they reduce mental lethargy, and a more active mind may lead to increased suicidal ideation."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 9,
+      "type": "detail",
+      "stem": "According to the passage, why may females appear to have higher rates of clinical depression than males?",
+      "options": {
+        "A": "Females are more likely to experience traumatic events.",
+        "B": "Females have more biological risk factors for depression.",
+        "C": "Males may be less willing to express their feelings because of social stigma.",
+        "D": "Males usually develop depression at a younger age."
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: đoạn 2 giải thích nữ giới có vẻ có tỉ lệ cao hơn là do định kiến lớn hơn đối với việc bộc lộ cảm xúc ở nam giới trong hầu hết các nền văn hóa. A, B, D không được nhắc tới trong bài.",
+      "evidence": [
+        {
+          "paragraph": 2,
+          "text": "Traditionally, females have reported higher rates of clinical depression than males, but this is thought to be due to the greater stigmas against expressing one's feelings that are typical among males in most cultures rather than to any true difference in the occurrence of MDD among the two genders."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 10,
+      "type": "inference",
+      "stem": "What can be inferred about the causes of clinical depression from the passage?",
+      "options": {
+        "A": "Clinical depression is caused mainly by stressful events.",
+        "B": "Clinical depression is entirely determined by genetic factors.",
+        "C": "Both environmental factors and biological factors can contribute to clinical depression.",
+        "D": "Researchers have already identified one specific cause of clinical depression."
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: đoạn 3 nói trầm cảm có cả nguyên nhân môi trường và sinh học; một đợt bệnh có thể do sự kiện/sang chấn trong đời, trong khi yếu tố di truyền khiến một số người dễ mắc bệnh. A sai vì bài không nói chủ yếu do sự kiện căng thẳng. B sai vì 'entirely' (hoàn toàn) do di truyền là quá tuyệt đối. D sai vì câu đầu đoạn 3 nói bệnh 'chưa được hiểu hoàn toàn', chưa xác định được một nguyên nhân cụ thể.",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "text": "While not completely understood, clinical depression is known to have both environmental and biological causes, and the most effective treatments involve a two-pronged approach of medication and emotional therapy."
+        },
+        {
+          "paragraph": 3,
+          "text": "While specific bouts of clinical depression may be attributable to a certain event or trauma in a person's life, neurochemistry, which is largely genetic, seems to predispose some people to MDD."
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "notes": [
+    "Text bài đọc được nhận dạng bằng OCR (Apple Vision) từ ảnh rồi rà lại; nếu thấy lỗi chính tả hãy đối chiếu ảnh gốc.",
+    "Đề không in tiêu đề; tiêu đề do người soạn đặt.",
+    "Đề in 'SNRIs effect norepinephrine' (đúng ra là 'affect'); giữ nguyên văn."
+  ]
+}

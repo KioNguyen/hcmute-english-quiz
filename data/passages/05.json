@@ -1,0 +1,298 @@
+{
+  "id": 5,
+  "title": "Evidence that Humans Are Right-Handed",
+  "topic": "Các bằng chứng khảo cổ và nhân chủng học cho thấy loài người chủ yếu thuận tay phải",
+  "source": {
+    "images": [
+      "IMG_9167",
+      "IMG_9168"
+    ]
+  },
+  "numberedParagraphs": false,
+  "paragraphs": [
+    "Archaeological records-paintings, drawings and carvings of humans engaged in activities involving the use of hands-indicate that humans have been predominantly right-handed for more than 5,000 years. In ancient Egyptian artwork, for example, the right hand is depicted as the dominant one in about 90 percent of the examples. Fracture or wear patterns on tools also indicate that a majority of ancient people were right-handed. Cro-Magnon cave paintings some 27,000 years old commonly show outlines of human hands made by placing one hand against the cave wall and applying paint with the other. Children today make similar outlines of their hands with crayons on paper. With few exceptions, left hands of Cro-Magnons are displayed on cave walls, indicating that the paintings were usually done by right-handers.",
+    "Anthropological evidence pushes the record of handedness in early human ancestors back to at least 1.4 million years ago. One important line of evidence comes from flaking patterns of stone cores used in tool making: implements flaked with a clockwise motion (indicating a right-handed toolmaker) can be distinguished from those flaked with a counter-clockwise rotation (indicating a left-handed toolmaker).",
+    "Even scratches found on fossil human teeth offer clues. Ancient humans are thought to have cut meat into strips by holding it between their teeth and slicing it with stone knives, as do the present-day Inuit. Occasionally the knives slip and leave scratches on the users' teeth. Scratches made with a left-to-right stroke direction (by right-handers) are more common than scratches in the opposite direction (made by left-handers).",
+    "Still other evidence comes from cranial morphology: scientists think that physical differences between the right and left sides of the interior of the skull indicate subtle physical differences between the two sides of the brain. The variation between the hemispheres corresponds to which side of the body is used to perform specific activities. Such studies, as well as studies of tool use, indicate that right- or left-sided dominance is not exclusive to modern Homo sapiens. Population of Neanderthals, such as Homo erectus and Homo habilis, seem to have been predominantly right-handed, as we are."
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "type": "vocabulary",
+      "stem": "The word \"clues\" in line 16 is closest in meaning to ____.",
+      "target": {
+        "paragraph": 3,
+        "text": "clues"
+      },
+      "options": {
+        "A": "solutions",
+        "B": "details",
+        "C": "damage",
+        "D": "information"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D: 'clue' = manh mối, dấu hiệu gợi ý; 'information' = thông tin - gần nghĩa nhất: những vết xước trên răng hóa thạch cung cấp thông tin về việc thuận tay. A solutions = lời giải (quá mạnh, manh mối chưa phải lời giải); B details = chi tiết; C damage = sự hư hại (vết xước là hư hại nhưng 'clues' chỉ vai trò gợi ý thông tin).",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "text": "Even scratches found on fossil human teeth offer clues."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 2,
+      "type": "purpose",
+      "stem": "The fact that the Inuit cut meat by holding it between their teeth is significant because ____.",
+      "options": {
+        "A": "the relationship between handedness and scratches on fossil human teeth can be verified",
+        "B": "it emphasizes the differences between contemporary humans and their ancestors",
+        "C": "the scratch patterns produced by stone knives vary significantly from patterns produced by modern knives",
+        "D": "it demonstrates that ancient humans were not skilled at using tools"
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A: người Inuit ngày nay vẫn cắt thịt bằng cách ngậm giữa răng rồi cắt bằng dao đá, nên có thể quan sát trực tiếp cách dao trượt để lại vết xước theo hướng tay cầm - từ đó kiểm chứng được mối liên hệ giữa thuận tay và vết xước trên răng người cổ. B sai vì chi tiết này cho thấy sự giống nhau, không phải khác biệt. C sai vì bài không so sánh dao đá với dao hiện đại. D sai vì bài không nói người cổ kém dùng công cụ.",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "text": "Ancient humans are thought to have cut meat into strips by holding it between their teeth and slicing it with stone knives, as do the present-day Inuit. Occasionally the knives slip and leave scratches on the users' teeth. Scratches made with a left-to-right stroke direction (by right-handers) are more common than scratches in the opposite direction (made by left-handers)."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 3,
+      "type": "vocabulary",
+      "stem": "The word \"hemispheres\" in line 23 is closest in meaning to ____.",
+      "target": {
+        "paragraph": 4,
+        "text": "hemispheres"
+      },
+      "options": {
+        "A": "differences",
+        "B": "sides",
+        "C": "activities",
+        "D": "studies"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B: 'hemisphere' = bán cầu (não); câu trước vừa nói 'two sides of the brain' nên 'hemispheres' ở đây chính là hai bên (sides) của não. A differences = sự khác biệt; C activities = hoạt động; D studies = nghiên cứu.",
+      "evidence": [
+        {
+          "paragraph": 4,
+          "text": "Still other evidence comes from cranial morphology: scientists think that physical differences between the right and left sides of the interior of the skull indicate subtle physical differences between the two sides of the brain."
+        },
+        {
+          "paragraph": 4,
+          "text": "The variation between the hemispheres corresponds to which side of the body is used to perform specific activities."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 4,
+      "type": "detail",
+      "stem": "What does the author say about Cro-Magnon paintings of hands?",
+      "options": {
+        "A": "Some are not very old.",
+        "B": "It is unusual to see such paintings.",
+        "C": "Many were made by children.",
+        "D": "The artists were mostly right-handed."
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D: đoạn 1 nói hầu hết tranh hang động Cro-Magnon vẽ bàn tay TRÁI (tay đặt lên vách), nghĩa là tay phải cầm màu - cho thấy người vẽ phần lớn thuận tay phải. A sai vì các bức tranh đã khoảng 27.000 năm tuổi. B sai vì bài nói các bức tranh này 'thường' (commonly) có. C sai vì trẻ em ngày nay chỉ được đem ra so sánh (vẽ viền bàn tay bằng bút sáp).",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "text": "Cro-Magnon cave paintings some 27,000 years old commonly show outlines of human hands made by placing one hand against the cave wall and applying paint with the other."
+        },
+        {
+          "paragraph": 1,
+          "text": "With few exceptions, left hands of Cro-Magnons are displayed on cave walls, indicating that the paintings were usually done by right-handers."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 5,
+      "type": "vocabulary",
+      "stem": "The word \"implements\" in line 14 is closest in meaning to ____.",
+      "target": {
+        "paragraph": 2,
+        "text": "implements"
+      },
+      "options": {
+        "A": "tools",
+        "B": "designs",
+        "C": "examples",
+        "D": "pieces"
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A: danh từ 'implement' = dụng cụ, công cụ = 'tool'. Trong bài là các công cụ được ghè đẽo từ lõi đá. B designs = thiết kế; C examples = ví dụ; D pieces = mảnh, mẩu.",
+      "evidence": [
+        {
+          "paragraph": 2,
+          "text": "One important line of evidence comes from flaking patterns of stone cores used in tool making: implements flaked with a clockwise motion (indicating a right-handed toolmaker) can be distinguished from those flaked with a counter-clockwise rotation (indicating a left-handed toolmaker)."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 6,
+      "type": "purpose",
+      "stem": "Why does the author mention Homo erectus and Homo habilis in line 30?",
+      "target": {
+        "paragraph": 4,
+        "text": "Homo erectus and Homo habilis"
+      },
+      "options": {
+        "A": "To contrast them with modern humans",
+        "B": "To explain when human ancestors began to make tools",
+        "C": "To show that early humans were also predominantly right handed",
+        "D": "To prove that the population of Neanderthals was very large"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: câu cuối bài nói các quần thể người cổ như Homo erectus và Homo habilis dường như cũng chủ yếu thuận tay phải 'như chúng ta' - tác giả nhắc tới họ để cho thấy việc thuận tay phải không chỉ có ở người hiện đại. A sai vì đây là so sánh giống nhau, không phải đối lập. B sai vì bài không nói khi nào tổ tiên bắt đầu chế tạo công cụ. D sai vì bài không nói gì về quy mô dân số.",
+      "evidence": [
+        {
+          "paragraph": 4,
+          "text": "Such studies, as well as studies of tool use, indicate that right- or left-sided dominance is not exclusive to modern Homo sapiens."
+        },
+        {
+          "paragraph": 4,
+          "text": "Population of Neanderthals, such as Homo erectus and Homo habilis, seem to have been predominantly right-handed, as we are."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 7,
+      "type": "negative",
+      "stem": "All of the follows are mentioned as types of evidence concerning handedness EXCEPT ____.",
+      "options": {
+        "A": "ancient artwork",
+        "B": "asymmetrical skulls",
+        "C": "studies of tool use",
+        "D": "fossilized hand bones"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D: bài không hề nhắc tới xương bàn tay hóa thạch; hóa thạch được nhắc tới là RĂNG có vết xước. A (tranh, chạm khắc cổ, nghệ thuật Ai Cập) ở đoạn 1; B (khác biệt giữa hai bên hộp sọ - cranial morphology) ở đoạn 4; C (nghiên cứu về cách dùng công cụ) ở đoạn 2 và 4.",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "text": "Archaeological records-paintings, drawings and carvings of humans engaged in activities involving the use of hands-indicate that humans have been predominantly right-handed for more than 5,000 years."
+        },
+        {
+          "paragraph": 4,
+          "text": "Still other evidence comes from cranial morphology: scientists think that physical differences between the right and left sides of the interior of the skull indicate subtle physical differences between the two sides of the brain."
+        },
+        {
+          "paragraph": 4,
+          "text": "Such studies, as well as studies of tool use, indicate that right- or left-sided dominance is not exclusive to modern Homo sapiens."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 8,
+      "type": "main-idea",
+      "stem": "What is the main idea of the passage?",
+      "options": {
+        "A": "Human ancestors became predominantly right-handed when they began to use tools.",
+        "B": "It is difficult to interpret the significance of anthropological evidence concerning tool use.",
+        "C": "Humans and their ancestors have been predominantly right-handed for over a million years.",
+        "D": "Human ancestors were more skilled at using both hands than modern humans."
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: cả bài đưa ra nhiều loại bằng chứng (tranh vẽ, công cụ, răng, hộp sọ) cho thấy con người và tổ tiên đã chủ yếu thuận tay phải từ ít nhất 1,4 triệu năm trước. A sai vì bài không nói việc thuận tay phải bắt đầu khi dùng công cụ. B sai vì tác giả không nói bằng chứng khó diễn giải. D trái với bài.",
+      "evidence": [
+        {
+          "paragraph": 2,
+          "text": "Anthropological evidence pushes the record of handedness in early human ancestors back to at least 1.4 million years ago."
+        },
+        {
+          "paragraph": 4,
+          "text": "Population of Neanderthals, such as Homo erectus and Homo habilis, seem to have been predominantly right-handed, as we are."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 9,
+      "type": "reference",
+      "stem": "The word \"other\" in line 8 refers to ____.",
+      "target": {
+        "paragraph": 1,
+        "text": "applying paint with the other"
+      },
+      "options": {
+        "A": "outline",
+        "B": "hand",
+        "C": "wall",
+        "D": "paint"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B: 'placing one hand against the cave wall and applying paint with the other' - 'the other' đối ứng với 'one hand', tức là bàn tay còn lại (hand). A outline (đường viền), C wall (vách hang), D paint (màu vẽ) đều không hợp với cấu trúc 'one ... the other'.",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "text": "Cro-Magnon cave paintings some 27,000 years old commonly show outlines of human hands made by placing one hand against the cave wall and applying paint with the other."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 10,
+      "type": "inference",
+      "stem": "When compared with implements \"flaked with a counter-clockwise rotation\" (line 16), it can be inferred that \"implements flaked with a clock-wise motion\" (lines 14-15) are",
+      "target": {
+        "paragraph": 2,
+        "text": "implements flaked with a clockwise motion"
+      },
+      "options": {
+        "A": "more common",
+        "B": "larger",
+        "C": "more sophisticated",
+        "D": "older"
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A: công cụ ghè theo chiều kim đồng hồ là do người thuận tay phải làm; vì bài khẳng định con người chủ yếu thuận tay phải từ ít nhất 1,4 triệu năm trước, có thể suy ra loại công cụ này phổ biến hơn. B (lớn hơn), C (tinh xảo hơn), D (cổ hơn) không có cơ sở trong bài.",
+      "evidence": [
+        {
+          "paragraph": 2,
+          "text": "Anthropological evidence pushes the record of handedness in early human ancestors back to at least 1.4 million years ago."
+        },
+        {
+          "paragraph": 2,
+          "text": "One important line of evidence comes from flaking patterns of stone cores used in tool making: implements flaked with a clockwise motion (indicating a right-handed toolmaker) can be distinguished from those flaked with a counter-clockwise rotation (indicating a left-handed toolmaker)."
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "notes": [
+    "Text bài đọc được nhận dạng bằng OCR (Apple Vision) từ ảnh rồi rà lại; nếu thấy lỗi chính tả hãy đối chiếu ảnh gốc.",
+    "Đề không in tiêu đề; tiêu đề do người soạn đặt.",
+    "Câu 6: đề in lỗi 'Home habilis', đã sửa thành 'Homo habilis'.",
+    "Câu 7: đề in 'All of the follows' (đúng ra là 'following'); giữ nguyên văn."
+  ]
+}

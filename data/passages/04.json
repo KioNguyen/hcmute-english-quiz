@@ -1,0 +1,196 @@
+{
+  "id": 4,
+  "title": "Fresh Water Supply: Surface Water and Ground Water",
+  "topic": "Nguồn cung cấp nước ngọt: nước mặt và nước ngầm",
+  "source": { "images": ["IMG_9163", "IMG_9164", "IMG_9165"] },
+  "numberedParagraphs": false,
+  "paragraphs": [
+    "Ensuring the reliability and purity of the water supply is one of the more significant challenges facing an ever growing world population. Unfortunately, only about 3% of the world's total water supply is fresh; the rest is sea water and is unusable for most of our purposes. Furthermore, of that 3%, three fourths are largely inaccessible because it exists as frozen ice locked in the polar ice caps or as glaciers high in mountains. The remaining percentage of fresh water that is available for human use exists in two forms: surface water and ground water.",
+    "Surface water is found in rivers, lakes, and man-made reservoirs fed by either rainfall or snowmelt. Surface water makes up nearly 80% of all the water utilized by humans, primarily due to its accessibility. Nearly every river or lake in the world contains one or more pumping stations to divert a portion of its flow to nearby population centers. However, surface water supplies present several disadvantages. First, surface water is easily polluted. Chemical pollution from the air enters surface water in the form of rain, and ground pollution is either dumped directly into lakes and rivers or washed into them by rainwater. In addition, biological pollution, caused by the dumping of raw sewage into a water source, can lead to dangerous levels of bacteria. Another problem in relying on surface water is that its supply is highly variable. Water levels in lakes and rivers can fall drastically in periods of severe drought. In places that are __prone__ to extended dry periods, such as Australia or much of California, some rivers are even known to occasionally run dry due to a combination of drought and overuse.",
+    "The other primary source of fresh water is ground water. Although ground water is estimated to be as much as 50 times more abundant than surface water, it constitutes only 20% of all the fresh water used by humans, and much of this usage occurs in rural areas. This is a reflection of the relative difficulty in obtaining ground water. Ground water exists in underground deposits known as aquifers, layers of __porous__ rock in the Earth. As rainwater sinks into the ground it eventually reaches the aquifer where it is absorbed, much as a kitchen sponge absorbs water.",
+    "To obtain ground water, a well must be drilled down to the level of the aquifer, and then the water must be pumped to the surface. Aquifers occur at different depths in different areas, and the deeper the aquifer, the more difficult and more expensive it is to __extract__ its water. Furthermore, if water is taken from an aquifer at a higher rate than it is recharged naturally, its level will drop, necessitating ever deeper wells. This also creates problems with ground stability. As water is drained out of an aquifer, the ground naturally tends to sink and compress, leading to greater risk of subsidence and landslides. Since aquifers are fed through a slow acting system of drainage, they have much slower recharge rates than surface water resources and are easily overtaxed. Therefore, ground water is generally only used when surface water is unavailable, even though ground water is far more abundant.",
+    "Like surface water, ground water can also become polluted, although not as easily. The soil that water sinks through before reaching the aquifer acts as a natural filter, leaching out some of the pollutants. Furthermore, the lack of oxygen in the aquifer generally restricts the growth of bacteria, so most ground water can be utilized safely without treatment. However, pollution can enter an aquifer when pollution sources are buried underground, such as they are in landfills. In other areas, the presence of heavy metals, nearly all of which are highly toxic in the human body, may render ground water undrinkable."
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "type": "negative",
+      "stem": "According to paragraph 1, all of the following are true of fresh water EXCEPT ____.",
+      "options": {
+        "A": "It makes up a minute proportion of the world's total water supply.",
+        "B": "Much of it is unavailable for human use.",
+        "C": "Its supply is endangered by the melting of the ice caps.",
+        "D": "Its reliable supply is a growing problem in the world."
+      },
+      "answer": "C",
+      "answerSource": "handwritten-corrected",
+      "needsReview": true,
+      "explanation": "Đáp án C: đoạn 1 không hề nói nguồn nước ngọt bị đe dọa bởi băng tan; bài chỉ nói ba phần tư nước ngọt bị \"khóa\" trong băng ở hai cực và sông băng. A đúng vì bài nói chỉ khoảng 3% tổng lượng nước trên thế giới là nước ngọt (minute = rất nhỏ). B đúng vì ba phần tư của 3% đó phần lớn không thể tiếp cận được. D đúng vì câu mở đầu nói bảo đảm nguồn nước đáng tin cậy là một trong những thách thức lớn đối với dân số thế giới ngày càng tăng. Trong ảnh có hai dấu khoanh (C và D), dấu ở D bị gạch chéo nên lấy C.",
+      "evidence": [
+        { "paragraph": 1, "text": "Furthermore, of that 3%, three fourths are largely inaccessible because it exists as frozen ice locked in the polar ice caps or as glaciers high in mountains." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 2,
+      "type": "detail",
+      "stem": "What is the source of most surface water?",
+      "options": {
+        "A": "Melting glaciers",
+        "B": "Underground springs",
+        "C": "Precipitation",
+        "D": "Filtration of sea water"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: đầu đoạn 2 nói nước mặt ở sông, hồ và hồ chứa nhân tạo được cấp bởi mưa hoặc tuyết tan (rainfall or snowmelt) - tức là lượng giáng thủy (precipitation). A sai vì sông băng được nhắc đến ở đoạn 1 như nơi nước ngọt bị khóa lại, không phải nguồn cấp nước mặt. B sai vì mạch nước ngầm thuộc về nước ngầm, không được nêu là nguồn của nước mặt. D sai vì bài nói nước biển không dùng được cho hầu hết mục đích, không nhắc đến việc lọc nước biển.",
+      "evidence": [
+        { "paragraph": 2, "text": "Surface water is found in rivers, lakes, and man-made reservoirs fed by either rainfall or snowmelt." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 3,
+      "type": "inference",
+      "stem": "Based on the information in paragraph 2, what can be inferred about most population centers?",
+      "options": {
+        "A": "They have grown to sizes unsustainable by current water resources.",
+        "B": "They generally can be found in close proximity to a source of surface water.",
+        "C": "They always contribute to greater levels of pollution in surface water.",
+        "D": "They are unable to cope with rising levels of bacteria in surface water."
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B: đoạn 2 nói hầu như mọi con sông, hồ trên thế giới đều có trạm bơm để chuyển một phần dòng chảy tới các khu dân cư \"gần đó\" (nearby population centers), và nước mặt được dùng nhiều chủ yếu nhờ dễ tiếp cận - suy ra các khu dân cư thường nằm gần nguồn nước mặt. A sai vì bài không nói dân số đã vượt quá khả năng cung cấp nước. C sai vì bài chỉ nêu các nguồn ô nhiễm nói chung, không khẳng định mọi khu dân cư luôn gây ô nhiễm. D sai vì bài không nói các khu dân cư không đối phó được với vi khuẩn.",
+      "evidence": [
+        { "paragraph": 2, "text": "Nearly every river or lake in the world contains one or more pumping stations to divert a portion of its flow to nearby population centers." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 4,
+      "type": "vocabulary",
+      "stem": "The word \"prone\" in line 19 is closest in meaning to ____.",
+      "target": { "paragraph": 2, "text": "prone" },
+      "options": {
+        "A": "inclined",
+        "B": "experienced",
+        "C": "recognized",
+        "D": "associated"
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A: \"prone to\" nghĩa là dễ bị, có xu hướng gặp phải (điều xấu); \"inclined (to)\" = có khuynh hướng, dễ bị. Trong bài, những nơi \"prone to extended dry periods\" là nơi dễ gặp các đợt khô hạn kéo dài như Úc hay California. B \"experienced\" = có kinh nghiệm/từng trải; C \"recognized\" = được công nhận; D \"associated\" = có liên quan - đều không diễn tả xu hướng dễ bị khô hạn.",
+      "evidence": [
+        { "paragraph": 2, "text": "In places that are prone to extended dry periods, such as Australia or much of California, some rivers are even known to occasionally run dry" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 5,
+      "type": "detail",
+      "stem": "According to paragraph 2, what causes increases in bacteria levels in surface water?",
+      "options": {
+        "A": "Increased industrial pollution",
+        "B": "The dumping of human and animal waste",
+        "C": "Overexploitation of a surface water source",
+        "D": "Drops in the overall level of a surface water source"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B: đoạn 2 nói ô nhiễm sinh học do xả nước thải thô (raw sewage - chất thải của người và động vật) vào nguồn nước có thể dẫn tới mức vi khuẩn nguy hiểm. A sai vì ô nhiễm hóa học từ không khí hay ô nhiễm công nghiệp không được gắn với vi khuẩn. C và D sai vì khai thác quá mức và mực nước giảm được nêu như vấn đề về nguồn cung không ổn định, không liên quan đến vi khuẩn.",
+      "evidence": [
+        { "paragraph": 2, "text": "biological pollution, caused by the dumping of raw sewage into a water source, can lead to dangerous levels of bacteria." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 6,
+      "type": "vocabulary",
+      "stem": "The word \"porous\" in line 27 is closest in meaning to ____.",
+      "target": { "paragraph": 3, "text": "porous" },
+      "options": {
+        "A": "sodden",
+        "B": "absorptive",
+        "C": "permeable",
+        "D": "submerged"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: \"porous\" = xốp, có nhiều lỗ nhỏ cho nước thấm qua; \"permeable\" = có thể thấm qua được - nghĩa gần nhất. Bài mô tả tầng ngậm nước là các lớp đá xốp mà nước mưa thấm xuống và được giữ lại như bọt biển. A \"sodden\" = ướt sũng; B \"absorptive\" = có tính hút, hấp thụ (gần nhưng nhấn vào việc giữ nước hơn là cấu trúc có lỗ cho nước đi qua); D \"submerged\" = bị ngập, chìm dưới nước.",
+      "evidence": [
+        { "paragraph": 3, "text": "Ground water exists in underground deposits known as aquifers, layers of porous rock in the Earth." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 7,
+      "type": "purpose",
+      "stem": "In paragraph 3, the author mentions the abundance of ground water in order to ____.",
+      "target": { "paragraph": 3, "text": "as much as 50 times more abundant than surface water" },
+      "options": {
+        "A": "suggest that it may offer a solution to the world's water needs",
+        "B": "contrast with its relatively low usage by humans",
+        "C": "explain the lack of surface water in many areas",
+        "D": "explain why it is only used in rural areas"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B: câu \"Although ground water is estimated to be as much as 50 times more abundant than surface water, it constitutes only 20% of all the fresh water used by humans\" dùng cấu trúc nhượng bộ (Although) để đối lập sự dồi dào của nước ngầm với tỉ lệ sử dụng thấp. A sai vì tác giả không gợi ý nước ngầm là giải pháp cho nhu cầu nước thế giới. C sai vì sự dồi dào của nước ngầm không giải thích việc thiếu nước mặt. D sai vì bài chỉ nói \"much of this usage occurs in rural areas\", không nói nước ngầm chỉ dùng ở nông thôn.",
+      "evidence": [
+        { "paragraph": 3, "text": "Although ground water is estimated to be as much as 50 times more abundant than surface water, it constitutes only 20% of all the fresh water used by humans" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 8,
+      "type": "vocabulary",
+      "stem": "The word \"extract\" in line 32 is closest in meaning to ____.",
+      "target": { "paragraph": 4, "text": "extract" },
+      "options": {
+        "A": "detect",
+        "B": "remove",
+        "C": "utilize",
+        "D": "acquire"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B: \"extract\" = rút ra, lấy ra khỏi; \"remove\" = lấy ra, đưa ra khỏi - gần nghĩa nhất. Trong bài, tầng ngậm nước càng sâu thì việc rút nước lên (khoan giếng rồi bơm lên mặt đất) càng khó và tốn kém. A \"detect\" = phát hiện; C \"utilize\" = sử dụng; D \"acquire\" = có được, thu được (không nhấn vào hành động lấy ra khỏi lòng đất).",
+      "evidence": [
+        { "paragraph": 4, "text": "the deeper the aquifer, the more difficult and more expensive it is to extract its water." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 9,
+      "type": "detail",
+      "stem": "How does ground water naturally maintain a relatively high level of purity compared to surface water?",
+      "options": {
+        "A": "Underground heat destroys dangerous viruses and bacteria.",
+        "B": "High water flow rates prevent pollutants from settling.",
+        "C": "Soil acts as a filter and low oxygen limits bacterial growth.",
+        "D": "Heavy metals neutralize all biological pollutants underground."
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: đoạn 5 nói lớp đất mà nước thấm qua đóng vai trò bộ lọc tự nhiên, loại bớt chất ô nhiễm, và việc thiếu oxy trong tầng ngậm nước hạn chế vi khuẩn phát triển. A sai vì bài không nhắc đến nhiệt dưới lòng đất. B sai vì bài nói tầng ngậm nước được nạp lại chậm, không có dòng chảy mạnh. D sai vì kim loại nặng được nêu là nguyên nhân làm nước ngầm không uống được, không phải yếu tố làm sạch.",
+      "evidence": [
+        { "paragraph": 5, "text": "The soil that water sinks through before reaching the aquifer acts as a natural filter, leaching out some of the pollutants. Furthermore, the lack of oxygen in the aquifer generally restricts the growth of bacteria" }
+      ],
+      "status": "ok"
+    }
+  ],
+  "notes": [
+    "Passage chỉ có 9 câu hỏi: ảnh IMG_9166 không tồn tại nên câu 10 (nếu có) bị thiếu.",
+    "Trong đoạn 2 của đề có chữ \"B\" lạc lõng (\"...of bacteria. B Another problem...\") là marker chèn câu còn sót; đã bỏ vì không có câu hỏi insert.",
+    "Câu 1: ảnh có hai dấu khoanh ở C và D, dấu ở D bị gạch chéo nên lấy C (answerSource handwritten-corrected). C cũng phù hợp với nội dung bài."
+  ]
+}

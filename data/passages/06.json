@@ -1,0 +1,287 @@
+{
+  "id": 6,
+  "title": "Gifted Children: Nature or Upbringing?",
+  "topic": "Năng khiếu do bẩm sinh hay do nuôi dạy: vai trò của trí thông minh và môi trường",
+  "source": {
+    "images": [
+      "IMG_9168",
+      "IMG_9169",
+      "IMG_9170"
+    ]
+  },
+  "numberedParagraphs": true,
+  "paragraphs": [
+    "Psychologists have debated for a long time about whether a child's upbringing can give it the ability to do outstandingly well. Some think that it is impossible to develop genius and say that it is simply something a person is born with. __Others__, however, argue that the potential for great achievement can be developed. The truth lies somewhere between these two extremes. It seems very obvious that being born with the right qualities from gifted parents will increase a child's ability to do well. However, this ability will be fully realized only with the right upbringing and opportunities. As one psychologist says, \"__To have a fast car, you need both a good engine and fuel__.\"",
+    "Scientists have recently assessed intelligence, achievement, and ability in 50 sets of identical twins that were separated shortly after birth and brought up by different parents. They found that achievement was based on intelligence, and later influenced by the child's environment. One case involving very intelligent twins was quoted. One of the twins received a normal upbringing and performed well. The other twin, however, was brought up by extremely supportive parents and given every possible opportunity to develop their abilities. That twin, though starting with the same degree of intelligence as the other, performed even better.",
+    "This case reflects the general principle of intelligence and ability. The more __favourable__ the environment, the more a child's intelligence and ability are developed. However, there is no link between intelligence and the socioeconomic level of a child's family. In other words, it does not matter how poor or how rich a family is, as this does not affect intelligence.",
+    "Gifted people cannot be created by supportive parents, but they can be developed by them. One professor of music said that outstanding musicians usually started two or three years earlier than ordinary performers, often because their parents had recognized their ability. These musicians then needed at least ten years of hard work and training in order to reach the level they were capable of attaining.",
+    "People who want to have very gifted children are given the following advice:\n- Marry an intelligent person.\n- Allow children to follow their own interests rather than the interests of the parents.\n- Start a child's education early but avoid pushing the child too hard.\n- Encourage children to play; for example, playing with musical instruments is essential for a child who wants to become an outstanding musician."
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "type": "detail",
+      "stem": "When scientists studied intelligence and ability in twins, they found that ____.",
+      "options": {
+        "A": "different twins generally have different levels of ability",
+        "B": "intelligence and development are irrelevant to the ability",
+        "C": "ability depends mainly on intelligence and achievement",
+        "D": "ability depends both on intelligence and the environment"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D: đoạn 2 nói các nhà khoa học thấy thành tích dựa trên trí thông minh, sau đó chịu ảnh hưởng của môi trường sống của trẻ - tức năng lực phụ thuộc cả trí thông minh lẫn môi trường. A sai vì nghiên cứu không kết luận các cặp song sinh khác nhau có năng lực khác nhau. B ngược với bài. C sai vì bỏ mất yếu tố môi trường.",
+      "evidence": [
+        {
+          "paragraph": 2,
+          "text": "They found that achievement was based on intelligence, and later influenced by the child's environment."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 2,
+      "type": "inference",
+      "stem": "Scientists chose twins for their study because ____.",
+      "options": {
+        "A": "they have the same genetic background, usually with similar intelligence",
+        "B": "they have the same economic background and hence the same opportunities",
+        "C": "they are born into the same family, hence the same upbringing",
+        "D": "each twin has the same environment as his/ her twin"
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A: các nhà khoa học nghiên cứu song sinh cùng trứng (identical twins) bị tách ra ngay sau khi sinh - họ có cùng gen, và bài nói cặp song sinh được nêu có 'cùng mức độ thông minh'. Nhờ vậy có thể xem riêng ảnh hưởng của môi trường. B, C, D sai vì hai trẻ được nuôi bởi những bố mẹ khác nhau, nên KHÔNG có cùng hoàn cảnh, gia đình hay môi trường.",
+      "evidence": [
+        {
+          "paragraph": 2,
+          "text": "Scientists have recently assessed intelligence, achievement, and ability in 50 sets of identical twins that were separated shortly after birth and brought up by different parents."
+        },
+        {
+          "paragraph": 2,
+          "text": "That twin, though starting with the same degree of intelligence as the other, performed even better."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 3,
+      "type": "detail",
+      "stem": "How were great musicians different from ordinary musicians in their development?",
+      "options": {
+        "A": "They were exceptionally intelligent and artistic.",
+        "B": "Their ability was realized at an early stage and then nurtured.",
+        "C": "They have been playing their instruments for many years.",
+        "D": "They concentrated on music to the exclusion of other areas."
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B: đoạn 4 nói các nhạc sĩ xuất sắc thường bắt đầu sớm hơn người bình thường 2-3 năm vì bố mẹ đã nhận ra năng khiếu của họ, rồi họ cần ít nhất 10 năm khổ luyện - tức năng lực được phát hiện sớm rồi được nuôi dưỡng. A không được nhắc tới. C đúng với cả hai nhóm, không phải điểm khác biệt. D không được nhắc tới.",
+      "evidence": [
+        {
+          "paragraph": 4,
+          "text": "One professor of music said that outstanding musicians usually started two or three years earlier than ordinary performers, often because their parents had recognized their ability."
+        },
+        {
+          "paragraph": 4,
+          "text": "These musicians then needed at least ten years of hard work and training in order to reach the level they were capable of attaining."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 4,
+      "type": "detail",
+      "stem": "The writer advises that gifted children should be allowed to follow ____.",
+      "options": {
+        "A": "only their interests in musical instruments",
+        "B": "only their interests in computer games",
+        "C": "their parents' interests",
+        "D": "their own interests"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D: lời khuyên ở đoạn 5 là để trẻ theo đuổi sở thích của chính mình thay vì sở thích của bố mẹ. A sai vì nhạc cụ chỉ là ví dụ về việc khuyến khích trẻ chơi, không phải 'chỉ' sở thích đó. B (trò chơi máy tính) không được nhắc tới. C ngược với lời khuyên.",
+      "evidence": [
+        {
+          "paragraph": 5,
+          "text": "Allow children to follow their own interests rather than the interests of the parents."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 5,
+      "type": "detail",
+      "stem": "When encouraging their gifted children, parents should avoid ____.",
+      "options": {
+        "A": "letting them play their own way",
+        "B": "permitting them to follow their own interests",
+        "C": "pushing their children too hard",
+        "D": "starting their education at an early age"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: đoạn 5 khuyên bắt đầu giáo dục trẻ sớm nhưng tránh ép trẻ quá mức (avoid pushing the child too hard). A và B là những việc nên làm (khuyến khích trẻ chơi, theo sở thích riêng). D sai vì bắt đầu giáo dục sớm cũng là lời khuyên nên làm.",
+      "evidence": [
+        {
+          "paragraph": 5,
+          "text": "Start a child's education early but avoid pushing the child too hard."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 6,
+      "type": "simplification",
+      "stem": "The sentence \"To have a fast car, you need both a good engine and fuel\" in paragraph 1 means that in order to become a genius, ____.",
+      "target": {
+        "paragraph": 1,
+        "text": "To have a fast car, you need both a good engine and fuel"
+      },
+      "options": {
+        "A": "you should try to move quickly and efficiently",
+        "B": "you must nourish your brain and train your muscles hard",
+        "C": "you need intelligence and you need to develop it",
+        "D": "you need to have good health and good nourishment"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: câu ví von 'muốn có xe nhanh thì cần cả động cơ tốt lẫn nhiên liệu' minh họa ý ngay trước đó: năng khiếu bẩm sinh (động cơ) chỉ phát huy hết khi có sự nuôi dạy và cơ hội phù hợp (nhiên liệu). A hiểu theo nghĩa đen về tốc độ. B và D nói về rèn luyện cơ thể, sức khỏe, dinh dưỡng - không đúng ý.",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "text": "However, this ability will be fully realized only with the right upbringing and opportunities."
+        },
+        {
+          "paragraph": 1,
+          "text": "As one psychologist says, \"To have a fast car, you need both a good engine and fuel.\""
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 7,
+      "type": "vocabulary",
+      "stem": "The word \"favourable\" in paragraph 3 mostly means ____.",
+      "target": {
+        "paragraph": 3,
+        "text": "favourable"
+      },
+      "options": {
+        "A": "good for someone and making him or her likely to be successful",
+        "B": "of high quality or an acceptable standard",
+        "C": "under the control or in the power of somebody else",
+        "D": "helping somebody to be more intelligent compared to the other people"
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A: 'favourable' (môi trường) = thuận lợi, có lợi cho ai đó và giúp họ dễ thành công. Câu trong bài: môi trường càng thuận lợi thì trí thông minh và năng lực của trẻ càng được phát triển. B = chất lượng cao/đạt chuẩn (nghĩa của 'good/acceptable'); C = nằm dưới quyền kiểm soát của người khác; D = giúp ai đó thông minh hơn người khác - quá hẹp và sai lệch.",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "text": "The more favourable the environment, the more a child's intelligence and ability are developed."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 8,
+      "type": "negative",
+      "stem": "All of the following statements are true EXCEPT ____.",
+      "options": {
+        "A": "studying different twins is a useful scientific procedure",
+        "B": "to become successful, a child needs both native intelligence and development",
+        "C": "a child's intelligence is influenced by that of his/ her parents",
+        "D": "educational development depends completely on economic well-being"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D: đoạn 3 nói KHÔNG có mối liên hệ giữa trí thông minh và mức sống kinh tế của gia đình - gia đình giàu hay nghèo không quan trọng. Vì vậy nói sự phát triển phụ thuộc hoàn toàn vào kinh tế là sai. A đúng (nghiên cứu song sinh cho kết quả hữu ích). B đúng (cần cả tố chất lẫn sự phát triển). C đúng (bố mẹ có năng khiếu giúp tăng khả năng của trẻ, lời khuyên 'kết hôn với người thông minh').",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "text": "However, there is no link between intelligence and the socioeconomic level of a child's family."
+        },
+        {
+          "paragraph": 3,
+          "text": "In other words, it does not matter how poor or how rich a family is, as this does not affect intelligence."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 9,
+      "type": "detail",
+      "stem": "The upbringing of highly intelligent children requires ____.",
+      "options": {
+        "A": "wealthy and loving parents",
+        "B": "good musical instruments",
+        "C": "an expensive education",
+        "D": "parental support and encouragement"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D: đứa trẻ song sinh được bố mẹ hết lòng ủng hộ và tạo mọi cơ hội đã thể hiện tốt hơn; đoạn 4 cũng nói người có năng khiếu có thể được bố mẹ hỗ trợ để phát triển. A và C sai vì gia đình giàu hay nghèo không ảnh hưởng. B sai vì nhạc cụ chỉ là một ví dụ về cách khuyến khích trẻ chơi.",
+      "evidence": [
+        {
+          "paragraph": 2,
+          "text": "The other twin, however, was brought up by extremely supportive parents and given every possible opportunity to develop their abilities."
+        },
+        {
+          "paragraph": 2,
+          "text": "That twin, though starting with the same degree of intelligence as the other, performed even better."
+        },
+        {
+          "paragraph": 4,
+          "text": "Gifted people cannot be created by supportive parents, but they can be developed by them."
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 10,
+      "type": "reference",
+      "stem": "The word \"others\" used in paragraph 1 refers to ____.",
+      "target": {
+        "paragraph": 1,
+        "text": "Others"
+      },
+      "options": {
+        "A": "other geniuses",
+        "B": "other children",
+        "C": "other scientists",
+        "D": "other people"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C: câu đầu nói các nhà tâm lý học tranh luận; 'Some think...' và 'Others, however, argue...' là hai nhóm trong số các nhà tâm lý học đó - tức là những nhà khoa học khác. A (thiên tài), B (trẻ em) không phải là chủ thể tranh luận. D (người khác) quá chung chung.",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "text": "Psychologists have debated for a long time about whether a child's upbringing can give it the ability to do outstandingly well."
+        },
+        {
+          "paragraph": 1,
+          "text": "Others, however, argue that the potential for great achievement can be developed."
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "notes": [
+    "Text bài đọc được nhận dạng bằng OCR (Apple Vision) từ ảnh rồi rà lại; nếu thấy lỗi chính tả hãy đối chiếu ảnh gốc.",
+    "Đề không in tiêu đề; tiêu đề do người soạn đặt. Đề in số đoạn 1-5; đã bỏ số và đặt numberedParagraphs = true.",
+    "Câu 10: 'Others' thay cho các nhà tâm lý học khác; đáp án khoanh là C 'other scientists'."
+  ]
+}

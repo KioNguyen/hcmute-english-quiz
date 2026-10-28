@@ -1,0 +1,214 @@
+{
+  "id": 7,
+  "title": "Noise Pollution",
+  "topic": "Ô nhiễm tiếng ồn và tác hại của nó đối với sức khỏe con người",
+  "source": { "images": ["IMG_9170", "IMG_9171", "IMG_9172"] },
+  "numberedParagraphs": true,
+  "paragraphs": [
+    "Although noise, commonly defined as unwanted sound, is a widely recognized form of pollution, it is very difficult to measure because the discomfort experienced by different individuals is highly subjective and, therefore, variable. Exposure to lower levels of noise may be slightly irritating, whereas exposure to higher levels may actually cause hearing loss. Particularly in __congested__ urban areas, the noise produced as a __by-product__ of our advancing technology causes physical and psychological harm and distracts from the quality of life for those who are exposed to __it__.",
+    "Unlike the eyes, which can be covered by eyelids against strong light, the ear has no lid, and is, therefore, always open and vulnerable; noise penetrates without protection.",
+    "Noise causes effects that the hearer cannot control and to which the body never becomes accustomed. Loud noises instinctively signal danger to any organism with a hearing mechanism, including human beings. In response, heartbeat and respiration __accelerate__, blood vessels constrict, the skin pales, and muscles tense. In fact, there is a general increase in functioning brought about by the flow of adrenaline released in response to fear, and some of these responses persist even longer than the noise, occasionally as long as thirty minutes after the sound has ceased.",
+    "Because noise is unavoidable in a complex, industrial society, we are constantly responding in the same way that we would respond to danger. Recently, researchers have concluded that noise and our response may be much more than an annoyance. It may be a serious threat to physical and psychological health and well-being, causing damage not only to the ear and brain but also to the heart and stomach. We have long known that hearing loss is America's number one nonfatal health problem, but now we are learning that some of us with heart disease and ulcers may be victims of health as well. Fetuses exposed to noise tend to be overactive, they cry easily, and they are more sensitive to gastrointestinal problems after birth. In addition, the psychic effect of noise is very important. Nervousness, irritability, tension, and anxiety increase, affecting the quality of rest during sleep, and the efficiency of activities during walking hours, as well as the way that we interact with each other."
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "type": "main-idea",
+      "stem": "Which of the following is the author's main point?",
+      "options": {
+        "A": "Loud noises signal danger.",
+        "B": "Hearing loss is America's number one nonfatal health problem.",
+        "C": "The ear is not like the eye.",
+        "D": "Noise may pose a serious threat to our physical and psychological health."
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D. Toàn bài nói về tiếng ồn như một dạng ô nhiễm gây hại: đoạn 1 nêu tiếng ồn \"causes physical and psychological harm\", đoạn 4 kết luận \"It may be a serious threat to physical and psychological health and well-being\". Các lựa chọn A, B, C chỉ là chi tiết phụ: A (tiếng ồn báo hiệu nguy hiểm) là ý của đoạn 3, B (mất thính lực là vấn đề số một) là một ví dụ ở đoạn 4, C (tai khác mắt) là ý đoạn 2 — không câu nào bao quát cả bài.",
+      "evidence": [
+        { "paragraph": 4, "text": "It may be a serious threat to physical and psychological health and well-being, causing damage not only to the ear and brain but also to the heart and stomach." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 2,
+      "type": "detail",
+      "stem": "According to the passage, what is noise?",
+      "options": {
+        "A": "A by-product of technology",
+        "B": "Physical and psychological harm",
+        "C": "Congestion",
+        "D": "Unwanted sound"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D. Ngay câu đầu bài định nghĩa: \"noise, commonly defined as unwanted sound\" (tiếng ồn thường được định nghĩa là âm thanh không mong muốn). A sai vì by-product của công nghệ chỉ là nguồn phát sinh tiếng ồn ở đô thị, không phải định nghĩa. B sai vì tác hại thể chất và tâm lý là hậu quả của tiếng ồn. C sai vì \"congested\" chỉ mô tả khu đô thị đông đúc, không phải tiếng ồn.",
+      "evidence": [
+        { "paragraph": 1, "text": "Although noise, commonly defined as unwanted sound, is a widely recognized form of pollution" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 3,
+      "type": "detail",
+      "stem": "Why is noise difficult to measure?",
+      "options": {
+        "A": "All people do not respond to it in the same way.",
+        "B": "It is unwanted.",
+        "C": "People become accustomed to it.",
+        "D": "It causes hearing loss."
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A. Bài nêu tiếng ồn khó đo lường vì \"the discomfort experienced by different individuals is highly subjective and, therefore, variable\" — mức khó chịu mỗi người cảm nhận rất chủ quan và khác nhau, tức mọi người không phản ứng giống nhau. B sai vì \"unwanted\" chỉ là định nghĩa, không phải lý do khó đo. C mâu thuẫn với bài (đoạn 3 nói cơ thể \"never becomes accustomed\"). D là hậu quả của tiếng ồn lớn, không liên quan đến việc đo lường.",
+      "evidence": [
+        { "paragraph": 1, "text": "it is very difficult to measure because the discomfort experienced by different individuals is highly subjective and, therefore, variable" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 4,
+      "type": "vocabulary",
+      "stem": "The word \"congested\" in paragraph 1 could best be replaced by ____.",
+      "target": { "paragraph": 1, "text": "congested" },
+      "options": {
+        "A": "polluted",
+        "B": "crowded",
+        "C": "rushed",
+        "D": "hazardous"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B. \"congested\" nghĩa là đông đúc, tắc nghẽn; trong ngữ cảnh \"congested urban areas\" là các khu đô thị đông đúc, nên thay bằng \"crowded\" (đông đúc) là hợp nhất. Nghĩa các từ: A polluted = bị ô nhiễm; B crowded = đông đúc; C rushed = vội vã, gấp gáp; D hazardous = nguy hiểm. A, C, D không mang nghĩa đông đúc nên không thay thế được.",
+      "evidence": [
+        { "paragraph": 1, "text": "Particularly in congested urban areas, the noise produced as a by-product of our advancing technology causes physical and psychological harm" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 5,
+      "type": "vocabulary",
+      "stem": "The word \"by-product\" as used in paragraph 1 is closest in meaning to ____.",
+      "target": { "paragraph": 1, "text": "by-product" },
+      "options": {
+        "A": "a product that is always by your side",
+        "B": "an unexpected result",
+        "C": "something produced by environmental pollution",
+        "D": "a necessary product"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B. \"by-product\" là sản phẩm phụ, thứ phát sinh ngoài ý muốn trong quá trình tạo ra thứ khác; tiếng ồn là sản phẩm phụ của công nghệ tiến bộ, tức một kết quả không chủ đích (an unexpected result). Nghĩa các lựa chọn: A = sản phẩm luôn ở bên cạnh bạn (hiểu sai chữ \"by\"); B = kết quả không mong đợi/ngoài ý muốn; C = thứ do ô nhiễm môi trường tạo ra (ngược chiều: tiếng ồn mới là ô nhiễm); D = sản phẩm cần thiết (sai, nó không cần thiết).",
+      "evidence": [
+        { "paragraph": 1, "text": "the noise produced as a by-product of our advancing technology causes physical and psychological harm" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 6,
+      "type": "inference",
+      "stem": "It can be inferred from the passage that the eye ____.",
+      "options": {
+        "A": "enjoys greater protection than the ear",
+        "B": "increases functions",
+        "C": "is damaged by noise",
+        "D": "responds to fear"
+      },
+      "answer": "A",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án A. Đoạn 2 so sánh: mắt có mí để che chắn ánh sáng mạnh, còn tai không có nắp nên \"always open and vulnerable\" — suy ra mắt được bảo vệ tốt hơn tai. B sai vì tăng chức năng là phản ứng của cơ thể trước tiếng ồn (đoạn 3), không nói về mắt. C sai vì bài nói tiếng ồn gây hại cho tai, não, tim, dạ dày, không nhắc đến mắt. D sai vì phản ứng với sợ hãi là của nhịp tim, hô hấp, mạch máu, không phải mắt.",
+      "evidence": [
+        { "paragraph": 2, "text": "Unlike the eyes, which can be covered by eyelids against strong light, the ear has no lid, and is, therefore, always open and vulnerable" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 7,
+      "type": "detail",
+      "stem": "According to the passage, people respond to loud noise in the same way that they respond to ____.",
+      "options": {
+        "A": "disease",
+        "B": "damage",
+        "C": "danger",
+        "D": "annoyance"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. Đoạn 3 nói tiếng ồn lớn \"instinctively signal danger\" và đoạn 4 khẳng định \"we are constantly responding in the same way that we would respond to danger\" — ta phản ứng với tiếng ồn giống như phản ứng với nguy hiểm. A (bệnh tật) và B (tổn hại) là hậu quả của tiếng ồn chứ không phải thứ được so sánh. D sai vì bài nói tiếng ồn \"may be much more than an annoyance\" (hơn cả một sự phiền toái).",
+      "evidence": [
+        { "paragraph": 4, "text": "we are constantly responding in the same way that we would respond to danger" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 8,
+      "type": "vocabulary",
+      "stem": "The word \"accelerate\" in paragraph 3 is closest in meaning to ____.",
+      "target": { "paragraph": 3, "text": "accelerate" },
+      "options": {
+        "A": "alter",
+        "B": "increase",
+        "C": "release",
+        "D": "decrease"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B. \"accelerate\" nghĩa là tăng tốc, nhanh lên; trong câu \"heartbeat and respiration accelerate\" là nhịp tim và hô hấp tăng nhanh, nên gần nghĩa nhất với \"increase\" (tăng). Ngữ cảnh tiếp theo cũng nói \"a general increase in functioning\". Nghĩa các từ: A alter = thay đổi (quá chung chung); B increase = tăng; C release = giải phóng, thả ra; D decrease = giảm (ngược nghĩa).",
+      "evidence": [
+        { "paragraph": 3, "text": "In response, heartbeat and respiration accelerate, blood vessels constrict, the skin pales, and muscles tense." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 9,
+      "type": "reference",
+      "stem": "The word \"it\" in paragraph 1 refers to ____.",
+      "target": { "paragraph": 1, "text": "it" },
+      "options": {
+        "A": "the quality of life",
+        "B": "advancing technology",
+        "C": "a by-product",
+        "D": "the noise"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D. Câu \"the noise produced as a by-product of our advancing technology causes physical and psychological harm and distracts from the quality of life for those who are exposed to it\" có chủ ngữ là \"the noise\"; những người \"bị phơi nhiễm với nó\" tức là phơi nhiễm với tiếng ồn. A sai vì người ta không \"exposed to\" chất lượng cuộc sống. B, C chỉ là cụm bổ nghĩa cho nguồn gốc tiếng ồn, không phải chủ thể gây hại mà người ta tiếp xúc.",
+      "evidence": [
+        { "paragraph": 1, "text": "the noise produced as a by-product of our advancing technology causes physical and psychological harm and distracts from the quality of life for those who are exposed to it." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 10,
+      "type": "opinion",
+      "stem": "With which of the following statements would the author most probably agree?",
+      "options": {
+        "A": "Noise is America's number one problem.",
+        "B": "Noise is an unavoidable problem in an industrial society.",
+        "C": "Noise is a complex problem.",
+        "D": "Noise is sometimes annoying."
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B. Đoạn 4 mở đầu bằng \"Because noise is unavoidable in a complex, industrial society\" — tác giả coi tiếng ồn là vấn đề không thể tránh khỏi trong xã hội công nghiệp. A sai vì bài chỉ nói mất thính lực (hearing loss) là vấn đề sức khỏe không gây tử vong số một ở Mỹ, không nói tiếng ồn là vấn đề số một. C sai vì \"complex\" trong bài bổ nghĩa cho \"society\", không phải cho tiếng ồn. D quá nhẹ: tác giả cho rằng tiếng ồn \"much more than an annoyance\", là mối đe dọa nghiêm trọng chứ không chỉ đôi khi gây khó chịu.",
+      "evidence": [
+        { "paragraph": 4, "text": "Because noise is unavoidable in a complex, industrial society, we are constantly responding in the same way that we would respond to danger." }
+      ],
+      "status": "ok"
+    }
+  ],
+  "notes": [
+    "Đề in số đoạn 1-4 ở đầu mỗi đoạn; đã bỏ số và đặt numberedParagraphs = true.",
+    "Đoạn 4 in \"victims of health as well\" và \"walking hours\" — có thể là lỗi in của đề (bản gốc thường là \"victims of noise\" và \"waking hours\"); đã chép nguyên văn theo đề.",
+    "Câu 10: lựa chọn A-C nằm cuối ảnh IMG_9171, lựa chọn D nằm đầu ảnh IMG_9172."
+  ]
+}

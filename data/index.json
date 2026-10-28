@@ -1,0 +1,169 @@
+{
+  "passages": [
+    {
+      "id": 1,
+      "title": "Women's Suffrage in Britain and the US",
+      "topic": "Lịch sử quyền bầu cử (đặc biệt của phụ nữ) ở Anh và Mỹ",
+      "questionCount": 10,
+      "notes": [
+        "Ảnh chỉ thể hiện 7 đoạn văn (Throughout..., The influence..., Feudalism..., English landowners..., By 1786..., In the aftermath..., Initially...); câu \"Today, suffrage, in its universal form...\" nằm cùng đoạn cuối, không phải đoạn riêng.",
+        "Câu 10 (insert): đề KHÔNG in câu cần chèn, nên status \"incomplete\"; đáp án C lấy theo dấu khoanh tay (A bị gạch).",
+        "Đoạn 4 trong đề in \"clearly evident In America\" (chữ In viết hoa) - giữ nguyên văn; stem câu 6 in \"evident in America\".",
+        "Đề có một số thông tin lịch sử không chính xác (vd. \"1991 amendment\" - đúng ra là Tu chính án thứ 19 năm 1920; Tuyên ngôn Độc lập 1776 không có điều khoản về quyền bầu cử; Hiến pháp Mỹ chưa có/chưa sửa vào 1786) - giữ nguyên văn theo đề.",
+        "Câu 1, 3, 5, 6, 7, 8, 9, 10: ảnh có hai dấu khoanh, một bị gạch chéo -> lấy dấu không bị gạch (handwritten-corrected).",
+        "Câu 3: đáp án A không được nói trực tiếp trong đoạn 2, chọn theo cách loại trừ."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "How Desert Animals Survive",
+      "topic": "Cách động vật sa mạc thích nghi để sống sót",
+      "questionCount": 9,
+      "notes": [
+        "Câu 9: đề in thừa một lựa chọn \"D. Healthy animals live longer lives.\" sau lựa chọn D thật; đã giữ 4 lựa chọn A-D đầu tiên và bỏ dòng thừa.",
+        "Passage chỉ có 9 câu hỏi.",
+        "Đề in \"swift- footed\" (có dấu cách do ngắt dòng) - đã sửa thành \"swift-footed\".",
+        "Stem các câu 2-9 không in chỗ trống; câu 7 kết thúc bằng \"they.\" - giữ nguyên văn.",
+        "Câu 3 và 9: ảnh có hai dấu khoanh, một bị gạch chéo -> lấy dấu không bị gạch (handwritten-corrected)."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Protecting Your Home from Burglars",
+      "topic": "Các biện pháp phòng chống trộm đột nhập vào nhà",
+      "questionCount": 10,
+      "notes": [
+        "Đề đánh số đoạn 1-8 nên đã bỏ số khỏi text và đặt numberedParagraphs = true.",
+        "Chỗ trống trong đề in dạng \"--.\" / \"-------.\" - đã chuẩn hóa thành \"____.\".",
+        "Câu 3 lựa chọn B in \"imaginative\" (không có \"is\") - giữ nguyên văn.",
+        "Đáp án câu 1 khoanh D; chữ \"C\" in hơi nhòe nhưng không có dấu khoanh/gạch tay."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Fresh Water Supply: Surface Water and Ground Water",
+      "topic": "Nguồn cung cấp nước ngọt: nước mặt và nước ngầm",
+      "questionCount": 9,
+      "notes": [
+        "Passage chỉ có 9 câu hỏi: ảnh IMG_9166 không tồn tại nên câu 10 (nếu có) bị thiếu.",
+        "Trong đoạn 2 của đề có chữ \"B\" lạc lõng (\"...of bacteria. B Another problem...\") là marker chèn câu còn sót; đã bỏ vì không có câu hỏi insert.",
+        "Câu 1: ảnh có hai dấu khoanh ở C và D, dấu ở D bị gạch chéo nên lấy C (answerSource handwritten-corrected). C cũng phù hợp với nội dung bài."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Evidence that Humans Are Right-Handed",
+      "topic": "Các bằng chứng khảo cổ và nhân chủng học cho thấy loài người chủ yếu thuận tay phải",
+      "questionCount": 10,
+      "notes": [
+        "Text bài đọc được nhận dạng bằng OCR (Apple Vision) từ ảnh rồi rà lại; nếu thấy lỗi chính tả hãy đối chiếu ảnh gốc.",
+        "Đề không in tiêu đề; tiêu đề do người soạn đặt.",
+        "Câu 6: đề in lỗi 'Home habilis', đã sửa thành 'Homo habilis'.",
+        "Câu 7: đề in 'All of the follows' (đúng ra là 'following'); giữ nguyên văn."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Gifted Children: Nature or Upbringing?",
+      "topic": "Năng khiếu do bẩm sinh hay do nuôi dạy: vai trò của trí thông minh và môi trường",
+      "questionCount": 10,
+      "notes": [
+        "Text bài đọc được nhận dạng bằng OCR (Apple Vision) từ ảnh rồi rà lại; nếu thấy lỗi chính tả hãy đối chiếu ảnh gốc.",
+        "Đề không in tiêu đề; tiêu đề do người soạn đặt. Đề in số đoạn 1-5; đã bỏ số và đặt numberedParagraphs = true.",
+        "Câu 10: 'Others' thay cho các nhà tâm lý học khác; đáp án khoanh là C 'other scientists'."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Noise Pollution",
+      "topic": "Ô nhiễm tiếng ồn và tác hại của nó đối với sức khỏe con người",
+      "questionCount": 10,
+      "notes": [
+        "Đề in số đoạn 1-4 ở đầu mỗi đoạn; đã bỏ số và đặt numberedParagraphs = true.",
+        "Đoạn 4 in \"victims of health as well\" và \"walking hours\" — có thể là lỗi in của đề (bản gốc thường là \"victims of noise\" và \"waking hours\"); đã chép nguyên văn theo đề.",
+        "Câu 10: lựa chọn A-C nằm cuối ảnh IMG_9171, lựa chọn D nằm đầu ảnh IMG_9172."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Children and Watching Sports on TV",
+      "topic": "Bài học đạo đức trẻ em có thể rút ra khi xem thể thao trên truyền hình cùng cha mẹ",
+      "questionCount": 10,
+      "notes": [
+        "Đề in số đoạn 1-4 ở đầu mỗi đoạn; đã bỏ số và đặt numberedParagraphs = true.",
+        "Câu 2 không có đáp án khoanh tay; đã tự chọn C (fortified) theo nghĩa trong bài — answerSource = inferred, cần xem lại.",
+        "Câu 5: ảnh khoanh B (etiquette) rồi gạch bỏ, khoanh lại C (civility) — lấy C, answerSource = handwritten-corrected.",
+        "Câu 3: lựa chọn A-B nằm cuối ảnh IMG_9172, lựa chọn C-D nằm đầu ảnh IMG_9173.",
+        "Câu 4 lựa chọn C in \"badly behaved-players\" (dấu gạch nối đặt sai chỗ); đã chép nguyên văn."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Liftoff and Reentry in Space Missions",
+      "topic": "Những thách thức khoa học và kỹ thuật lớn nhất khi phóng tàu vũ trụ và đưa tàu trở về Trái Đất",
+      "questionCount": 10,
+      "notes": [
+        "Đề không có tiêu đề in sẵn; đã tự đặt tiêu đề tiếng Anh.",
+        "Đoạn 4 có chữ \"A\" (\"...planned carefully. A With the exception...\") và \"D\" (\"...during liftoff. D Once a spacecraft...\") lạc lõng — là marker sót, không có câu hỏi insert dùng chúng; đã bỏ.",
+        "Câu hỏi ghi số dòng (line 4, 7, 13, 23, 34) theo bản gốc; target được gán vào đoạn chứa từ tương ứng (maneuver: đoạn 1; velocity, this: đoạn 2; inefficient: đoạn 3; initiate: đoạn 4).",
+        "Câu 3 hỏi \"paragraph 2\" theo cách đếm của đề — ý về interplanetary missions nằm trong đoạn 2 của dữ liệu.",
+        "Bài trải trên ảnh IMG_9173 (đoạn 1 và đầu đoạn 2), IMG_9174 (phần còn lại, câu 1-2), IMG_9175 (câu 3-9), IMG_9176 (lựa chọn câu 9 và câu 10)."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "On Tour with the London Symphony Orchestra",
+      "topic": "Dàn nhạc giao hưởng London và những chuyến lưu diễn nước ngoài",
+      "questionCount": 10,
+      "notes": [
+        "Đề in nháy cong và gạch nối ngắn (\"one territory - they need\"); đã chuyển sang nháy thẳng, giữ gạch nối như đề.",
+        "Các từ được hỏi (principal, It, with scientific accuracy, unforgettable) không in đậm trong đề nên không thêm markup."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Ten Events, One Champion: The Decathlon",
+      "topic": "Mười môn phối hợp (decathlon) - từ ngũ môn phối hợp Olympic cổ đại đến hiện đại",
+      "questionCount": 10,
+      "notes": [
+        "Tiêu đề in sẵn: \"Ten Events, One Champion:\" / \"THE DECATHLON\" (in hoa) - ghép thành \"Ten Events, One Champion: The Decathlon\".",
+        "Đoạn 1 trong JSON là dòng giới thiệu (standfirst) \"Fay Webster takes a look...\"; \"the first paragraph\" trong Q1 tương ứng đoạn 2 (The Olympic Games have changed...).",
+        "Đề in nháy cong; đã chuyển sang nháy thẳng. Các từ được hỏi (This) không in đậm trong đề nên không thêm markup.",
+        "Q4: lựa chọn C ghi \"the first winner of the ancient Olympics\", trong khi bài nói Lampis là người thắng đầu tiên của môn ngũ môn phối hợp (708 BC); vẫn là đáp án phù hợp nhất."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Hidden Subversive Messages in Art",
+      "topic": "Nghệ thuật phản kháng và cách nghệ sĩ che giấu thông điệp phê phán xã hội",
+      "questionCount": 10,
+      "notes": [
+        "Đề không có tiêu đề in sẵn; tự đặt \"Hidden Subversive Messages in Art\".",
+        "Sửa lỗi in thiếu dấu cách \"as well.There\" thành \"as well. There\" (đoạn 1).",
+        "\"inalienable\" chỉ in đậm (**); \"retribution\", \"untenable\", \"this\", \"patron\" in đậm + gạch chân (__). \"patron\" được đánh dấu nhưng không có câu hỏi.",
+        "Dòng đầu đoạn 2 hơi bị mép giấy che (\"quietly subversive.\") nhưng vẫn đọc được."
+      ]
+    },
+    {
+      "id": 13,
+      "title": "New York Late-Starters String Orchestra",
+      "topic": "Giới thiệu dàn nhạc dây nghiệp dư dành cho người lớn bắt đầu học muộn ở New York",
+      "questionCount": 10,
+      "notes": [
+        "Text bài đọc được nhận dạng bằng OCR (Apple Vision) từ ảnh rồi rà lại; nếu thấy lỗi chính tả hãy đối chiếu ảnh gốc.",
+        "Hai tiêu đề phụ 'How We Work' và 'Materials You Will Need At Rehearsals' được giữ nguyên như trong đề."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Clinical Depression and Its Treatment",
+      "topic": "Bệnh trầm cảm lâm sàng: triệu chứng, nguyên nhân và cách điều trị",
+      "questionCount": 10,
+      "notes": [
+        "Text bài đọc được nhận dạng bằng OCR (Apple Vision) từ ảnh rồi rà lại; nếu thấy lỗi chính tả hãy đối chiếu ảnh gốc.",
+        "Đề không in tiêu đề; tiêu đề do người soạn đặt.",
+        "Đề in 'SNRIs effect norepinephrine' (đúng ra là 'affect'); giữ nguyên văn."
+      ]
+    }
+  ]
+}

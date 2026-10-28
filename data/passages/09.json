@@ -1,0 +1,218 @@
+{
+  "id": 9,
+  "title": "Liftoff and Reentry in Space Missions",
+  "topic": "Những thách thức khoa học và kỹ thuật lớn nhất khi phóng tàu vũ trụ và đưa tàu trở về Trái Đất",
+  "source": { "images": ["IMG_9173", "IMG_9174", "IMG_9175", "IMG_9176"] },
+  "numberedParagraphs": false,
+  "paragraphs": [
+    "During any space mission, whether it is manned or unmanned, the two most critical periods are liftoff and reentry. This fact is proven by the fact that every loss of life in the history of space exploration has occurred during a liftoff or reentry maneuver. Liftoff and reentry not only represent the times of greatest danger during a space mission, they also present the greatest science and engineering challenges to the planners and organizers of a space mission.",
+    "The major challenge during liftoff is to achieve a great enough velocity to break free of the Earth's gravitational pull and escape the atmosphere. The velocity required varies depending on the type of the mission in question. For example, most orbital missions, like those to the International Space Station or the launching of a satellite, do not require the spacecraft to completely escape Earth's gravitational pull. These spacecraft simply need enough velocity to achieve a certain distance from Earth and then to maintain their orbit. The speed necessary for this is dependent on the type of orbit desired, but is generally around 24,000 kilometers per hour. Completely escaping the Earth's gravity, as is needed for interplanetary missions, is a far more difficult undertaking, requiring a speed of 40,200 kilometers per hour.",
+    "To achieve such high speeds, huge rockets must be built. This, however, presents another problem: the larger the rocket, the larger the total mass that must be lifted into space. This means more fuel is needed, adding more weight. For this reason, as spacecraft grow larger it becomes increasingly more difficult to lift them into space. For example, NASA's space shuttle weighs 78,000 kg, but the rocket required to lift it into orbit weighs nearly 2,000,000 kg. This means that rockets are actually highly inefficient, since much of the rocket's energy is expended lifting the rocket into space, rather than simply the spacecraft that one wants to place in space.",
+    "To help offset this inefficiency, launch sites for rockets are planned carefully. With the exception of a few launch sites used for highly specialized purposes, nearly all launch sites are placed as near the equator as possible. Since the equator is the Earth's widest point, it is also the point where the Earth is spinning the fastest. Spacecraft can use this fact to receive a little extra \"push\" from the Earth, reducing the work their rockets must do during liftoff. Once a spacecraft has made it safely into space, the next major challenge is for it to return to Earth in one piece. While the major challenge during liftoff is gaining speed, the three major challenges of reentry are reducing speed, controlling the angle of reentry, and reducing heat. To initiate reentry, spacecraft perform a maneuver called a de-orbital burn. Simply put, this means they fire their engines in reverse to slow the spacecraft down. Once the spacecraft has passed below the critical orbital velocity, gravity will once again take over and begin to pull the spacecraft back towards Earth.",
+    "The amount of speed lost during the de-orbital burn will determine the angle of reentry, and this angle is of critical importance. If the reentry angle is too low, the spacecraft will skip off the Earth's atmosphere, much as a pebble skips across the water when thrown into a pond. If the angle is too high, the spacecraft will generate too much heat and burn up during reentry. Even with a correct angle of reentry, spacecraft generate enormous amounts of heat. As they enter the Earth's atmosphere, the friction between the spacecraft and the surrounding air serves to slow the spacecraft, but it also can heat the outer surfaces of the spacecraft to 5,500°C. To minimize this effect, spacecraft are designed to create the smallest amount of friction possible during reentry. Special, heat-resistant materials are also used on reentry surfaces of the spacecraft. In this way, the heat of reentry can be kept to manageable levels."
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "type": "vocabulary",
+      "stem": "The word \"maneuver\" in line 4 is closest in meaning to ____.",
+      "target": { "paragraph": 1, "text": "maneuver" },
+      "options": {
+        "A": "accident",
+        "B": "period",
+        "C": "procedure",
+        "D": "control"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. \"maneuver\" là một thao tác, động tác kỹ thuật được thực hiện có chủ đích; \"a liftoff or reentry maneuver\" là thao tác phóng hoặc quay về, gần nghĩa nhất với \"procedure\" (quy trình, thủ tục thực hiện). Nghĩa các từ: A accident = tai nạn; B period = giai đoạn, khoảng thời gian; C procedure = quy trình, thao tác; D control = sự điều khiển, kiểm soát. A sai vì tai nạn là điều xảy ra trong thao tác chứ không phải bản thân thao tác; B, D không mang nghĩa một chuỗi động tác cụ thể.",
+      "evidence": [
+        { "paragraph": 1, "text": "every loss of life in the history of space exploration has occurred during a liftoff or reentry maneuver" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 2,
+      "type": "vocabulary",
+      "stem": "The word \"velocity\" in line 7 is closest in meaning to ____.",
+      "target": { "paragraph": 2, "text": "velocity" },
+      "options": {
+        "A": "power",
+        "B": "momentum",
+        "C": "altitude",
+        "D": "speed"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D. \"velocity\" nghĩa là vận tốc, tốc độ; bài dùng xen kẽ \"velocity\" và \"speed\" (vd. \"The speed necessary for this... 24,000 kilometers per hour\"). Nghĩa các từ: A power = sức mạnh, công suất; B momentum = động lượng, đà; C altitude = độ cao; D speed = tốc độ. A, B, C là các đại lượng khác, không đồng nghĩa với vận tốc.",
+      "evidence": [
+        { "paragraph": 2, "text": "The major challenge during liftoff is to achieve a great enough velocity to break free of the Earth's gravitational pull and escape the atmosphere." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 3,
+      "type": "detail",
+      "stem": "According to the information in paragraph 2, interplanetary missions are more difficult because ____.",
+      "options": {
+        "A": "they require more fuel",
+        "B": "they use larger spacecraft",
+        "C": "they must complete reentry maneuvers twice",
+        "D": "they must attain higher escape velocities"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D. Đoạn 2 nói việc thoát hoàn toàn khỏi trọng lực Trái Đất, như các sứ mệnh liên hành tinh cần, khó hơn nhiều vì đòi hỏi tốc độ 40.200 km/h, so với khoảng 24.000 km/h cho sứ mệnh quỹ đạo. A và B chỉ xuất hiện ở đoạn 3 khi nói chung về tên lửa lớn, không phải lý do được nêu trong đoạn 2. C không được nhắc đến trong bài.",
+      "evidence": [
+        { "paragraph": 2, "text": "Completely escaping the Earth's gravity, as is needed for interplanetary missions, is a far more difficult undertaking, requiring a speed of 40,200 kilometers per hour." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 4,
+      "type": "reference",
+      "stem": "The word \"this\" in line 13 refers to ____.",
+      "target": { "paragraph": 2, "text": "The speed necessary for this" },
+      "options": {
+        "A": "escaping the Earth's gravity",
+        "B": "maintaining an orbit around the Earth",
+        "C": "launching a spacecraft into space",
+        "D": "reaching the International Space Station"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B. Câu trước nói tàu quỹ đạo chỉ cần đủ vận tốc để đạt một khoảng cách nhất định rồi \"maintain their orbit\"; \"The speed necessary for this\" — tốc độ cần để làm việc đó — tức là duy trì quỹ đạo quanh Trái Đất, và tốc độ này phụ thuộc vào loại quỹ đạo. A sai vì thoát trọng lực được nói ở câu sau với tốc độ khác (40.200 km/h). C quá chung chung. D chỉ là một ví dụ của sứ mệnh quỹ đạo.",
+      "evidence": [
+        { "paragraph": 2, "text": "These spacecraft simply need enough velocity to achieve a certain distance from Earth and then to maintain their orbit. The speed necessary for this is dependent on the type of orbit desired" }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 5,
+      "type": "purpose",
+      "stem": "Why does the author mention NASA's space shuttle?",
+      "options": {
+        "A": "To suggest that it is the most inefficient spacecraft in the history of spaceflight",
+        "B": "To better illustrate the disparity between the size of a spacecraft and the size of the rocket needed to launch it",
+        "C": "To show that even with modern technology, spacecraft are still very heavy",
+        "D": "To better illustrate exactly how difficult it is to construct a spacecraft as large as a rocket"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B. Tác giả đưa ví dụ tàu con thoi nặng 78.000 kg nhưng tên lửa đưa nó lên quỹ đạo nặng gần 2.000.000 kg để minh họa sự chênh lệch lớn giữa kích thước tàu và tên lửa phóng nó. A sai vì bài không nói đây là tàu kém hiệu quả nhất lịch sử. C sai vì trọng tâm là sự chênh lệch, không phải tàu nặng. D sai vì bài không bàn việc chế tạo tàu to bằng tên lửa.",
+      "evidence": [
+        { "paragraph": 3, "text": "For example, NASA's space shuttle weighs 78,000 kg, but the rocket required to lift it into orbit weighs nearly 2,000,000 kg." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 6,
+      "type": "vocabulary",
+      "stem": "The word \"inefficient\" in line 23 is closest in meaning to ____.",
+      "target": { "paragraph": 3, "text": "inefficient" },
+      "options": {
+        "A": "technical",
+        "B": "massive",
+        "C": "uneconomic",
+        "D": "ineffective"
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. \"inefficient\" nghĩa là kém hiệu suất, lãng phí; tên lửa kém hiệu suất vì phần lớn năng lượng bị tiêu tốn để nâng chính nó thay vì con tàu, tức là tốn kém, không kinh tế (uneconomic). Nghĩa các từ: A technical = thuộc kỹ thuật; B massive = đồ sộ, to lớn; C uneconomic = không kinh tế, lãng phí; D ineffective = không có tác dụng, không đạt kết quả. D sai vì tên lửa vẫn đưa được tàu lên quỹ đạo (vẫn hiệu quả về kết quả), chỉ là lãng phí năng lượng; A, B không liên quan nghĩa.",
+      "evidence": [
+        { "paragraph": 3, "text": "This means that rockets are actually highly inefficient, since much of the rocket's energy is expended lifting the rocket into space, rather than simply the spacecraft that one wants to place in space." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 7,
+      "type": "vocabulary",
+      "stem": "The word \"initiate\" in line 34 is closest in meaning to ____.",
+      "target": { "paragraph": 4, "text": "initiate" },
+      "options": {
+        "A": "control",
+        "B": "accelerate",
+        "C": "alter",
+        "D": "start"
+      },
+      "answer": "D",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án D. \"initiate\" nghĩa là khởi động, bắt đầu; \"To initiate reentry\" là để bắt đầu quá trình quay lại khí quyển, nên gần nghĩa nhất với \"start\" (bắt đầu). Nghĩa các từ: A control = điều khiển; B accelerate = tăng tốc (ngược với việc giảm tốc khi de-orbital burn); C alter = thay đổi; D start = bắt đầu.",
+      "evidence": [
+        { "paragraph": 4, "text": "To initiate reentry, spacecraft perform a maneuver called a de-orbital burn." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 8,
+      "type": "main-idea",
+      "stem": "What is the main purpose of the passage?",
+      "options": {
+        "A": "To explain why space missions are becoming increasingly expensive",
+        "B": "To describe the major challenges involved in launching spacecraft and bringing them back to Earth",
+        "C": "To compare manned and unmanned space missions",
+        "D": "To explain how astronauts prepare for space travel"
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B. Đoạn 1 nêu liftoff và reentry đặt ra \"the greatest science and engineering challenges\"; các đoạn sau lần lượt mô tả thách thức khi phóng (tốc độ, khối lượng tên lửa, vị trí phóng) và khi quay về (giảm tốc, góc vào, nhiệt). A sai vì bài không bàn chi phí ngày càng tăng. C sai vì \"manned or unmanned\" chỉ được nhắc qua, không so sánh. D sai vì bài không nói về việc phi hành gia chuẩn bị.",
+      "evidence": [
+        { "paragraph": 1, "text": "Liftoff and reentry not only represent the times of greatest danger during a space mission, they also present the greatest science and engineering challenges to the planners and organizers of a space mission." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 9,
+      "type": "detail",
+      "stem": "According to the passage, why do orbital missions generally require less velocity than interplanetary missions?",
+      "options": {
+        "A": "Orbital spacecraft are usually much smaller than interplanetary spacecraft.",
+        "B": "Orbital spacecraft do not need to completely escape Earth's gravitational pull.",
+        "C": "Interplanetary spacecraft are launched from locations farther from the equator.",
+        "D": "Orbital spacecraft use special engines to reduce gravitational forces."
+      },
+      "answer": "B",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án B. Đoạn 2 nói phần lớn sứ mệnh quỹ đạo \"do not require the spacecraft to completely escape Earth's gravitational pull\", chỉ cần đủ vận tốc để duy trì quỹ đạo. A sai vì bài không so sánh kích thước hai loại tàu. C sai vì bài nói gần như mọi bãi phóng đều đặt gần xích đạo, không phân biệt loại sứ mệnh. D sai vì bài không nhắc động cơ đặc biệt làm giảm trọng lực.",
+      "evidence": [
+        { "paragraph": 2, "text": "most orbital missions, like those to the International Space Station or the launching of a satellite, do not require the spacecraft to completely escape Earth's gravitational pull." }
+      ],
+      "status": "ok"
+    },
+    {
+      "n": 10,
+      "type": "inference",
+      "stem": "What can be inferred from the example of NASA's space shuttle and its rocket?",
+      "options": {
+        "A": "Most of the rocket's energy is used to carry the spacecraft itself.",
+        "B": "Spacecraft are generally heavier than the rockets that launch them.",
+        "C": "A significant amount of energy is required to lift the rocket's own mass into space.",
+        "D": "Larger spacecraft always require less fuel than smaller spacecraft."
+      },
+      "answer": "C",
+      "answerSource": "handwritten",
+      "needsReview": false,
+      "explanation": "Đáp án C. Tên lửa nặng gần 2.000.000 kg trong khi tàu chỉ 78.000 kg, và bài kết luận \"much of the rocket's energy is expended lifting the rocket into space\" — phần lớn năng lượng dùng để nâng chính khối lượng tên lửa. A ngược với bài (năng lượng chủ yếu dùng để nâng tên lửa, không phải tàu). B ngược với số liệu (tàu nhẹ hơn tên lửa rất nhiều). D sai vì bài nói tàu càng lớn càng cần nhiều nhiên liệu.",
+      "evidence": [
+        { "paragraph": 3, "text": "much of the rocket's energy is expended lifting the rocket into space, rather than simply the spacecraft that one wants to place in space." }
+      ],
+      "status": "ok"
+    }
+  ],
+  "notes": [
+    "Đề không có tiêu đề in sẵn; đã tự đặt tiêu đề tiếng Anh.",
+    "Đoạn 4 có chữ \"A\" (\"...planned carefully. A With the exception...\") và \"D\" (\"...during liftoff. D Once a spacecraft...\") lạc lõng — là marker sót, không có câu hỏi insert dùng chúng; đã bỏ.",
+    "Câu hỏi ghi số dòng (line 4, 7, 13, 23, 34) theo bản gốc; target được gán vào đoạn chứa từ tương ứng (maneuver: đoạn 1; velocity, this: đoạn 2; inefficient: đoạn 3; initiate: đoạn 4).",
+    "Câu 3 hỏi \"paragraph 2\" theo cách đếm của đề — ý về interplanetary missions nằm trong đoạn 2 của dữ liệu.",
+    "Bài trải trên ảnh IMG_9173 (đoạn 1 và đầu đoạn 2), IMG_9174 (phần còn lại, câu 1-2), IMG_9175 (câu 3-9), IMG_9176 (lựa chọn câu 9 và câu 10)."
+  ]
+}
