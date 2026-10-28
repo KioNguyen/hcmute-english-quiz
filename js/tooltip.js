@@ -1,5 +1,5 @@
 // Tooltip dịch từ khi nhấp đôi (desktop) hoặc nhấn giữ (mobile) trên vùng .translatable.
-import { translate } from "./dictionary.js";
+import { translate, preloadDictionary } from "./dictionary.js";
 import { escapeHtml } from "./render.js";
 
 const SOURCE_LABEL = { offline: "📖 từ điển", cache: "🌐 đã lưu", online: "🌐 online" };
@@ -75,6 +75,7 @@ function wordAtPoint(x, y) {
 
 export function initTooltip(root = document) {
   ensureTip();
+  preloadDictionary();
 
   root.addEventListener("dblclick", (e) => {
     if (!e.target.closest(".translatable")) return;

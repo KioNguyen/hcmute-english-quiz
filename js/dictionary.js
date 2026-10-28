@@ -6,6 +6,9 @@ import { getDictCache, setDictCache } from "./storage.js";
 let dictPromise = null;
 const getDict = () => (dictPromise ??= loadDictionary().catch(() => ({})));
 
+/** Tải sẵn từ điển để lần nhấp đôi đầu tiên không phải chờ. */
+export const preloadDictionary = () => { getDict(); };
+
 async function fetchOnline(word) {
   const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(word)}&langpair=en|vi`;
   const ctrl = new AbortController();
